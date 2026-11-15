@@ -39,6 +39,21 @@ uv pip install -r requirements.txt
 
 `uv venv`는 `.python-version` 파일을 읽어 Python 3.12를 자동으로 내려받습니다.
 
+## 따로 받아야 하는 자료
+
+아래 두 파일은 GitHub의 파일 크기 제한(100MB)을 넘어 저장소에 없습니다. 따로 공유받아 같은 경로에 넣어 주세요.
+
+| 파일 | 크기 | 쓰임 |
+| --- | --- | --- |
+| `data-NCS/NCS-DB(2026-02).xlsx` | 200MB | NCS 원자료. `clean_ncs.py` 실행에 필요합니다. |
+| `data-ONET/01_ONET_DB_31.0/json/work_context.json` | 171MB | 같은 내용이 `csv/work_context.csv`에 있어 없어도 됩니다. |
+
+NCS 원자료를 넣은 뒤 아래 명령으로 정제본 두 개를 만듭니다. 자세한 내용은 [METHOD.md](METHOD.md) 2절에 있습니다.
+
+```bash
+.venv/bin/python clean_ncs.py
+```
+
 ## 동작 확인
 
 ```bash

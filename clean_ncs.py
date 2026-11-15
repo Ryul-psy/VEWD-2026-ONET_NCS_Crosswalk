@@ -78,6 +78,10 @@ def clean_statement(text: str) -> str:
 
 
 def main() -> int:
+    if not SOURCE.exists():
+        print(f"NCS 원자료가 없습니다: {SOURCE.relative_to(ROOT)}")
+        print("이 파일은 저장소에 없습니다. 따로 공유받아 위 경로에 넣어 주세요.")
+        return 1
     workbook = openpyxl.load_workbook(SOURCE, read_only=True)
     seen: dict[str, str] = {}
     listed_under: dict[str, str] = {}
