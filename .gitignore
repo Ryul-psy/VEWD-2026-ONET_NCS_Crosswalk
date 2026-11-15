@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# clean_ncs.py가 다시 만드는 정제본
+data-NCS/ncs_performance_criteria.csv
+data-NCS/ncs_ksa_criteria.csv
