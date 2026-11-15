@@ -1,0 +1,250 @@
+{
+  "table_id": "education_categories",
+  "title": "Education Categories",
+  "description": "Provide descriptions of the Education percent frequency categories.",
+  "data_dictionary": "https://www.onetcenter.org/dictionary/31.0/json/education_categories.html",
+  "column": [
+    {
+      "column_id": "element_id",
+      "optional": false,
+      "title": "Element ID",
+      "description": "Content Model Outline Position",
+      "type": "Text",
+      "format": "Character Varying(20)"
+    },
+    {
+      "column_id": "element_name",
+      "optional": false,
+      "title": "Element Name",
+      "description": "Content Model Element Name",
+      "type": "Text",
+      "format": "Character Varying(150)"
+    },
+    {
+      "column_id": "scale_id",
+      "optional": false,
+      "title": "Scale ID",
+      "description": "Scale ID",
+      "type": "Text",
+      "format": "Character Varying(3)"
+    },
+    {
+      "column_id": "scale_name",
+      "optional": false,
+      "title": "Scale Name",
+      "description": "Scale Name",
+      "type": "Text",
+      "format": "Character Varying(50)"
+    },
+    {
+      "column_id": "category",
+      "optional": false,
+      "title": "Category",
+      "description": "Category value associated with element",
+      "type": "Number",
+      "format": "Integer(3)"
+    },
+    {
+      "column_id": "category_description",
+      "optional": false,
+      "title": "Category Description",
+      "description": "Detail description of category associated with element",
+      "type": "Text",
+      "format": "Character Varying(1000)"
+    }
+  ],
+  "row": [
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 1,
+      "category_description": "Less than a High School Diploma"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 2,
+      "category_description": "High School Diploma or the equivalent (such as a GED)"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 3,
+      "category_description": "Post-Secondary Certificate"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 4,
+      "category_description": "Some College Courses"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 5,
+      "category_description": "Associate's Degree or other 2-year degree"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 6,
+      "category_description": "Bachelor's Degree"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 7,
+      "category_description": "Post-Baccalaureate Certificate"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 8,
+      "category_description": "Master's Degree"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 9,
+      "category_description": "Post-Master's Certificate"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 10,
+      "category_description": "First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession."
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 11,
+      "category_description": "Doctoral Degree"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 12,
+      "category_description": "Post-Doctoral Training"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 1,
+      "category_description": "Less than a High School Diploma"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 2,
+      "category_description": "High School Diploma or the equivalent (such as a GED)"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 3,
+      "category_description": "Post-Secondary Certificate"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 4,
+      "category_description": "Some College Courses"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 5,
+      "category_description": "Associate's Degree or other 2-year degree"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 6,
+      "category_description": "Bachelor's Degree"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 7,
+      "category_description": "Post-Baccalaureate Certificate"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 8,
+      "category_description": "Master's Degree"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 9,
+      "category_description": "Post-Master's Certificate"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 10,
+      "category_description": "Doctor's Degree - Professional Practice (such as a J.D. for Law or an M.D. for Medicine)"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 11,
+      "category_description": "Doctor's Degree - Research/Scholarship (such as a Ph.D.)"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "scale_id": "RQ",
+      "scale_name": "Required Level Of Education (Categories 1-12)",
+      "category": 12,
+      "category_description": "Post-Doctoral Training"
+    }
+  ]
+}

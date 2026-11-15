@@ -1,0 +1,290 @@
+{
+  "table_id": "training_and_experience_categories",
+  "title": "Training and Experience Categories",
+  "description": "Provide descriptions of the Training and Experience percent frequency categories.",
+  "data_dictionary": "https://www.onetcenter.org/dictionary/31.0/json/training_and_experience_categories.html",
+  "column": [
+    {
+      "column_id": "element_id",
+      "optional": false,
+      "title": "Element ID",
+      "description": "Content Model Outline Position",
+      "type": "Text",
+      "format": "Character Varying(20)"
+    },
+    {
+      "column_id": "element_name",
+      "optional": false,
+      "title": "Element Name",
+      "description": "Content Model Element Name",
+      "type": "Text",
+      "format": "Character Varying(150)"
+    },
+    {
+      "column_id": "scale_id",
+      "optional": false,
+      "title": "Scale ID",
+      "description": "Scale ID",
+      "type": "Text",
+      "format": "Character Varying(3)"
+    },
+    {
+      "column_id": "scale_name",
+      "optional": false,
+      "title": "Scale Name",
+      "description": "Scale Name",
+      "type": "Text",
+      "format": "Character Varying(50)"
+    },
+    {
+      "column_id": "category",
+      "optional": false,
+      "title": "Category",
+      "description": "Category value associated with element",
+      "type": "Number",
+      "format": "Integer(3)"
+    },
+    {
+      "column_id": "category_description",
+      "optional": false,
+      "title": "Category Description",
+      "description": "Detail description of category associated with element",
+      "type": "Text",
+      "format": "Character Varying(1000)"
+    }
+  ],
+  "row": [
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 1,
+      "category_description": "None"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 2,
+      "category_description": "Up to and including 1 month"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 3,
+      "category_description": "Over 1 month, up to and including 3 months"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 4,
+      "category_description": "Over 3 months, up to and including 6 months"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 5,
+      "category_description": "Over 6 months, up to and including 1 year"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 6,
+      "category_description": "Over 1 year, up to and including 2 years"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 7,
+      "category_description": "Over 2 years, up to and including 4 years"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 8,
+      "category_description": "Over 4 years, up to and including 6 years"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 9,
+      "category_description": "Over 6 years, up to and including 8 years"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 10,
+      "category_description": "Over 8 years, up to and including 10 years"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)",
+      "category": 11,
+      "category_description": "Over 10 years"
+    },
+    {
+      "element_id": "3.A.2",
+      "element_name": "On-Site or In-Plant Training",
+      "scale_id": "PT",
+      "scale_name": "On-Site Or In-Plant Training (Categories 1-9)",
+      "category": 1,
+      "category_description": "None"
+    },
+    {
+      "element_id": "3.A.2",
+      "element_name": "On-Site or In-Plant Training",
+      "scale_id": "PT",
+      "scale_name": "On-Site Or In-Plant Training (Categories 1-9)",
+      "category": 2,
+      "category_description": "Up to and including 1 month"
+    },
+    {
+      "element_id": "3.A.2",
+      "element_name": "On-Site or In-Plant Training",
+      "scale_id": "PT",
+      "scale_name": "On-Site Or In-Plant Training (Categories 1-9)",
+      "category": 3,
+      "category_description": "Over 1 month, up to and including 3 months"
+    },
+    {
+      "element_id": "3.A.2",
+      "element_name": "On-Site or In-Plant Training",
+      "scale_id": "PT",
+      "scale_name": "On-Site Or In-Plant Training (Categories 1-9)",
+      "category": 4,
+      "category_description": "Over 3 months, up to and including 6 months"
+    },
+    {
+      "element_id": "3.A.2",
+      "element_name": "On-Site or In-Plant Training",
+      "scale_id": "PT",
+      "scale_name": "On-Site Or In-Plant Training (Categories 1-9)",
+      "category": 5,
+      "category_description": "Over 6 months, up to and including 1 year"
+    },
+    {
+      "element_id": "3.A.2",
+      "element_name": "On-Site or In-Plant Training",
+      "scale_id": "PT",
+      "scale_name": "On-Site Or In-Plant Training (Categories 1-9)",
+      "category": 6,
+      "category_description": "Over 1 year, up to and including 2 years"
+    },
+    {
+      "element_id": "3.A.2",
+      "element_name": "On-Site or In-Plant Training",
+      "scale_id": "PT",
+      "scale_name": "On-Site Or In-Plant Training (Categories 1-9)",
+      "category": 7,
+      "category_description": "Over 2 years, up to and including 4 years"
+    },
+    {
+      "element_id": "3.A.2",
+      "element_name": "On-Site or In-Plant Training",
+      "scale_id": "PT",
+      "scale_name": "On-Site Or In-Plant Training (Categories 1-9)",
+      "category": 8,
+      "category_description": "Over 4 years, up to and including 10 years"
+    },
+    {
+      "element_id": "3.A.2",
+      "element_name": "On-Site or In-Plant Training",
+      "scale_id": "PT",
+      "scale_name": "On-Site Or In-Plant Training (Categories 1-9)",
+      "category": 9,
+      "category_description": "Over 10 years"
+    },
+    {
+      "element_id": "3.A.3",
+      "element_name": "On-the-Job Training",
+      "scale_id": "OJ",
+      "scale_name": "On-The-Job Training (Categories 1-9)",
+      "category": 1,
+      "category_description": "None or short demonstration"
+    },
+    {
+      "element_id": "3.A.3",
+      "element_name": "On-the-Job Training",
+      "scale_id": "OJ",
+      "scale_name": "On-The-Job Training (Categories 1-9)",
+      "category": 2,
+      "category_description": "Anything beyond short demonstration, up to and including 1 month"
+    },
+    {
+      "element_id": "3.A.3",
+      "element_name": "On-the-Job Training",
+      "scale_id": "OJ",
+      "scale_name": "On-The-Job Training (Categories 1-9)",
+      "category": 3,
+      "category_description": "Over 1 month, up to and including 3 months"
+    },
+    {
+      "element_id": "3.A.3",
+      "element_name": "On-the-Job Training",
+      "scale_id": "OJ",
+      "scale_name": "On-The-Job Training (Categories 1-9)",
+      "category": 4,
+      "category_description": "Over 3 months, up to and including 6 months"
+    },
+    {
+      "element_id": "3.A.3",
+      "element_name": "On-the-Job Training",
+      "scale_id": "OJ",
+      "scale_name": "On-The-Job Training (Categories 1-9)",
+      "category": 5,
+      "category_description": "Over 6 months, up to and including 1 year"
+    },
+    {
+      "element_id": "3.A.3",
+      "element_name": "On-the-Job Training",
+      "scale_id": "OJ",
+      "scale_name": "On-The-Job Training (Categories 1-9)",
+      "category": 6,
+      "category_description": "Over 1 year, up to and including 2 years"
+    },
+    {
+      "element_id": "3.A.3",
+      "element_name": "On-the-Job Training",
+      "scale_id": "OJ",
+      "scale_name": "On-The-Job Training (Categories 1-9)",
+      "category": 7,
+      "category_description": "Over 2 years, up to and including 4 years"
+    },
+    {
+      "element_id": "3.A.3",
+      "element_name": "On-the-Job Training",
+      "scale_id": "OJ",
+      "scale_name": "On-The-Job Training (Categories 1-9)",
+      "category": 8,
+      "category_description": "Over 4 years, up to and including 10 years"
+    },
+    {
+      "element_id": "3.A.3",
+      "element_name": "On-the-Job Training",
+      "scale_id": "OJ",
+      "scale_name": "On-The-Job Training (Categories 1-9)",
+      "category": 9,
+      "category_description": "Over 10 years"
+    }
+  ]
+}

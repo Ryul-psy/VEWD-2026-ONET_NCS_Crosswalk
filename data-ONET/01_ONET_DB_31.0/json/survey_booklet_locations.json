@@ -1,0 +1,1527 @@
+{
+  "table_id": "survey_booklet_locations",
+  "title": "Survey Booklet Locations",
+  "description": "Provide survey item numbers for O*NET Content Model elements.",
+  "data_dictionary": "https://www.onetcenter.org/dictionary/31.0/json/survey_booklet_locations.html",
+  "column": [
+    {
+      "column_id": "element_id",
+      "optional": false,
+      "title": "Element ID",
+      "description": "Content Model Outline Position",
+      "type": "Text",
+      "format": "Character Varying(20)"
+    },
+    {
+      "column_id": "element_name",
+      "optional": false,
+      "title": "Element Name",
+      "description": "Content Model Element Name",
+      "type": "Text",
+      "format": "Character Varying(150)"
+    },
+    {
+      "column_id": "survey_item_number",
+      "optional": false,
+      "title": "Survey Item Number",
+      "description": "Survey Booklet Location Number",
+      "type": "Text",
+      "format": "Character Varying(5)"
+    },
+    {
+      "column_id": "scale_id",
+      "optional": false,
+      "title": "Scale ID",
+      "description": "Scale ID",
+      "type": "Text",
+      "format": "Character Varying(3)"
+    },
+    {
+      "column_id": "scale_name",
+      "optional": false,
+      "title": "Scale Name",
+      "description": "Scale Name",
+      "type": "Text",
+      "format": "Character Varying(50)"
+    }
+  ],
+  "row": [
+    {
+      "element_id": "2.C.1.a",
+      "element_name": "Administration and Management",
+      "survey_item_number": "KN01",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.1.a",
+      "element_name": "Administration and Management",
+      "survey_item_number": "KN01b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.1.b",
+      "element_name": "Administrative",
+      "survey_item_number": "KN02",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.1.b",
+      "element_name": "Administrative",
+      "survey_item_number": "KN02b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.1.c",
+      "element_name": "Economics and Accounting",
+      "survey_item_number": "KN03",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.1.c",
+      "element_name": "Economics and Accounting",
+      "survey_item_number": "KN03b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.1.d",
+      "element_name": "Sales and Marketing",
+      "survey_item_number": "KN04",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.1.d",
+      "element_name": "Sales and Marketing",
+      "survey_item_number": "KN04b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.1.e",
+      "element_name": "Customer and Personal Service",
+      "survey_item_number": "KN05",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.1.e",
+      "element_name": "Customer and Personal Service",
+      "survey_item_number": "KN05b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.1.f",
+      "element_name": "Personnel and Human Resources",
+      "survey_item_number": "KN06",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.1.f",
+      "element_name": "Personnel and Human Resources",
+      "survey_item_number": "KN06b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.2.a",
+      "element_name": "Production and Processing",
+      "survey_item_number": "KN07",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.2.a",
+      "element_name": "Production and Processing",
+      "survey_item_number": "KN07b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.2.b",
+      "element_name": "Food Production",
+      "survey_item_number": "KN08",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.2.b",
+      "element_name": "Food Production",
+      "survey_item_number": "KN08b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.3.a",
+      "element_name": "Computers and Electronics",
+      "survey_item_number": "KN09",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.3.a",
+      "element_name": "Computers and Electronics",
+      "survey_item_number": "KN09b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.3.b",
+      "element_name": "Engineering and Technology",
+      "survey_item_number": "KN10",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.3.b",
+      "element_name": "Engineering and Technology",
+      "survey_item_number": "KN10b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.3.c",
+      "element_name": "Design",
+      "survey_item_number": "KN11",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.3.c",
+      "element_name": "Design",
+      "survey_item_number": "KN11b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.3.d",
+      "element_name": "Building and Construction",
+      "survey_item_number": "KN12",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.3.d",
+      "element_name": "Building and Construction",
+      "survey_item_number": "KN12b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.3.e",
+      "element_name": "Mechanical",
+      "survey_item_number": "KN13",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.3.e",
+      "element_name": "Mechanical",
+      "survey_item_number": "KN13b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.4.a",
+      "element_name": "Mathematics",
+      "survey_item_number": "KN14",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.4.a",
+      "element_name": "Mathematics",
+      "survey_item_number": "KN14b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.4.b",
+      "element_name": "Physics",
+      "survey_item_number": "KN15",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.4.b",
+      "element_name": "Physics",
+      "survey_item_number": "KN15b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.4.c",
+      "element_name": "Chemistry",
+      "survey_item_number": "KN16",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.4.c",
+      "element_name": "Chemistry",
+      "survey_item_number": "KN16b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.4.d",
+      "element_name": "Biology",
+      "survey_item_number": "KN17",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.4.d",
+      "element_name": "Biology",
+      "survey_item_number": "KN17b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.4.e",
+      "element_name": "Psychology",
+      "survey_item_number": "KN18",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.4.e",
+      "element_name": "Psychology",
+      "survey_item_number": "KN18b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.4.f",
+      "element_name": "Sociology and Anthropology",
+      "survey_item_number": "KN19",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.4.f",
+      "element_name": "Sociology and Anthropology",
+      "survey_item_number": "KN19b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.4.g",
+      "element_name": "Geography",
+      "survey_item_number": "KN20",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.4.g",
+      "element_name": "Geography",
+      "survey_item_number": "KN20b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.5.a",
+      "element_name": "Medicine and Dentistry",
+      "survey_item_number": "KN21",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.5.a",
+      "element_name": "Medicine and Dentistry",
+      "survey_item_number": "KN21b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.5.b",
+      "element_name": "Therapy and Counseling",
+      "survey_item_number": "KN22",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.5.b",
+      "element_name": "Therapy and Counseling",
+      "survey_item_number": "KN22b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.6",
+      "element_name": "Education and Training",
+      "survey_item_number": "KN23",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.6",
+      "element_name": "Education and Training",
+      "survey_item_number": "KN23b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.7.a",
+      "element_name": "English Language",
+      "survey_item_number": "KN24",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.7.a",
+      "element_name": "English Language",
+      "survey_item_number": "KN24b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.7.b",
+      "element_name": "Foreign Language",
+      "survey_item_number": "KN25",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.7.b",
+      "element_name": "Foreign Language",
+      "survey_item_number": "KN25b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.7.c",
+      "element_name": "Fine Arts",
+      "survey_item_number": "KN26",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.7.c",
+      "element_name": "Fine Arts",
+      "survey_item_number": "KN26b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.7.d",
+      "element_name": "History and Archeology",
+      "survey_item_number": "KN27",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.7.d",
+      "element_name": "History and Archeology",
+      "survey_item_number": "KN27b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.7.e",
+      "element_name": "Philosophy and Theology",
+      "survey_item_number": "KN28",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.7.e",
+      "element_name": "Philosophy and Theology",
+      "survey_item_number": "KN28b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.8.a",
+      "element_name": "Public Safety and Security",
+      "survey_item_number": "KN29",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.8.a",
+      "element_name": "Public Safety and Security",
+      "survey_item_number": "KN29b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.8.b",
+      "element_name": "Law and Government",
+      "survey_item_number": "KN30",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.8.b",
+      "element_name": "Law and Government",
+      "survey_item_number": "KN30b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.9.a",
+      "element_name": "Telecommunications",
+      "survey_item_number": "KN31",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.9.a",
+      "element_name": "Telecommunications",
+      "survey_item_number": "KN31b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.9.b",
+      "element_name": "Communications and Media",
+      "survey_item_number": "KN32",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.9.b",
+      "element_name": "Communications and Media",
+      "survey_item_number": "KN32b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.C.10",
+      "element_name": "Transportation",
+      "survey_item_number": "KN33",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "2.C.10",
+      "element_name": "Transportation",
+      "survey_item_number": "KN33b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "2.D.1",
+      "element_name": "Required Level of Education",
+      "survey_item_number": "KN34",
+      "scale_id": "RL",
+      "scale_name": "Required Level Of Education (Categories 1-12)"
+    },
+    {
+      "element_id": "2.D.4.a",
+      "element_name": "Job-Related Professional Certification",
+      "survey_item_number": "KN38a",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "3.A.1",
+      "element_name": "Related Work Experience",
+      "survey_item_number": "KN35",
+      "scale_id": "RW",
+      "scale_name": "Related Work Experience (Categories 1-11)"
+    },
+    {
+      "element_id": "3.A.2",
+      "element_name": "On-Site or In-Plant Training",
+      "survey_item_number": "KN36",
+      "scale_id": "PT",
+      "scale_name": "On-Site Or In-Plant Training (Categories 1-9)"
+    },
+    {
+      "element_id": "3.A.3",
+      "element_name": "On-the-Job Training",
+      "survey_item_number": "KN37",
+      "scale_id": "OJ",
+      "scale_name": "On-The-Job Training (Categories 1-9)"
+    },
+    {
+      "element_id": "3.A.4.a",
+      "element_name": "Job-related Apprenticeship",
+      "survey_item_number": "KN38b",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.1.a.1",
+      "element_name": "Getting Information",
+      "survey_item_number": "GW01",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.1.a.1",
+      "element_name": "Getting Information",
+      "survey_item_number": "GW01b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.1.a.2",
+      "element_name": "Monitoring Processes, Materials, or Surroundings",
+      "survey_item_number": "GW03",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.1.a.2",
+      "element_name": "Monitoring Processes, Materials, or Surroundings",
+      "survey_item_number": "GW03b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.1.b.1",
+      "element_name": "Identifying Objects, Actions, and Events",
+      "survey_item_number": "GW02",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.1.b.1",
+      "element_name": "Identifying Objects, Actions, and Events",
+      "survey_item_number": "GW02b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.1.b.2",
+      "element_name": "Inspecting Equipment, Structures, or Materials",
+      "survey_item_number": "GW04",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.1.b.2",
+      "element_name": "Inspecting Equipment, Structures, or Materials",
+      "survey_item_number": "GW04b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.1.b.3",
+      "element_name": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+      "survey_item_number": "GW05",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.1.b.3",
+      "element_name": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+      "survey_item_number": "GW05b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.2.a.1",
+      "element_name": "Judging the Qualities of Objects, Services, or People",
+      "survey_item_number": "GW06",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.2.a.1",
+      "element_name": "Judging the Qualities of Objects, Services, or People",
+      "survey_item_number": "GW06b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.2.a.2",
+      "element_name": "Processing Information",
+      "survey_item_number": "GW08",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.2.a.2",
+      "element_name": "Processing Information",
+      "survey_item_number": "GW08b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.2.a.3",
+      "element_name": "Evaluating Information to Determine Compliance with Standards",
+      "survey_item_number": "GW07",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.2.a.3",
+      "element_name": "Evaluating Information to Determine Compliance with Standards",
+      "survey_item_number": "GW07b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.2.a.4",
+      "element_name": "Analyzing Data or Information",
+      "survey_item_number": "GW09",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.2.a.4",
+      "element_name": "Analyzing Data or Information",
+      "survey_item_number": "GW09b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.2.b.1",
+      "element_name": "Making Decisions and Solving Problems",
+      "survey_item_number": "GW10",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.2.b.1",
+      "element_name": "Making Decisions and Solving Problems",
+      "survey_item_number": "GW10b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.2.b.2",
+      "element_name": "Thinking Creatively",
+      "survey_item_number": "GW11",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.2.b.2",
+      "element_name": "Thinking Creatively",
+      "survey_item_number": "GW11b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.2.b.3",
+      "element_name": "Updating and Using Relevant Knowledge",
+      "survey_item_number": "GW12",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.2.b.3",
+      "element_name": "Updating and Using Relevant Knowledge",
+      "survey_item_number": "GW12b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.2.b.4",
+      "element_name": "Developing Objectives and Strategies",
+      "survey_item_number": "GW13",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.2.b.4",
+      "element_name": "Developing Objectives and Strategies",
+      "survey_item_number": "GW13b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.2.b.5",
+      "element_name": "Scheduling Work and Activities",
+      "survey_item_number": "GW14",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.2.b.5",
+      "element_name": "Scheduling Work and Activities",
+      "survey_item_number": "GW14b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.2.b.6",
+      "element_name": "Organizing, Planning, and Prioritizing Work",
+      "survey_item_number": "GW15",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.2.b.6",
+      "element_name": "Organizing, Planning, and Prioritizing Work",
+      "survey_item_number": "GW15b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.3.a.1",
+      "element_name": "Performing General Physical Activities",
+      "survey_item_number": "GW16",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.3.a.1",
+      "element_name": "Performing General Physical Activities",
+      "survey_item_number": "GW16b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.3.a.2",
+      "element_name": "Handling and Moving Objects",
+      "survey_item_number": "GW17",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.3.a.2",
+      "element_name": "Handling and Moving Objects",
+      "survey_item_number": "GW17b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.3.a.3",
+      "element_name": "Controlling Machines and Processes",
+      "survey_item_number": "GW18",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.3.a.3",
+      "element_name": "Controlling Machines and Processes",
+      "survey_item_number": "GW18b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.3.a.4",
+      "element_name": "Operating Vehicles, Mechanized Devices, or Equipment",
+      "survey_item_number": "GW20",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.3.a.4",
+      "element_name": "Operating Vehicles, Mechanized Devices, or Equipment",
+      "survey_item_number": "GW20b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.3.b.1",
+      "element_name": "Working with Computers",
+      "survey_item_number": "GW19",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.3.b.1",
+      "element_name": "Working with Computers",
+      "survey_item_number": "GW19b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.3.b.2",
+      "element_name": "Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",
+      "survey_item_number": "GW21",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.3.b.2",
+      "element_name": "Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",
+      "survey_item_number": "GW21b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.3.b.4",
+      "element_name": "Repairing and Maintaining Mechanical Equipment",
+      "survey_item_number": "GW22",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.3.b.4",
+      "element_name": "Repairing and Maintaining Mechanical Equipment",
+      "survey_item_number": "GW22b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.3.b.5",
+      "element_name": "Repairing and Maintaining Electronic Equipment",
+      "survey_item_number": "GW23",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.3.b.5",
+      "element_name": "Repairing and Maintaining Electronic Equipment",
+      "survey_item_number": "GW23b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.3.b.6",
+      "element_name": "Documenting/Recording Information",
+      "survey_item_number": "GW24",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.3.b.6",
+      "element_name": "Documenting/Recording Information",
+      "survey_item_number": "GW24b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.a.1",
+      "element_name": "Interpreting the Meaning of Information for Others",
+      "survey_item_number": "GW25",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.a.1",
+      "element_name": "Interpreting the Meaning of Information for Others",
+      "survey_item_number": "GW25b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.a.2",
+      "element_name": "Communicating with Supervisors, Peers, or Subordinates",
+      "survey_item_number": "GW26",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.a.2",
+      "element_name": "Communicating with Supervisors, Peers, or Subordinates",
+      "survey_item_number": "GW26b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.a.3",
+      "element_name": "Communicating with People Outside the Organization",
+      "survey_item_number": "GW27",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.a.3",
+      "element_name": "Communicating with People Outside the Organization",
+      "survey_item_number": "GW27b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.a.4",
+      "element_name": "Establishing and Maintaining Interpersonal Relationships",
+      "survey_item_number": "GW28",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.a.4",
+      "element_name": "Establishing and Maintaining Interpersonal Relationships",
+      "survey_item_number": "GW28b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.a.5",
+      "element_name": "Assisting and Caring for Others",
+      "survey_item_number": "GW29",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.a.5",
+      "element_name": "Assisting and Caring for Others",
+      "survey_item_number": "GW29b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.a.6",
+      "element_name": "Selling or Influencing Others",
+      "survey_item_number": "GW30",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.a.6",
+      "element_name": "Selling or Influencing Others",
+      "survey_item_number": "GW30b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.a.7",
+      "element_name": "Resolving Conflicts and Negotiating with Others",
+      "survey_item_number": "GW31",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.a.7",
+      "element_name": "Resolving Conflicts and Negotiating with Others",
+      "survey_item_number": "GW31b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.a.8",
+      "element_name": "Performing for or Working Directly with the Public",
+      "survey_item_number": "GW32",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.a.8",
+      "element_name": "Performing for or Working Directly with the Public",
+      "survey_item_number": "GW32b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.b.1",
+      "element_name": "Coordinating the Work and Activities of Others",
+      "survey_item_number": "GW33",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.b.1",
+      "element_name": "Coordinating the Work and Activities of Others",
+      "survey_item_number": "GW33b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.b.2",
+      "element_name": "Developing and Building Teams",
+      "survey_item_number": "GW34",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.b.2",
+      "element_name": "Developing and Building Teams",
+      "survey_item_number": "GW34b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.b.3",
+      "element_name": "Training and Teaching Others",
+      "survey_item_number": "GW35",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.b.3",
+      "element_name": "Training and Teaching Others",
+      "survey_item_number": "GW35b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.b.4",
+      "element_name": "Guiding, Directing, and Motivating Subordinates",
+      "survey_item_number": "GW36",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.b.4",
+      "element_name": "Guiding, Directing, and Motivating Subordinates",
+      "survey_item_number": "GW36b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.b.5",
+      "element_name": "Coaching and Developing Others",
+      "survey_item_number": "GW37",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.b.5",
+      "element_name": "Coaching and Developing Others",
+      "survey_item_number": "GW37b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.b.6",
+      "element_name": "Providing Consultation and Advice to Others",
+      "survey_item_number": "GW38",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.b.6",
+      "element_name": "Providing Consultation and Advice to Others",
+      "survey_item_number": "GW38b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.c.1",
+      "element_name": "Performing Administrative Activities",
+      "survey_item_number": "GW39",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.c.1",
+      "element_name": "Performing Administrative Activities",
+      "survey_item_number": "GW39b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.c.2",
+      "element_name": "Staffing Organizational Units",
+      "survey_item_number": "GW40",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.c.2",
+      "element_name": "Staffing Organizational Units",
+      "survey_item_number": "GW40b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.A.4.c.3",
+      "element_name": "Monitoring and Controlling Resources",
+      "survey_item_number": "GW41",
+      "scale_id": "IM",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.A.4.c.3",
+      "element_name": "Monitoring and Controlling Resources",
+      "survey_item_number": "GW41b",
+      "scale_id": "LV",
+      "scale_name": "Level"
+    },
+    {
+      "element_id": "4.C.1.a.2.c",
+      "element_name": "Public Speaking",
+      "survey_item_number": "WC01b",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.1.a.2.f",
+      "element_name": "Telephone Conversations",
+      "survey_item_number": "WC01c",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.1.a.2.h",
+      "element_name": "E-Mail",
+      "survey_item_number": "WC01d",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.1.a.2.j",
+      "element_name": "Written Letters and Memos",
+      "survey_item_number": "WC01e",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.1.a.2.l",
+      "element_name": "Face-to-Face Discussions with Individuals and Within Teams",
+      "survey_item_number": "WC01a",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.1.a.4",
+      "element_name": "Contact With Others",
+      "survey_item_number": "WC02",
+      "scale_id": "CN",
+      "scale_name": "Amount of Contact"
+    },
+    {
+      "element_id": "4.C.1.b.1.e",
+      "element_name": "Work With or Contribute to a Work Group or Team",
+      "survey_item_number": "WC03a",
+      "scale_id": "IJ",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.C.1.b.1.f",
+      "element_name": "Deal With External Customers or the Public in General",
+      "survey_item_number": "WC03b",
+      "scale_id": "IJ",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.C.1.b.1.g",
+      "element_name": "Coordinate or Lead Others in Accomplishing Work Activities",
+      "survey_item_number": "WC03c",
+      "scale_id": "IJ",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.C.1.c.1",
+      "element_name": "Health and Safety of Other Workers",
+      "survey_item_number": "WC04a",
+      "scale_id": "RE",
+      "scale_name": "Responsibility"
+    },
+    {
+      "element_id": "4.C.1.c.2",
+      "element_name": "Work Outcomes and Results of Other Workers",
+      "survey_item_number": "WC04b",
+      "scale_id": "RE",
+      "scale_name": "Responsibility"
+    },
+    {
+      "element_id": "4.C.1.d.1",
+      "element_name": "Conflict Situations",
+      "survey_item_number": "WC05a",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.1.d.2",
+      "element_name": "Dealing With Unpleasant, Angry, or Discourteous People",
+      "survey_item_number": "WC05b",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.1.d.3",
+      "element_name": "Dealing with Violent or Physically Aggressive People",
+      "survey_item_number": "WC05c",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.a.1.a",
+      "element_name": "Indoors, Environmentally Controlled",
+      "survey_item_number": "WC06a",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.a.1.b",
+      "element_name": "Indoors, Not Environmentally Controlled",
+      "survey_item_number": "WC06b",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.a.1.c",
+      "element_name": "Outdoors, Exposed to All Weather Conditions",
+      "survey_item_number": "WC06c",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.a.1.d",
+      "element_name": "Outdoors, Under Cover",
+      "survey_item_number": "WC06d",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.a.1.e",
+      "element_name": "In an Open Vehicle or Operating Equipment",
+      "survey_item_number": "WC06e",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.a.1.f",
+      "element_name": "In an Enclosed Vehicle or Operate Enclosed Equipment",
+      "survey_item_number": "WC06f",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.a.3",
+      "element_name": "Physical Proximity",
+      "survey_item_number": "WC07",
+      "scale_id": "PX",
+      "scale_name": "Proximity"
+    },
+    {
+      "element_id": "4.C.2.b.1.a",
+      "element_name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+      "survey_item_number": "WC08a",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.b.1.b",
+      "element_name": "Exposed to Very Hot or Cold Temperatures",
+      "survey_item_number": "WC08b",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.b.1.c",
+      "element_name": "Exposed to Extremely Bright or Inadequate Lighting Conditions",
+      "survey_item_number": "WC08c",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.b.1.d",
+      "element_name": "Exposed to Contaminants",
+      "survey_item_number": "WC08d",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.b.1.e",
+      "element_name": "Exposed to Cramped Work Space, Awkward Positions",
+      "survey_item_number": "WC08e",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.b.1.f",
+      "element_name": "Exposed to Whole Body Vibration",
+      "survey_item_number": "WC08f",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.c.1.a",
+      "element_name": "Exposed to Radiation",
+      "survey_item_number": "WC09a",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.c.1.b",
+      "element_name": "Exposed to Disease or Infections",
+      "survey_item_number": "WC09b",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.c.1.c",
+      "element_name": "Exposed to High Places",
+      "survey_item_number": "WC09c",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.c.1.d",
+      "element_name": "Exposed to Hazardous Conditions",
+      "survey_item_number": "WC09d",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.c.1.e",
+      "element_name": "Exposed to Hazardous Equipment",
+      "survey_item_number": "WC09e",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.c.1.f",
+      "element_name": "Exposed to Minor Burns, Cuts, Bites, or Stings",
+      "survey_item_number": "WC09f",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.d.1.a",
+      "element_name": "Spend Time Sitting",
+      "survey_item_number": "WC10a",
+      "scale_id": "TI",
+      "scale_name": "% Time"
+    },
+    {
+      "element_id": "4.C.2.d.1.b",
+      "element_name": "Spend Time Standing",
+      "survey_item_number": "WC10b",
+      "scale_id": "TI",
+      "scale_name": "% Time"
+    },
+    {
+      "element_id": "4.C.2.d.1.c",
+      "element_name": "Spend Time Climbing Ladders, Scaffolds, or Poles",
+      "survey_item_number": "WC10c",
+      "scale_id": "TI",
+      "scale_name": "% Time"
+    },
+    {
+      "element_id": "4.C.2.d.1.d",
+      "element_name": "Spend Time Walking or Running",
+      "survey_item_number": "WC10d",
+      "scale_id": "TI",
+      "scale_name": "% Time"
+    },
+    {
+      "element_id": "4.C.2.d.1.e",
+      "element_name": "Spend Time Kneeling, Crouching, Stooping, or Crawling",
+      "survey_item_number": "WC10e",
+      "scale_id": "TI",
+      "scale_name": "% Time"
+    },
+    {
+      "element_id": "4.C.2.d.1.f",
+      "element_name": "Spend Time Keeping or Regaining Balance",
+      "survey_item_number": "WC11a",
+      "scale_id": "TI",
+      "scale_name": "% Time"
+    },
+    {
+      "element_id": "4.C.2.d.1.g",
+      "element_name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+      "survey_item_number": "WC11b",
+      "scale_id": "TI",
+      "scale_name": "% Time"
+    },
+    {
+      "element_id": "4.C.2.d.1.h",
+      "element_name": "Spend Time Bending or Twisting Your Body",
+      "survey_item_number": "WC11c",
+      "scale_id": "TI",
+      "scale_name": "% Time"
+    },
+    {
+      "element_id": "4.C.2.d.1.i",
+      "element_name": "Spend Time Making Repetitive Motions",
+      "survey_item_number": "WC11d",
+      "scale_id": "TI",
+      "scale_name": "% Time"
+    },
+    {
+      "element_id": "4.C.2.e.1.d",
+      "element_name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+      "survey_item_number": "WC12a",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.2.e.1.e",
+      "element_name": "Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",
+      "survey_item_number": "WC12b",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.3.a.1",
+      "element_name": "Consequence of Error",
+      "survey_item_number": "WC13",
+      "scale_id": "SR",
+      "scale_name": "How Serious"
+    },
+    {
+      "element_id": "4.C.3.a.2.a",
+      "element_name": "Impact of Decisions on Co-workers or Company Results",
+      "survey_item_number": "WC14",
+      "scale_id": "IP",
+      "scale_name": "Impact of Decisions"
+    },
+    {
+      "element_id": "4.C.3.a.2.b",
+      "element_name": "Frequency of Decision Making",
+      "survey_item_number": "WC15",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.3.a.4",
+      "element_name": "Freedom to Make Decisions",
+      "survey_item_number": "WC16",
+      "scale_id": "FM",
+      "scale_name": "Amount of Freedom"
+    },
+    {
+      "element_id": "4.C.3.b.2",
+      "element_name": "Degree of Automation",
+      "survey_item_number": "WC17",
+      "scale_id": "AO",
+      "scale_name": "Automation"
+    },
+    {
+      "element_id": "4.C.3.b.4",
+      "element_name": "Importance of Being Exact or Accurate",
+      "survey_item_number": "WC18",
+      "scale_id": "IJ",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.C.3.b.7",
+      "element_name": "Importance of Repeating Same Tasks",
+      "survey_item_number": "WC19",
+      "scale_id": "IJ",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.C.3.b.8",
+      "element_name": "Determine Tasks, Priorities and Goals",
+      "survey_item_number": "WC20",
+      "scale_id": "FM",
+      "scale_name": "Amount of Freedom"
+    },
+    {
+      "element_id": "4.C.3.c.1",
+      "element_name": "Level of Competition",
+      "survey_item_number": "WC21",
+      "scale_id": "LC",
+      "scale_name": "Level of Competition"
+    },
+    {
+      "element_id": "4.C.3.d.1",
+      "element_name": "Time Pressure",
+      "survey_item_number": "WC22",
+      "scale_id": "CF",
+      "scale_name": "Frequency"
+    },
+    {
+      "element_id": "4.C.3.d.3",
+      "element_name": "Pace Determined by Speed of Equipment",
+      "survey_item_number": "WC23",
+      "scale_id": "IJ",
+      "scale_name": "Importance"
+    },
+    {
+      "element_id": "4.C.3.d.4",
+      "element_name": "Work Schedules",
+      "survey_item_number": "WC24",
+      "scale_id": "WS",
+      "scale_name": "Work Schedule"
+    },
+    {
+      "element_id": "4.C.3.d.8",
+      "element_name": "Duration of Typical Work Week",
+      "survey_item_number": "WC25",
+      "scale_id": "HW",
+      "scale_name": "Hours Per Week"
+    }
+  ]
+}
