@@ -3,3 +3,11 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# clean_ncs.py가 다시 만드는 정제본
+data-NCS/ncs_performance_criteria.csv
+data-NCS/ncs_ksa_criteria.csv
+
+# GitHub 파일 크기 제한(100MB)을 넘어 저장소 밖에서 따로 공유하는 자료
+data-NCS/NCS-DB(2026-02).xlsx
+data-ONET/01_ONET_DB_31.0/json/work_context.json

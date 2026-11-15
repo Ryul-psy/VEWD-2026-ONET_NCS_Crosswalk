@@ -1,0 +1,3922 @@
+{
+  "table_id": "level_scale_anchors",
+  "title": "Level Scale Anchors",
+  "description": "Provide descriptions of O*NET Level Scale Anchors.",
+  "data_dictionary": "https://www.onetcenter.org/dictionary/31.0/json/level_scale_anchors.html",
+  "column": [
+    {
+      "column_id": "element_id",
+      "optional": false,
+      "title": "Element ID",
+      "description": "Content Model Outline Position",
+      "type": "Text",
+      "format": "Character Varying(20)"
+    },
+    {
+      "column_id": "element_name",
+      "optional": false,
+      "title": "Element Name",
+      "description": "Content Model Element Name",
+      "type": "Text",
+      "format": "Character Varying(150)"
+    },
+    {
+      "column_id": "scale_id",
+      "optional": false,
+      "title": "Scale ID",
+      "description": "Scale ID",
+      "type": "Text",
+      "format": "Character Varying(3)"
+    },
+    {
+      "column_id": "scale_name",
+      "optional": false,
+      "title": "Scale Name",
+      "description": "Scale Name",
+      "type": "Text",
+      "format": "Character Varying(50)"
+    },
+    {
+      "column_id": "anchor_value",
+      "optional": false,
+      "title": "Anchor Value",
+      "description": "Anchor value associated with element",
+      "type": "Number",
+      "format": "Integer(3)"
+    },
+    {
+      "column_id": "anchor_description",
+      "optional": false,
+      "title": "Anchor Description",
+      "description": "Detail description of anchor associated with element",
+      "type": "Text",
+      "format": "Character Varying(1000)"
+    }
+  ],
+  "row": [
+    {
+      "element_id": "1.A.1.a.1",
+      "element_name": "Oral Comprehension",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Understand a television commercial"
+    },
+    {
+      "element_id": "1.A.1.a.1",
+      "element_name": "Oral Comprehension",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Understand a coach's oral instructions for a sport"
+    },
+    {
+      "element_id": "1.A.1.a.1",
+      "element_name": "Oral Comprehension",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Understand a lecture on advanced physics"
+    },
+    {
+      "element_id": "1.A.1.a.2",
+      "element_name": "Written Comprehension",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Understand signs on the highway"
+    },
+    {
+      "element_id": "1.A.1.a.2",
+      "element_name": "Written Comprehension",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Understand an apartment lease"
+    },
+    {
+      "element_id": "1.A.1.a.2",
+      "element_name": "Written Comprehension",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Understand an instruction book on repairing Artificial Intelligence systems"
+    },
+    {
+      "element_id": "1.A.1.a.3",
+      "element_name": "Oral Expression",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Place an order at a restaurant drive-thru"
+    },
+    {
+      "element_id": "1.A.1.a.3",
+      "element_name": "Oral Expression",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Give instructions to a lost motorist"
+    },
+    {
+      "element_id": "1.A.1.a.3",
+      "element_name": "Oral Expression",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Explain advanced principles of genetics to college freshmen"
+    },
+    {
+      "element_id": "1.A.1.a.4",
+      "element_name": "Written Expression",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Write a note to remind someone to take food out of the freezer"
+    },
+    {
+      "element_id": "1.A.1.a.4",
+      "element_name": "Written Expression",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Write a job recommendation for a subordinate"
+    },
+    {
+      "element_id": "1.A.1.a.4",
+      "element_name": "Written Expression",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Write an advanced economics textbook"
+    },
+    {
+      "element_id": "1.A.1.b.1",
+      "element_name": "Fluency of Ideas",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Name four different uses for a screwdriver"
+    },
+    {
+      "element_id": "1.A.1.b.1",
+      "element_name": "Fluency of Ideas",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Think of as many ideas as possible for the name of a new company"
+    },
+    {
+      "element_id": "1.A.1.b.1",
+      "element_name": "Fluency of Ideas",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Identify as many strategies as possible for a company acquisition and merger"
+    },
+    {
+      "element_id": "1.A.1.b.2",
+      "element_name": "Originality",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Use a credit card to open a locked door"
+    },
+    {
+      "element_id": "1.A.1.b.2",
+      "element_name": "Originality",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Redesign job tasks to be interesting for employees"
+    },
+    {
+      "element_id": "1.A.1.b.2",
+      "element_name": "Originality",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Invent a new type of man-made fiber"
+    },
+    {
+      "element_id": "1.A.1.b.3",
+      "element_name": "Problem Sensitivity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Recognize that an unplugged lamp won't work"
+    },
+    {
+      "element_id": "1.A.1.b.3",
+      "element_name": "Problem Sensitivity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Notice from a subtle difference in a client's mood that something is bothering them"
+    },
+    {
+      "element_id": "1.A.1.b.3",
+      "element_name": "Problem Sensitivity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Recognize an illness at an early stage of a disease when there are only a few symptoms"
+    },
+    {
+      "element_id": "1.A.1.b.4",
+      "element_name": "Deductive Reasoning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Know that a stalled car can coast downhill"
+    },
+    {
+      "element_id": "1.A.1.b.4",
+      "element_name": "Deductive Reasoning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 5,
+      "anchor_description": "Decide what factors to consider in selecting stocks"
+    },
+    {
+      "element_id": "1.A.1.b.4",
+      "element_name": "Deductive Reasoning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Design an aircraft wing using principles of aerodynamics"
+    },
+    {
+      "element_id": "1.A.1.b.5",
+      "element_name": "Inductive Reasoning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Decide what to wear based on the weather report"
+    },
+    {
+      "element_id": "1.A.1.b.5",
+      "element_name": "Inductive Reasoning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Determine the prime suspect based on crime scene evidence"
+    },
+    {
+      "element_id": "1.A.1.b.5",
+      "element_name": "Inductive Reasoning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Diagnose a disease using results of many different lab tests"
+    },
+    {
+      "element_id": "1.A.1.b.6",
+      "element_name": "Information Ordering",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Put things in numerical order"
+    },
+    {
+      "element_id": "1.A.1.b.6",
+      "element_name": "Information Ordering",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Follow the correct steps to make change"
+    },
+    {
+      "element_id": "1.A.1.b.6",
+      "element_name": "Information Ordering",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Assemble a wind turbine"
+    },
+    {
+      "element_id": "1.A.1.b.7",
+      "element_name": "Category Flexibility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Sort paintbrushes based on length"
+    },
+    {
+      "element_id": "1.A.1.b.7",
+      "element_name": "Category Flexibility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 3,
+      "anchor_description": "Classify flowers according to size, color, and smell"
+    },
+    {
+      "element_id": "1.A.1.b.7",
+      "element_name": "Category Flexibility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Classify man-made fibers in terms of their characteristics, like strength or cost"
+    },
+    {
+      "element_id": "1.A.1.c.1",
+      "element_name": "Mathematical Reasoning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Determine how much 20 oranges will cost when they are priced at 5 for 4 dollars"
+    },
+    {
+      "element_id": "1.A.1.c.1",
+      "element_name": "Mathematical Reasoning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Decide how to calculate profits to determine the amounts of yearly bonuses"
+    },
+    {
+      "element_id": "1.A.1.c.1",
+      "element_name": "Mathematical Reasoning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Determine the mathematics required to simulate a space craft landing on the moon"
+    },
+    {
+      "element_id": "1.A.1.c.2",
+      "element_name": "Number Facility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Add 2 and 7"
+    },
+    {
+      "element_id": "1.A.1.c.2",
+      "element_name": "Number Facility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 3,
+      "anchor_description": "Calculate a discounted price"
+    },
+    {
+      "element_id": "1.A.1.c.2",
+      "element_name": "Number Facility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 5,
+      "anchor_description": "Compute the interest payment that should be generated from an investment"
+    },
+    {
+      "element_id": "1.A.1.d.1",
+      "element_name": "Memorization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Remember the number on your bus to be sure you get back on the right one"
+    },
+    {
+      "element_id": "1.A.1.d.1",
+      "element_name": "Memorization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Recite the first names of the five people you just met"
+    },
+    {
+      "element_id": "1.A.1.d.1",
+      "element_name": "Memorization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Recite a 300-word speech after studying it for 15 minutes"
+    },
+    {
+      "element_id": "1.A.1.e.1",
+      "element_name": "Speed of Closure",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 3,
+      "anchor_description": "Recognize a song after hearing only the first few notes"
+    },
+    {
+      "element_id": "1.A.1.e.1",
+      "element_name": "Speed of Closure",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Make sense of messy handwriting"
+    },
+    {
+      "element_id": "1.A.1.e.1",
+      "element_name": "Speed of Closure",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 5,
+      "anchor_description": "Interpret patterns on weather radar to decide if the weather is changing"
+    },
+    {
+      "element_id": "1.A.1.e.2",
+      "element_name": "Flexibility of Closure",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Detect that your phone is ringing while at a concert"
+    },
+    {
+      "element_id": "1.A.1.e.2",
+      "element_name": "Flexibility of Closure",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Look for a golf ball in tall grass"
+    },
+    {
+      "element_id": "1.A.1.e.2",
+      "element_name": "Flexibility of Closure",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Identify camouflaged animals from a moving vehicle while on a safari"
+    },
+    {
+      "element_id": "1.A.1.e.3",
+      "element_name": "Perceptual Speed",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Sort mail according to ZIP codes with no time pressure"
+    },
+    {
+      "element_id": "1.A.1.e.3",
+      "element_name": "Perceptual Speed",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Read five pressure indicators in 10 seconds to make sure each is within safe limits"
+    },
+    {
+      "element_id": "1.A.1.e.3",
+      "element_name": "Perceptual Speed",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Inspect electrical parts for defects as they pass on a fast-moving assembly line"
+    },
+    {
+      "element_id": "1.A.1.f.1",
+      "element_name": "Spatial Orientation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Use the floor plan to locate a store in a mall"
+    },
+    {
+      "element_id": "1.A.1.f.1",
+      "element_name": "Spatial Orientation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 3,
+      "anchor_description": "Find your way through a dark room without hitting anything"
+    },
+    {
+      "element_id": "1.A.1.f.1",
+      "element_name": "Spatial Orientation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Navigate an ocean voyage using a compass and landmarks"
+    },
+    {
+      "element_id": "1.A.1.f.2",
+      "element_name": "Visualization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Imagine how to place paper in a printer so that the letterhead comes out on top"
+    },
+    {
+      "element_id": "1.A.1.f.2",
+      "element_name": "Visualization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Follow a diagram to assemble a metal storage cabinet"
+    },
+    {
+      "element_id": "1.A.1.f.2",
+      "element_name": "Visualization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Anticipate future moves in a chess game"
+    },
+    {
+      "element_id": "1.A.1.g.1",
+      "element_name": "Selective Attention",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Answer a business call with coworkers talking nearby"
+    },
+    {
+      "element_id": "1.A.1.g.1",
+      "element_name": "Selective Attention",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Watch security monitors for intruders throughout the night shift"
+    },
+    {
+      "element_id": "1.A.1.g.1",
+      "element_name": "Selective Attention",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Study a technical manual while listening to loud construction sounds"
+    },
+    {
+      "element_id": "1.A.1.g.2",
+      "element_name": "Time Sharing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Listen to music while entering numbers into a spreadsheet"
+    },
+    {
+      "element_id": "1.A.1.g.2",
+      "element_name": "Time Sharing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 3,
+      "anchor_description": "Watch street signs while driving at 30 miles an hour"
+    },
+    {
+      "element_id": "1.A.1.g.2",
+      "element_name": "Time Sharing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Monitor radar and radio transmissions to keep track of heavy aircraft traffic"
+    },
+    {
+      "element_id": "1.A.2.a.1",
+      "element_name": "Arm-Hand Steadiness",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Light a candle"
+    },
+    {
+      "element_id": "1.A.2.a.1",
+      "element_name": "Arm-Hand Steadiness",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Thread a needle"
+    },
+    {
+      "element_id": "1.A.2.a.1",
+      "element_name": "Arm-Hand Steadiness",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Cut facets in a diamond"
+    },
+    {
+      "element_id": "1.A.2.a.2",
+      "element_name": "Manual Dexterity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Screw a light bulb into a light socket"
+    },
+    {
+      "element_id": "1.A.2.a.2",
+      "element_name": "Manual Dexterity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Pack oranges in crates as quickly as possible"
+    },
+    {
+      "element_id": "1.A.2.a.2",
+      "element_name": "Manual Dexterity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Perform open heart surgery with surgical instruments"
+    },
+    {
+      "element_id": "1.A.2.a.3",
+      "element_name": "Finger Dexterity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Put coins in a parking meter"
+    },
+    {
+      "element_id": "1.A.2.a.3",
+      "element_name": "Finger Dexterity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Attach small dials to audio equipment on an assembly line"
+    },
+    {
+      "element_id": "1.A.2.a.3",
+      "element_name": "Finger Dexterity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Put together the inner workings of a small wrist watch"
+    },
+    {
+      "element_id": "1.A.2.b.1",
+      "element_name": "Control Precision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Adjust a room light with a dimmer switch"
+    },
+    {
+      "element_id": "1.A.2.b.1",
+      "element_name": "Control Precision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Adjust farm tractor controls"
+    },
+    {
+      "element_id": "1.A.2.b.1",
+      "element_name": "Control Precision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Drill a tooth"
+    },
+    {
+      "element_id": "1.A.2.b.2",
+      "element_name": "Multilimb Coordination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Row a boat"
+    },
+    {
+      "element_id": "1.A.2.b.2",
+      "element_name": "Multilimb Coordination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Operate a forklift truck in a warehouse"
+    },
+    {
+      "element_id": "1.A.2.b.2",
+      "element_name": "Multilimb Coordination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Play the drum set in a jazz band"
+    },
+    {
+      "element_id": "1.A.2.b.3",
+      "element_name": "Response Orientation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "When a doorbell and phone ring at the same time, quickly select which to answer first"
+    },
+    {
+      "element_id": "1.A.2.b.3",
+      "element_name": "Response Orientation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Use either the brake or gas pedal when your vehicle is skidding"
+    },
+    {
+      "element_id": "1.A.2.b.3",
+      "element_name": "Response Orientation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "In an out-of-control commercial aircraft, react quickly to restore control"
+    },
+    {
+      "element_id": "1.A.2.b.4",
+      "element_name": "Rate Control",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Ride a bicycle alongside a jogger"
+    },
+    {
+      "element_id": "1.A.2.b.4",
+      "element_name": "Rate Control",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Keep up with a car that changes speed"
+    },
+    {
+      "element_id": "1.A.2.b.4",
+      "element_name": "Rate Control",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 5,
+      "anchor_description": "Shoot a duck in flight"
+    },
+    {
+      "element_id": "1.A.2.c.1",
+      "element_name": "Reaction Time",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Start to slow down the car when a traffic light turns yellow"
+    },
+    {
+      "element_id": "1.A.2.c.1",
+      "element_name": "Reaction Time",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Press a button to stop operation when a warning light goes off"
+    },
+    {
+      "element_id": "1.A.2.c.1",
+      "element_name": "Reaction Time",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Hit the brake when a pedestrian steps in front of your car"
+    },
+    {
+      "element_id": "1.A.2.c.2",
+      "element_name": "Wrist-Finger Speed",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Use a screwdriver to twist in a screw"
+    },
+    {
+      "element_id": "1.A.2.c.2",
+      "element_name": "Wrist-Finger Speed",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 3,
+      "anchor_description": "Carve roast beef in a cafeteria"
+    },
+    {
+      "element_id": "1.A.2.c.2",
+      "element_name": "Wrist-Finger Speed",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Type 90 words per minute"
+    },
+    {
+      "element_id": "1.A.2.c.3",
+      "element_name": "Speed of Limb Movement",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Saw through a thin piece of wood"
+    },
+    {
+      "element_id": "1.A.2.c.3",
+      "element_name": "Speed of Limb Movement",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Swat a fly with a fly swatter"
+    },
+    {
+      "element_id": "1.A.2.c.3",
+      "element_name": "Speed of Limb Movement",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Throw punches in a boxing match"
+    },
+    {
+      "element_id": "1.A.3.a.1",
+      "element_name": "Static Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Push an empty shopping cart"
+    },
+    {
+      "element_id": "1.A.3.a.1",
+      "element_name": "Static Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Pull a 40-pound sack of fertilizer across the lawn"
+    },
+    {
+      "element_id": "1.A.3.a.1",
+      "element_name": "Static Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Lift 75-pound bags of cement onto a truck"
+    },
+    {
+      "element_id": "1.A.3.a.2",
+      "element_name": "Explosive Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Hit a nail with a hammer"
+    },
+    {
+      "element_id": "1.A.3.a.2",
+      "element_name": "Explosive Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Jump onto a 3-foot high platform"
+    },
+    {
+      "element_id": "1.A.3.a.2",
+      "element_name": "Explosive Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Throw a shot-put in a track meet"
+    },
+    {
+      "element_id": "1.A.3.a.3",
+      "element_name": "Dynamic Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Use pruning shears to trim a bush"
+    },
+    {
+      "element_id": "1.A.3.a.3",
+      "element_name": "Dynamic Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 5,
+      "anchor_description": "Climb a 48-foot long ladder"
+    },
+    {
+      "element_id": "1.A.3.a.3",
+      "element_name": "Dynamic Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Perform a gymnastics routine using the rings"
+    },
+    {
+      "element_id": "1.A.3.a.4",
+      "element_name": "Trunk Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Sit up in an office chair"
+    },
+    {
+      "element_id": "1.A.3.a.4",
+      "element_name": "Trunk Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Shovel snow for half an hour"
+    },
+    {
+      "element_id": "1.A.3.a.4",
+      "element_name": "Trunk Strength",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Do 100 sit-ups"
+    },
+    {
+      "element_id": "1.A.3.b.1",
+      "element_name": "Stamina",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Walk 1/4 mile"
+    },
+    {
+      "element_id": "1.A.3.b.1",
+      "element_name": "Stamina",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Climb 6 flights of stairs"
+    },
+    {
+      "element_id": "1.A.3.b.1",
+      "element_name": "Stamina",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Run 10 miles"
+    },
+    {
+      "element_id": "1.A.3.c.1",
+      "element_name": "Extent Flexibility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Reach to adjust the radio in a car"
+    },
+    {
+      "element_id": "1.A.3.c.1",
+      "element_name": "Extent Flexibility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Reach for a box on a high warehouse shelf"
+    },
+    {
+      "element_id": "1.A.3.c.1",
+      "element_name": "Extent Flexibility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Work under the dashboard of a car"
+    },
+    {
+      "element_id": "1.A.3.c.2",
+      "element_name": "Dynamic Flexibility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Hand pick a bushel of apples from a tree"
+    },
+    {
+      "element_id": "1.A.3.c.2",
+      "element_name": "Dynamic Flexibility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 5,
+      "anchor_description": "Perform a dance routine as part of a cheerleading squad"
+    },
+    {
+      "element_id": "1.A.3.c.2",
+      "element_name": "Dynamic Flexibility",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Maneuver a kayak through swift rapids"
+    },
+    {
+      "element_id": "1.A.3.c.3",
+      "element_name": "Gross Body Coordination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Get in and out of a truck"
+    },
+    {
+      "element_id": "1.A.3.c.3",
+      "element_name": "Gross Body Coordination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Swim the length of a pool"
+    },
+    {
+      "element_id": "1.A.3.c.3",
+      "element_name": "Gross Body Coordination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Perform a ballet dance"
+    },
+    {
+      "element_id": "1.A.3.c.4",
+      "element_name": "Gross Body Equilibrium",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Stand on a ladder"
+    },
+    {
+      "element_id": "1.A.3.c.4",
+      "element_name": "Gross Body Equilibrium",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Walk on ice across a pond"
+    },
+    {
+      "element_id": "1.A.3.c.4",
+      "element_name": "Gross Body Equilibrium",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Walk on narrow beams in high-rise construction"
+    },
+    {
+      "element_id": "1.A.4.a.1",
+      "element_name": "Near Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Read indicators on the dashboard of a car"
+    },
+    {
+      "element_id": "1.A.4.a.1",
+      "element_name": "Near Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 5,
+      "anchor_description": "Read the fine print of a legal document"
+    },
+    {
+      "element_id": "1.A.4.a.1",
+      "element_name": "Near Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Detect minor defects in a diamond"
+    },
+    {
+      "element_id": "1.A.4.a.2",
+      "element_name": "Far Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Read a roadside billboard"
+    },
+    {
+      "element_id": "1.A.4.a.2",
+      "element_name": "Far Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Read the slides on a presentation from across a room"
+    },
+    {
+      "element_id": "1.A.4.a.2",
+      "element_name": "Far Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Detect differences in ships on the horizon"
+    },
+    {
+      "element_id": "1.A.4.a.3",
+      "element_name": "Visual Color Discrimination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Separate laundry into colors and whites"
+    },
+    {
+      "element_id": "1.A.4.a.3",
+      "element_name": "Visual Color Discrimination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Trace electrical circuits marked by various colored wires"
+    },
+    {
+      "element_id": "1.A.4.a.3",
+      "element_name": "Visual Color Discrimination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Paint a color portrait of a person"
+    },
+    {
+      "element_id": "1.A.4.a.4",
+      "element_name": "Night Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Read street signs at dusk (just after sunset)"
+    },
+    {
+      "element_id": "1.A.4.a.4",
+      "element_name": "Night Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Read a book in a dimly lit setting"
+    },
+    {
+      "element_id": "1.A.4.a.4",
+      "element_name": "Night Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Find your way through the woods on a moonless night"
+    },
+    {
+      "element_id": "1.A.4.a.5",
+      "element_name": "Peripheral Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Keep in step while marching in a band"
+    },
+    {
+      "element_id": "1.A.4.a.5",
+      "element_name": "Peripheral Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Be aware of the location of your teammates while dribbling a basketball"
+    },
+    {
+      "element_id": "1.A.4.a.5",
+      "element_name": "Peripheral Vision",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Distinguish a teammate from a competitor passing by in a car race"
+    },
+    {
+      "element_id": "1.A.4.a.6",
+      "element_name": "Depth Perception",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Merge a car into traffic on a city street"
+    },
+    {
+      "element_id": "1.A.4.a.6",
+      "element_name": "Depth Perception",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Operate a crane to move materials from a truck bed to the ground"
+    },
+    {
+      "element_id": "1.A.4.a.6",
+      "element_name": "Depth Perception",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Throw a long pass to a closely guarded teammate"
+    },
+    {
+      "element_id": "1.A.4.a.7",
+      "element_name": "Glare Sensitivity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Drive on a familiar road on a cloudy day"
+    },
+    {
+      "element_id": "1.A.4.a.7",
+      "element_name": "Glare Sensitivity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 5,
+      "anchor_description": "See boats on the horizon when sailing"
+    },
+    {
+      "element_id": "1.A.4.a.7",
+      "element_name": "Glare Sensitivity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Snow ski in bright sunlight"
+    },
+    {
+      "element_id": "1.A.4.b.1",
+      "element_name": "Hearing Sensitivity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Notice a doorbell ringing"
+    },
+    {
+      "element_id": "1.A.4.b.1",
+      "element_name": "Hearing Sensitivity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Diagnose what's wrong with a car engine from its sound"
+    },
+    {
+      "element_id": "1.A.4.b.1",
+      "element_name": "Hearing Sensitivity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Tune an orchestra"
+    },
+    {
+      "element_id": "1.A.4.b.2",
+      "element_name": "Auditory Attention",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Listen to a lecture while people nearby are talking"
+    },
+    {
+      "element_id": "1.A.4.b.2",
+      "element_name": "Auditory Attention",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Listen for your flight announcement at a busy airport"
+    },
+    {
+      "element_id": "1.A.4.b.2",
+      "element_name": "Auditory Attention",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Listen to instructions from a coworker in a noisy saw mill"
+    },
+    {
+      "element_id": "1.A.4.b.3",
+      "element_name": "Sound Localization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Listen to a sound system to determine which speaker is working"
+    },
+    {
+      "element_id": "1.A.4.b.3",
+      "element_name": "Sound Localization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Find a ringing phone in an unfamiliar apartment"
+    },
+    {
+      "element_id": "1.A.4.b.3",
+      "element_name": "Sound Localization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Determining the direction of an emergency vehicle from the sound of the siren"
+    },
+    {
+      "element_id": "1.A.4.b.4",
+      "element_name": "Speech Recognition",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Recognize the voice of a coworker"
+    },
+    {
+      "element_id": "1.A.4.b.4",
+      "element_name": "Speech Recognition",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Identify a former customer's voice over the phone"
+    },
+    {
+      "element_id": "1.A.4.b.4",
+      "element_name": "Speech Recognition",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Understand a speech presented by someone with an unfamiliar accent"
+    },
+    {
+      "element_id": "1.A.4.b.5",
+      "element_name": "Speech Clarity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Call numbers in a bingo game"
+    },
+    {
+      "element_id": "1.A.4.b.5",
+      "element_name": "Speech Clarity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Make stadium-wide announcements during a sporting event"
+    },
+    {
+      "element_id": "1.A.4.b.5",
+      "element_name": "Speech Clarity",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Give a lecture to a large audience"
+    },
+    {
+      "element_id": "2.A.1.a",
+      "element_name": "Reading Comprehension",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Read step-by-step instructions for completing a form"
+    },
+    {
+      "element_id": "2.A.1.a",
+      "element_name": "Reading Comprehension",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Understand an email from management describing new personnel policies"
+    },
+    {
+      "element_id": "2.A.1.a",
+      "element_name": "Reading Comprehension",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Read a scientific journal article describing surgical procedures"
+    },
+    {
+      "element_id": "2.A.1.b",
+      "element_name": "Active Listening",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Take a customer's order"
+    },
+    {
+      "element_id": "2.A.1.b",
+      "element_name": "Active Listening",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Answer inquiries regarding credit references"
+    },
+    {
+      "element_id": "2.A.1.b",
+      "element_name": "Active Listening",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Serve as a judge in a complex legal disagreement"
+    },
+    {
+      "element_id": "2.A.1.c",
+      "element_name": "Writing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Write down a guest's order at a restaurant"
+    },
+    {
+      "element_id": "2.A.1.c",
+      "element_name": "Writing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Write an email to staff outlining new directives"
+    },
+    {
+      "element_id": "2.A.1.c",
+      "element_name": "Writing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Write a novel for publication"
+    },
+    {
+      "element_id": "2.A.1.d",
+      "element_name": "Speaking",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Greet tourists and explain tourist attractions"
+    },
+    {
+      "element_id": "2.A.1.d",
+      "element_name": "Speaking",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Interview applicants to obtain personal and work history"
+    },
+    {
+      "element_id": "2.A.1.d",
+      "element_name": "Speaking",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Argue a legal case before the Supreme Court"
+    },
+    {
+      "element_id": "2.A.1.e",
+      "element_name": "Mathematics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Count the amount of change to be given to a customer"
+    },
+    {
+      "element_id": "2.A.1.e",
+      "element_name": "Mathematics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Calculate the square footage of a new home under construction"
+    },
+    {
+      "element_id": "2.A.1.e",
+      "element_name": "Mathematics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Develop a mathematical model to simulate and resolve an engineering problem"
+    },
+    {
+      "element_id": "2.A.1.f",
+      "element_name": "Science",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Conduct standard tests to determine soil quality"
+    },
+    {
+      "element_id": "2.A.1.f",
+      "element_name": "Science",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Conduct product tests to ensure safety standards are met"
+    },
+    {
+      "element_id": "2.A.1.f",
+      "element_name": "Science",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Analyze aerodynamic systems to determine the practicality of a design"
+    },
+    {
+      "element_id": "2.A.2.a",
+      "element_name": "Critical Thinking",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Determine whether a subordinate has a good excuse for being late"
+    },
+    {
+      "element_id": "2.A.2.a",
+      "element_name": "Critical Thinking",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Evaluate customer complaints and determine appropriate responses"
+    },
+    {
+      "element_id": "2.A.2.a",
+      "element_name": "Critical Thinking",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Write legal brief challenging a federal law"
+    },
+    {
+      "element_id": "2.A.2.b",
+      "element_name": "Active Learning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Think about the implications of a news article for job opportunities"
+    },
+    {
+      "element_id": "2.A.2.b",
+      "element_name": "Active Learning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Determine the impact of new menu changes on a restaurant's purchasing requirements"
+    },
+    {
+      "element_id": "2.A.2.b",
+      "element_name": "Active Learning",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Identify the implications of a new scientific theory for product design"
+    },
+    {
+      "element_id": "2.A.2.c",
+      "element_name": "Learning Strategies",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Learn a different method of completing a task from a coworker"
+    },
+    {
+      "element_id": "2.A.2.c",
+      "element_name": "Learning Strategies",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Identify an alternative approach to help trainees who are having difficulties"
+    },
+    {
+      "element_id": "2.A.2.c",
+      "element_name": "Learning Strategies",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Apply principles of educational psychology to develop new teaching methods"
+    },
+    {
+      "element_id": "2.A.2.d",
+      "element_name": "Monitoring",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Proofread and correct a letter"
+    },
+    {
+      "element_id": "2.A.2.d",
+      "element_name": "Monitoring",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Monitor a meeting and revise the agenda to ensure important topics are discussed"
+    },
+    {
+      "element_id": "2.A.2.d",
+      "element_name": "Monitoring",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Review corporate productivity and develop a plan to increase it"
+    },
+    {
+      "element_id": "2.B.1.a",
+      "element_name": "Social Perceptiveness",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Notice that customers are angry because they have been waiting too long"
+    },
+    {
+      "element_id": "2.B.1.a",
+      "element_name": "Social Perceptiveness",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Be aware of how a coworker's promotion will affect a work group"
+    },
+    {
+      "element_id": "2.B.1.a",
+      "element_name": "Social Perceptiveness",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Counsel patients who are depressed during a crisis period"
+    },
+    {
+      "element_id": "2.B.1.b",
+      "element_name": "Coordination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Schedule appointments for a medical clinic"
+    },
+    {
+      "element_id": "2.B.1.b",
+      "element_name": "Coordination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Work with others to put a new roof on a house"
+    },
+    {
+      "element_id": "2.B.1.b",
+      "element_name": "Coordination",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Direct a project requiring coordination between multiple subcontractors"
+    },
+    {
+      "element_id": "2.B.1.c",
+      "element_name": "Persuasion",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Solicit donations for a charity"
+    },
+    {
+      "element_id": "2.B.1.c",
+      "element_name": "Persuasion",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Convince a supervisor to purchase new office equipment"
+    },
+    {
+      "element_id": "2.B.1.c",
+      "element_name": "Persuasion",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Change the opinion of the jury in a complex legal case"
+    },
+    {
+      "element_id": "2.B.1.d",
+      "element_name": "Negotiation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Present justification to a manager for altering a work schedule"
+    },
+    {
+      "element_id": "2.B.1.d",
+      "element_name": "Negotiation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Contract with a wholesaler to sell items at a given cost"
+    },
+    {
+      "element_id": "2.B.1.d",
+      "element_name": "Negotiation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Work as an ambassador in negotiating a new treaty"
+    },
+    {
+      "element_id": "2.B.1.e",
+      "element_name": "Instructing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Instruct a new employee in the use of a timekeeping system"
+    },
+    {
+      "element_id": "2.B.1.e",
+      "element_name": "Instructing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Instruct a coworker in how to operate a software program"
+    },
+    {
+      "element_id": "2.B.1.e",
+      "element_name": "Instructing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Demonstrate a surgical procedure to interns in a teaching hospital"
+    },
+    {
+      "element_id": "2.B.1.f",
+      "element_name": "Service Orientation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Ask customers if they would like a cup of coffee"
+    },
+    {
+      "element_id": "2.B.1.f",
+      "element_name": "Service Orientation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Make flight reservations for customers using an online booking site"
+    },
+    {
+      "element_id": "2.B.1.f",
+      "element_name": "Service Orientation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Direct relief agency operations in a disaster area"
+    },
+    {
+      "element_id": "2.B.2.i",
+      "element_name": "Complex Problem Solving",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Lay out tools to complete a job"
+    },
+    {
+      "element_id": "2.B.2.i",
+      "element_name": "Complex Problem Solving",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Redesign a floor layout to take advantage of new manufacturing techniques"
+    },
+    {
+      "element_id": "2.B.2.i",
+      "element_name": "Complex Problem Solving",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Develop a plan to provide emergency relief for a major metropolitan area"
+    },
+    {
+      "element_id": "2.B.3.a",
+      "element_name": "Operations Analysis",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Select a printer for an office"
+    },
+    {
+      "element_id": "2.B.3.a",
+      "element_name": "Operations Analysis",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Suggest changes in software to make a system more user friendly"
+    },
+    {
+      "element_id": "2.B.3.a",
+      "element_name": "Operations Analysis",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Identify the control system needed for a new process production plant"
+    },
+    {
+      "element_id": "2.B.3.b",
+      "element_name": "Technology Design",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Adjust exercise equipment for use by a customer"
+    },
+    {
+      "element_id": "2.B.3.b",
+      "element_name": "Technology Design",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Redesign the handle on a hand tool for easier gripping"
+    },
+    {
+      "element_id": "2.B.3.b",
+      "element_name": "Technology Design",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Create new technology for producing industrial diamonds"
+    },
+    {
+      "element_id": "2.B.3.c",
+      "element_name": "Equipment Selection",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Select a tool to adjust a loose part on a bicycle"
+    },
+    {
+      "element_id": "2.B.3.c",
+      "element_name": "Equipment Selection",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Choose a software application to complete a work assignment"
+    },
+    {
+      "element_id": "2.B.3.c",
+      "element_name": "Equipment Selection",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Identify the equipment needed to produce a new product line"
+    },
+    {
+      "element_id": "2.B.3.d",
+      "element_name": "Installation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Install a new air filter in an air conditioner"
+    },
+    {
+      "element_id": "2.B.3.d",
+      "element_name": "Installation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Install a speaker system in a car"
+    },
+    {
+      "element_id": "2.B.3.d",
+      "element_name": "Installation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Install a custom-made production machine for a new product"
+    },
+    {
+      "element_id": "2.B.3.e",
+      "element_name": "Programming",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Write a program to sort objects in a database"
+    },
+    {
+      "element_id": "2.B.3.e",
+      "element_name": "Programming",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Write a statistical analysis program to analyze demographic data"
+    },
+    {
+      "element_id": "2.B.3.e",
+      "element_name": "Programming",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Write programs to analyze geological data for existence of mineral deposits"
+    },
+    {
+      "element_id": "2.B.3.g",
+      "element_name": "Operations Monitoring",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Monitor completion times while running a computer program"
+    },
+    {
+      "element_id": "2.B.3.g",
+      "element_name": "Operations Monitoring",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Monitor machine functions on an automated production line"
+    },
+    {
+      "element_id": "2.B.3.g",
+      "element_name": "Operations Monitoring",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Monitor feedback control in a processing facility to maintain production flow"
+    },
+    {
+      "element_id": "2.B.3.h",
+      "element_name": "Operation and Control",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Navigate the settings on an office printer to print on both sides of the paper"
+    },
+    {
+      "element_id": "2.B.3.h",
+      "element_name": "Operation and Control",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Adjust the speed of assembly line equipment based on the product being assembled"
+    },
+    {
+      "element_id": "2.B.3.h",
+      "element_name": "Operation and Control",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Control aircraft approach and landing at a large airport during a busy period"
+    },
+    {
+      "element_id": "2.B.3.j",
+      "element_name": "Equipment Maintenance",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Add oil to an engine as indicated by a warning light"
+    },
+    {
+      "element_id": "2.B.3.j",
+      "element_name": "Equipment Maintenance",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Clean moving parts in production machinery"
+    },
+    {
+      "element_id": "2.B.3.j",
+      "element_name": "Equipment Maintenance",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Conduct maintenance checks on an aircraft"
+    },
+    {
+      "element_id": "2.B.3.k",
+      "element_name": "Troubleshooting",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Identify the source of a leak by looking under a machine"
+    },
+    {
+      "element_id": "2.B.3.k",
+      "element_name": "Troubleshooting",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Identify the circuit causing an electrical system to fail"
+    },
+    {
+      "element_id": "2.B.3.k",
+      "element_name": "Troubleshooting",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Direct the debugging of code for a new operating system"
+    },
+    {
+      "element_id": "2.B.3.l",
+      "element_name": "Repairing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Tighten a screw to get a door to close properly"
+    },
+    {
+      "element_id": "2.B.3.l",
+      "element_name": "Repairing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Replace a faulty hydraulic valve"
+    },
+    {
+      "element_id": "2.B.3.l",
+      "element_name": "Repairing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Repair structural damage after an earthquake"
+    },
+    {
+      "element_id": "2.B.3.m",
+      "element_name": "Quality Control Analysis",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Inspect a draft email for errors (e.g., grammar, punctuation)"
+    },
+    {
+      "element_id": "2.B.3.m",
+      "element_name": "Quality Control Analysis",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Assess new parts for precision and accuracy to specifications"
+    },
+    {
+      "element_id": "2.B.3.m",
+      "element_name": "Quality Control Analysis",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Develop procedures to test a prototype of a new computer system"
+    },
+    {
+      "element_id": "2.B.4.e",
+      "element_name": "Judgment and Decision Making",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Decide how scheduling a break will affect work flow"
+    },
+    {
+      "element_id": "2.B.4.e",
+      "element_name": "Judgment and Decision Making",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Evaluate a loan application for degree of risk"
+    },
+    {
+      "element_id": "2.B.4.e",
+      "element_name": "Judgment and Decision Making",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Decide whether a manufacturing company should invest in new robotics technology"
+    },
+    {
+      "element_id": "2.B.4.g",
+      "element_name": "Systems Analysis",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Determine how loss of a team member will affect the completion of a job"
+    },
+    {
+      "element_id": "2.B.4.g",
+      "element_name": "Systems Analysis",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Determine how a new piece of equipment will affect production rates"
+    },
+    {
+      "element_id": "2.B.4.g",
+      "element_name": "Systems Analysis",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Identify how changes in tax laws affect locations of manufacturing operations"
+    },
+    {
+      "element_id": "2.B.4.h",
+      "element_name": "Systems Evaluation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Determine why estimates for the time to complete a task are overly optimistic"
+    },
+    {
+      "element_id": "2.B.4.h",
+      "element_name": "Systems Evaluation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Identify the reasons why a client might be unhappy with a product"
+    },
+    {
+      "element_id": "2.B.4.h",
+      "element_name": "Systems Evaluation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Evaluate the long-term performance of a new computer system"
+    },
+    {
+      "element_id": "2.B.5.a",
+      "element_name": "Time Management",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Keep a monthly calendar of appointments"
+    },
+    {
+      "element_id": "2.B.5.a",
+      "element_name": "Time Management",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Allocate the time of subordinates to projects for the coming week"
+    },
+    {
+      "element_id": "2.B.5.a",
+      "element_name": "Time Management",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Allocate the time of scientists to multiple research projects"
+    },
+    {
+      "element_id": "2.B.5.b",
+      "element_name": "Management of Financial Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Use available funds to buy office supplies and record the amount of the purchase"
+    },
+    {
+      "element_id": "2.B.5.b",
+      "element_name": "Management of Financial Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Prepare and manage a budget for a short-term project"
+    },
+    {
+      "element_id": "2.B.5.b",
+      "element_name": "Management of Financial Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Develop, monitor, and adjust annual budgets for a large corporation"
+    },
+    {
+      "element_id": "2.B.5.c",
+      "element_name": "Management of Material Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Reserve a room for a management meeting"
+    },
+    {
+      "element_id": "2.B.5.c",
+      "element_name": "Management of Material Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Evaluate an annual uniform service contract for delivery drivers"
+    },
+    {
+      "element_id": "2.B.5.c",
+      "element_name": "Management of Material Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Determine and monitor the computer system needs of a large corporation"
+    },
+    {
+      "element_id": "2.B.5.d",
+      "element_name": "Management of Personnel Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 2,
+      "anchor_description": "Encourage a coworker who is having difficulty finishing a project"
+    },
+    {
+      "element_id": "2.B.5.d",
+      "element_name": "Management of Personnel Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Direct the activities of a road repair crew with minimal disruption of traffic flow"
+    },
+    {
+      "element_id": "2.B.5.d",
+      "element_name": "Management of Personnel Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 6,
+      "anchor_description": "Manage recruitment and training programs for a high-performance company"
+    },
+    {
+      "element_id": "2.C.1.a",
+      "element_name": "Administration and Management",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Approve a reimbursement request"
+    },
+    {
+      "element_id": "2.C.1.a",
+      "element_name": "Administration and Management",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Monitor progress of a project to ensure timely completion"
+    },
+    {
+      "element_id": "2.C.1.a",
+      "element_name": "Administration and Management",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Manage a multimillion-dollar company"
+    },
+    {
+      "element_id": "2.C.1.b",
+      "element_name": "Administrative",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Direct phone calls to the appropriate staff member"
+    },
+    {
+      "element_id": "2.C.1.b",
+      "element_name": "Administrative",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Type 30 words per minute"
+    },
+    {
+      "element_id": "2.C.1.b",
+      "element_name": "Administrative",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Organize a digital storage system for company forms"
+    },
+    {
+      "element_id": "2.C.1.c",
+      "element_name": "Economics and Accounting",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Answer billing questions from credit card customers"
+    },
+    {
+      "element_id": "2.C.1.c",
+      "element_name": "Economics and Accounting",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Develop financial investment programs for individual clients"
+    },
+    {
+      "element_id": "2.C.1.c",
+      "element_name": "Economics and Accounting",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Keep a major corporation's financial records"
+    },
+    {
+      "element_id": "2.C.1.d",
+      "element_name": "Sales and Marketing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Sell cakes at a bake sale"
+    },
+    {
+      "element_id": "2.C.1.d",
+      "element_name": "Sales and Marketing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Introduce clients to a new line of products"
+    },
+    {
+      "element_id": "2.C.1.d",
+      "element_name": "Sales and Marketing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Develop a marketing plan for a new nationwide high-speed internet system"
+    },
+    {
+      "element_id": "2.C.1.e",
+      "element_name": "Customer and Personal Service",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Process a customer's dry-cleaning drop off"
+    },
+    {
+      "element_id": "2.C.1.e",
+      "element_name": "Customer and Personal Service",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Be responsible for 10 children at daycare"
+    },
+    {
+      "element_id": "2.C.1.e",
+      "element_name": "Customer and Personal Service",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Respond to a citizen's request for assistance after a major disaster"
+    },
+    {
+      "element_id": "2.C.1.f",
+      "element_name": "Personnel and Human Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Fill out a medical claim form"
+    },
+    {
+      "element_id": "2.C.1.f",
+      "element_name": "Personnel and Human Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Interview applicants for an administrative position"
+    },
+    {
+      "element_id": "2.C.1.f",
+      "element_name": "Personnel and Human Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Design a new personnel selection and promotion system for the Army"
+    },
+    {
+      "element_id": "2.C.10",
+      "element_name": "Transportation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Ride a train to work"
+    },
+    {
+      "element_id": "2.C.10",
+      "element_name": "Transportation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Drive a semi-truck through a busy city"
+    },
+    {
+      "element_id": "2.C.10",
+      "element_name": "Transportation",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Control air traffic at a busy airport"
+    },
+    {
+      "element_id": "2.C.2.a",
+      "element_name": "Production and Processing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Put a computer back into its packing materials"
+    },
+    {
+      "element_id": "2.C.2.a",
+      "element_name": "Production and Processing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Supervise an appliance assembly line"
+    },
+    {
+      "element_id": "2.C.2.a",
+      "element_name": "Production and Processing",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Manage an international shipping company distribution center"
+    },
+    {
+      "element_id": "2.C.2.b",
+      "element_name": "Food Production",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Grow herbs in the kitchen"
+    },
+    {
+      "element_id": "2.C.2.b",
+      "element_name": "Food Production",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Operate a commercial fishing boat"
+    },
+    {
+      "element_id": "2.C.2.b",
+      "element_name": "Food Production",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Run a large production farm"
+    },
+    {
+      "element_id": "2.C.3.a",
+      "element_name": "Computers and Electronics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Operate a media player to watch a training video"
+    },
+    {
+      "element_id": "2.C.3.a",
+      "element_name": "Computers and Electronics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Use a computer to format a document"
+    },
+    {
+      "element_id": "2.C.3.a",
+      "element_name": "Computers and Electronics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Create a program to scan a computer for viruses"
+    },
+    {
+      "element_id": "2.C.3.b",
+      "element_name": "Engineering and Technology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Install a door lock"
+    },
+    {
+      "element_id": "2.C.3.b",
+      "element_name": "Engineering and Technology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Design a custom office chair"
+    },
+    {
+      "element_id": "2.C.3.b",
+      "element_name": "Engineering and Technology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Plan for the impact of weather in designing a bridge"
+    },
+    {
+      "element_id": "2.C.3.c",
+      "element_name": "Design",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Draw a straight line 4 3/16 inches long"
+    },
+    {
+      "element_id": "2.C.3.c",
+      "element_name": "Design",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Design plans for remodeling a kitchen"
+    },
+    {
+      "element_id": "2.C.3.c",
+      "element_name": "Design",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Develop detailed plans for a high-rise office building"
+    },
+    {
+      "element_id": "2.C.3.d",
+      "element_name": "Building and Construction",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Choose the proper type of wood for adding a deck onto a house"
+    },
+    {
+      "element_id": "2.C.3.d",
+      "element_name": "Building and Construction",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Fix a plumbing leak in the ceiling"
+    },
+    {
+      "element_id": "2.C.3.d",
+      "element_name": "Building and Construction",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Build a high-rise office tower"
+    },
+    {
+      "element_id": "2.C.3.e",
+      "element_name": "Mechanical",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Replace the filters in a furnace"
+    },
+    {
+      "element_id": "2.C.3.e",
+      "element_name": "Mechanical",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Replace a valve on a steam pipe"
+    },
+    {
+      "element_id": "2.C.3.e",
+      "element_name": "Mechanical",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Overhaul an airplane jet engine"
+    },
+    {
+      "element_id": "2.C.4.a",
+      "element_name": "Mathematics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Add two numbers"
+    },
+    {
+      "element_id": "2.C.4.a",
+      "element_name": "Mathematics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Analyze data to determine areas with the highest sales"
+    },
+    {
+      "element_id": "2.C.4.a",
+      "element_name": "Mathematics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Derive a complex mathematical equation"
+    },
+    {
+      "element_id": "2.C.4.b",
+      "element_name": "Physics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Use a crowbar to pry open a box"
+    },
+    {
+      "element_id": "2.C.4.b",
+      "element_name": "Physics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Calculate the speed of a falling object"
+    },
+    {
+      "element_id": "2.C.4.b",
+      "element_name": "Physics",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Design a cleaner burning gasoline engine"
+    },
+    {
+      "element_id": "2.C.4.c",
+      "element_name": "Chemistry",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Use a common household bug spray"
+    },
+    {
+      "element_id": "2.C.4.c",
+      "element_name": "Chemistry",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Use the proper concentration of chlorine to purify a water source"
+    },
+    {
+      "element_id": "2.C.4.c",
+      "element_name": "Chemistry",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Develop a safe commercial cleaner"
+    },
+    {
+      "element_id": "2.C.4.d",
+      "element_name": "Biology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Feed domestic animals"
+    },
+    {
+      "element_id": "2.C.4.d",
+      "element_name": "Biology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Investigate the effects of pollution on marine plants and animals"
+    },
+    {
+      "element_id": "2.C.4.d",
+      "element_name": "Biology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Isolate and identify a new virus"
+    },
+    {
+      "element_id": "2.C.4.e",
+      "element_name": "Psychology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Monitor several children on a playground"
+    },
+    {
+      "element_id": "2.C.4.e",
+      "element_name": "Psychology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Understand the impact of alcohol on human responses"
+    },
+    {
+      "element_id": "2.C.4.e",
+      "element_name": "Psychology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Treat a person with a severe mental illness"
+    },
+    {
+      "element_id": "2.C.4.f",
+      "element_name": "Sociology and Anthropology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Identify two cultures in a story as being different"
+    },
+    {
+      "element_id": "2.C.4.f",
+      "element_name": "Sociology and Anthropology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Write an article about cultural differences"
+    },
+    {
+      "element_id": "2.C.4.f",
+      "element_name": "Sociology and Anthropology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Create a new theory about the development of civilizations"
+    },
+    {
+      "element_id": "2.C.4.g",
+      "element_name": "Geography",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Know the capital of the United States"
+    },
+    {
+      "element_id": "2.C.4.g",
+      "element_name": "Geography",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Find a specific country on a world map"
+    },
+    {
+      "element_id": "2.C.4.g",
+      "element_name": "Geography",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Develop a map of the world showing mountains, deserts, and rivers"
+    },
+    {
+      "element_id": "2.C.5.a",
+      "element_name": "Medicine and Dentistry",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Use a band-aid"
+    },
+    {
+      "element_id": "2.C.5.a",
+      "element_name": "Medicine and Dentistry",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Fill a tooth cavity"
+    },
+    {
+      "element_id": "2.C.5.a",
+      "element_name": "Medicine and Dentistry",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Perform open heart surgery"
+    },
+    {
+      "element_id": "2.C.5.b",
+      "element_name": "Therapy and Counseling",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Put ice on a sprained ankle"
+    },
+    {
+      "element_id": "2.C.5.b",
+      "element_name": "Therapy and Counseling",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Provide job counseling to the unemployed"
+    },
+    {
+      "element_id": "2.C.5.b",
+      "element_name": "Therapy and Counseling",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Counsel an abused child"
+    },
+    {
+      "element_id": "2.C.6",
+      "element_name": "Education and Training",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Show someone how to bowl"
+    },
+    {
+      "element_id": "2.C.6",
+      "element_name": "Education and Training",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Lead a quality improvement seminar"
+    },
+    {
+      "element_id": "2.C.6",
+      "element_name": "Education and Training",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Design a training program for new employees"
+    },
+    {
+      "element_id": "2.C.7.a",
+      "element_name": "English Language",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Write a thank you note"
+    },
+    {
+      "element_id": "2.C.7.a",
+      "element_name": "English Language",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Edit an article for a news website"
+    },
+    {
+      "element_id": "2.C.7.a",
+      "element_name": "English Language",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Teach a college English class"
+    },
+    {
+      "element_id": "2.C.7.b",
+      "element_name": "Foreign Language",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Say \"please\" and \"thank you\" in a foreign language"
+    },
+    {
+      "element_id": "2.C.7.b",
+      "element_name": "Foreign Language",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Ask directions in a foreign city"
+    },
+    {
+      "element_id": "2.C.7.b",
+      "element_name": "Foreign Language",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Write an English language review of a book written in a foreign language"
+    },
+    {
+      "element_id": "2.C.7.c",
+      "element_name": "Fine Arts",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Attend a popular music concert"
+    },
+    {
+      "element_id": "2.C.7.c",
+      "element_name": "Fine Arts",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Play a minor part in a local theater play"
+    },
+    {
+      "element_id": "2.C.7.c",
+      "element_name": "Fine Arts",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Design an exhibit for a major art show"
+    },
+    {
+      "element_id": "2.C.7.d",
+      "element_name": "History and Archeology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Take a class in US history"
+    },
+    {
+      "element_id": "2.C.7.d",
+      "element_name": "History and Archeology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Teach local history to school children"
+    },
+    {
+      "element_id": "2.C.7.d",
+      "element_name": "History and Archeology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Determine the age of bones for placing them in fossil history"
+    },
+    {
+      "element_id": "2.C.7.e",
+      "element_name": "Philosophy and Theology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Watch a TV show on family values"
+    },
+    {
+      "element_id": "2.C.7.e",
+      "element_name": "Philosophy and Theology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Understand another culture's religious practices"
+    },
+    {
+      "element_id": "2.C.7.e",
+      "element_name": "Philosophy and Theology",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Compare the teachings of major philosophers"
+    },
+    {
+      "element_id": "2.C.8.a",
+      "element_name": "Public Safety and Security",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Use a seatbelt"
+    },
+    {
+      "element_id": "2.C.8.a",
+      "element_name": "Public Safety and Security",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Inspect a building site for safety violations"
+    },
+    {
+      "element_id": "2.C.8.a",
+      "element_name": "Public Safety and Security",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Command a military operation"
+    },
+    {
+      "element_id": "2.C.8.b",
+      "element_name": "Law and Government",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Describe the length of a U.S. presidential term"
+    },
+    {
+      "element_id": "2.C.8.b",
+      "element_name": "Law and Government",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Prepare documents and title papers for the purchase of a new house"
+    },
+    {
+      "element_id": "2.C.8.b",
+      "element_name": "Law and Government",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Serve as a judge in a federal court"
+    },
+    {
+      "element_id": "2.C.9.a",
+      "element_name": "Telecommunications",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Send an email"
+    },
+    {
+      "element_id": "2.C.9.a",
+      "element_name": "Telecommunications",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Install a wireless internet router"
+    },
+    {
+      "element_id": "2.C.9.a",
+      "element_name": "Telecommunications",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Develop a new, world-wide telecommunications network"
+    },
+    {
+      "element_id": "2.C.9.b",
+      "element_name": "Communications and Media",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Write a thank you note"
+    },
+    {
+      "element_id": "2.C.9.b",
+      "element_name": "Communications and Media",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Host a music radio show"
+    },
+    {
+      "element_id": "2.C.9.b",
+      "element_name": "Communications and Media",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Write a novel"
+    },
+    {
+      "element_id": "4.A.1.a.1",
+      "element_name": "Getting Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Follow a standard blueprint"
+    },
+    {
+      "element_id": "4.A.1.a.1",
+      "element_name": "Getting Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Review a budget"
+    },
+    {
+      "element_id": "4.A.1.a.1",
+      "element_name": "Getting Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Study international tax laws"
+    },
+    {
+      "element_id": "4.A.1.a.2",
+      "element_name": "Monitoring Processes, Materials, or Surroundings",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Check to see if baking bread is done"
+    },
+    {
+      "element_id": "4.A.1.a.2",
+      "element_name": "Monitoring Processes, Materials, or Surroundings",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Test electrical circuits"
+    },
+    {
+      "element_id": "4.A.1.a.2",
+      "element_name": "Monitoring Processes, Materials, or Surroundings",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Check the status of a patient in critical medical care"
+    },
+    {
+      "element_id": "4.A.1.b.1",
+      "element_name": "Identifying Objects, Actions, and Events",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Test an automobile transmission"
+    },
+    {
+      "element_id": "4.A.1.b.1",
+      "element_name": "Identifying Objects, Actions, and Events",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Judge the suitability of food products for an event"
+    },
+    {
+      "element_id": "4.A.1.b.1",
+      "element_name": "Identifying Objects, Actions, and Events",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Determine the reaction of a virus to a new drug"
+    },
+    {
+      "element_id": "4.A.1.b.2",
+      "element_name": "Inspecting Equipment, Structures, or Materials",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Check that doors to building are locked"
+    },
+    {
+      "element_id": "4.A.1.b.2",
+      "element_name": "Inspecting Equipment, Structures, or Materials",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Inspect equipment in a chemical processing plant"
+    },
+    {
+      "element_id": "4.A.1.b.2",
+      "element_name": "Inspecting Equipment, Structures, or Materials",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Conduct a thorough inspection of an aircraft engine"
+    },
+    {
+      "element_id": "4.A.1.b.3",
+      "element_name": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Estimate the size of household furniture to be shipped"
+    },
+    {
+      "element_id": "4.A.1.b.3",
+      "element_name": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Estimate the time required to evacuate a city in the event of a major disaster"
+    },
+    {
+      "element_id": "4.A.1.b.3",
+      "element_name": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Estimate the amount of natural resources that lie beneath the world's oceans"
+    },
+    {
+      "element_id": "4.A.2.a.1",
+      "element_name": "Judging the Qualities of Objects, Services, or People",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Determine whether to remove a tree that has been damaged"
+    },
+    {
+      "element_id": "4.A.2.a.1",
+      "element_name": "Judging the Qualities of Objects, Services, or People",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Determine the value of property lost in a fire"
+    },
+    {
+      "element_id": "4.A.2.a.1",
+      "element_name": "Judging the Qualities of Objects, Services, or People",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Establish the value of a recently discovered ancient artwork"
+    },
+    {
+      "element_id": "4.A.2.a.2",
+      "element_name": "Processing Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Calculate the costs for shipping packages"
+    },
+    {
+      "element_id": "4.A.2.a.2",
+      "element_name": "Processing Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Calculate the adjustments for insurance claims"
+    },
+    {
+      "element_id": "4.A.2.a.2",
+      "element_name": "Processing Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Compile data for a complex scientific report"
+    },
+    {
+      "element_id": "4.A.2.a.3",
+      "element_name": "Evaluating Information to Determine Compliance with Standards",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Review forms for completeness"
+    },
+    {
+      "element_id": "4.A.2.a.3",
+      "element_name": "Evaluating Information to Determine Compliance with Standards",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Evaluate a complicated insurance claim for compliance with policy terms"
+    },
+    {
+      "element_id": "4.A.2.a.3",
+      "element_name": "Evaluating Information to Determine Compliance with Standards",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Make a ruling in court on a complicated motion"
+    },
+    {
+      "element_id": "4.A.2.a.4",
+      "element_name": "Analyzing Data or Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Skim a short article to gather the main point"
+    },
+    {
+      "element_id": "4.A.2.a.4",
+      "element_name": "Analyzing Data or Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Determine the interest cost to finance a new building"
+    },
+    {
+      "element_id": "4.A.2.a.4",
+      "element_name": "Analyzing Data or Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Analyze the cost of medical care services for all hospitals in the country"
+    },
+    {
+      "element_id": "4.A.2.b.1",
+      "element_name": "Making Decisions and Solving Problems",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Determine the meal selection for a cafeteria"
+    },
+    {
+      "element_id": "4.A.2.b.1",
+      "element_name": "Making Decisions and Solving Problems",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Select the location for a major retail store"
+    },
+    {
+      "element_id": "4.A.2.b.1",
+      "element_name": "Making Decisions and Solving Problems",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Make the final decision about a company's 5-year plan"
+    },
+    {
+      "element_id": "4.A.2.b.2",
+      "element_name": "Thinking Creatively",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Change the spacing on a printed report"
+    },
+    {
+      "element_id": "4.A.2.b.2",
+      "element_name": "Thinking Creatively",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Adapt popular music for a high school marching band"
+    },
+    {
+      "element_id": "4.A.2.b.2",
+      "element_name": "Thinking Creatively",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Create new computer software"
+    },
+    {
+      "element_id": "4.A.2.b.3",
+      "element_name": "Updating and Using Relevant Knowledge",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Keep up with price changes in a small retail store"
+    },
+    {
+      "element_id": "4.A.2.b.3",
+      "element_name": "Updating and Using Relevant Knowledge",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Keep current on changes in maintenance procedures for repairing sports cars"
+    },
+    {
+      "element_id": "4.A.2.b.3",
+      "element_name": "Updating and Using Relevant Knowledge",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Learn information related to a complex and rapidly changing technology"
+    },
+    {
+      "element_id": "4.A.2.b.4",
+      "element_name": "Developing Objectives and Strategies",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Plan the holiday schedule for an airline workforce"
+    },
+    {
+      "element_id": "4.A.2.b.4",
+      "element_name": "Developing Objectives and Strategies",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Develop the plan to complete the merger of two organizations over a 3-year period"
+    },
+    {
+      "element_id": "4.A.2.b.4",
+      "element_name": "Developing Objectives and Strategies",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Develop a 10-year business plan for an organization"
+    },
+    {
+      "element_id": "4.A.2.b.5",
+      "element_name": "Scheduling Work and Activities",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Make appointments for patients using a predetermined schedule"
+    },
+    {
+      "element_id": "4.A.2.b.5",
+      "element_name": "Scheduling Work and Activities",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Prepare the work schedule for salesclerks in a large retail store"
+    },
+    {
+      "element_id": "4.A.2.b.5",
+      "element_name": "Scheduling Work and Activities",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Schedule a complex conference program with multiple, parallel sessions"
+    },
+    {
+      "element_id": "4.A.2.b.6",
+      "element_name": "Organizing, Planning, and Prioritizing Work",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Organize a work schedule that is repetitive and easy to plan"
+    },
+    {
+      "element_id": "4.A.2.b.6",
+      "element_name": "Organizing, Planning, and Prioritizing Work",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Plan and adjust a personal to-do list according to changing demands"
+    },
+    {
+      "element_id": "4.A.2.b.6",
+      "element_name": "Organizing, Planning, and Prioritizing Work",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Prioritize and plan multiple tasks several months ahead"
+    },
+    {
+      "element_id": "4.A.3.a.1",
+      "element_name": "Performing General Physical Activities",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Walk between workstations in a small office"
+    },
+    {
+      "element_id": "4.A.3.a.1",
+      "element_name": "Performing General Physical Activities",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Paint the outside of a house"
+    },
+    {
+      "element_id": "4.A.3.a.1",
+      "element_name": "Performing General Physical Activities",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Climb up and down poles to install electricity"
+    },
+    {
+      "element_id": "4.A.3.a.2",
+      "element_name": "Handling and Moving Objects",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Change settings on copy machines"
+    },
+    {
+      "element_id": "4.A.3.a.2",
+      "element_name": "Handling and Moving Objects",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Arrange books in a library"
+    },
+    {
+      "element_id": "4.A.3.a.2",
+      "element_name": "Handling and Moving Objects",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Load boxes on an assembly line"
+    },
+    {
+      "element_id": "4.A.3.a.3",
+      "element_name": "Controlling Machines and Processes",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Operate a cash register"
+    },
+    {
+      "element_id": "4.A.3.a.3",
+      "element_name": "Controlling Machines and Processes",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Operate a drilling rig"
+    },
+    {
+      "element_id": "4.A.3.a.3",
+      "element_name": "Controlling Machines and Processes",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Operate a precision milling machine"
+    },
+    {
+      "element_id": "4.A.3.a.4",
+      "element_name": "Operating Vehicles, Mechanized Devices, or Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Drive a car"
+    },
+    {
+      "element_id": "4.A.3.a.4",
+      "element_name": "Operating Vehicles, Mechanized Devices, or Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Drive an 18-wheel tractor-trailer"
+    },
+    {
+      "element_id": "4.A.3.a.4",
+      "element_name": "Operating Vehicles, Mechanized Devices, or Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Hover a helicopter in strong wind"
+    },
+    {
+      "element_id": "4.A.3.b.1",
+      "element_name": "Working with Computers",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Enter employee information into a database"
+    },
+    {
+      "element_id": "4.A.3.b.1",
+      "element_name": "Working with Computers",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Write software for keeping track of parts in inventory"
+    },
+    {
+      "element_id": "4.A.3.b.1",
+      "element_name": "Working with Computers",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Set up a new computer system for a large multinational company"
+    },
+    {
+      "element_id": "4.A.3.b.2",
+      "element_name": "Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Specify the lighting for a work area"
+    },
+    {
+      "element_id": "4.A.3.b.2",
+      "element_name": "Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Specify the furniture and equipment for a new school"
+    },
+    {
+      "element_id": "4.A.3.b.2",
+      "element_name": "Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Draw the layout of a circuit board for a high-performance computer"
+    },
+    {
+      "element_id": "4.A.3.b.4",
+      "element_name": "Repairing and Maintaining Mechanical Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Make simple, external adjustments to a door hinge with ordinary hand tools"
+    },
+    {
+      "element_id": "4.A.3.b.4",
+      "element_name": "Repairing and Maintaining Mechanical Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Change the oil on a tractor"
+    },
+    {
+      "element_id": "4.A.3.b.4",
+      "element_name": "Repairing and Maintaining Mechanical Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Overhaul a power plant turbine"
+    },
+    {
+      "element_id": "4.A.3.b.5",
+      "element_name": "Repairing and Maintaining Electronic Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Use display settings to adjust a television picture"
+    },
+    {
+      "element_id": "4.A.3.b.5",
+      "element_name": "Repairing and Maintaining Electronic Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Make repairs by removing and replacing circuit boards"
+    },
+    {
+      "element_id": "4.A.3.b.5",
+      "element_name": "Repairing and Maintaining Electronic Equipment",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Use complex test equipment to calibrate electronic equipment"
+    },
+    {
+      "element_id": "4.A.3.b.6",
+      "element_name": "Documenting/Recording Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Record the weight of a patient during a routine health exam"
+    },
+    {
+      "element_id": "4.A.3.b.6",
+      "element_name": "Documenting/Recording Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Document the results of a crime scene investigation"
+    },
+    {
+      "element_id": "4.A.3.b.6",
+      "element_name": "Documenting/Recording Information",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Maintain information about the use of satellites for industry communications"
+    },
+    {
+      "element_id": "4.A.4.a.1",
+      "element_name": "Interpreting the Meaning of Information for Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Interpret a blood pressure reading"
+    },
+    {
+      "element_id": "4.A.4.a.1",
+      "element_name": "Interpreting the Meaning of Information for Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Interpret how foreign tax laws apply to U.S. exports"
+    },
+    {
+      "element_id": "4.A.4.a.1",
+      "element_name": "Interpreting the Meaning of Information for Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Interpret a complex experiment in physics for general audiences"
+    },
+    {
+      "element_id": "4.A.4.a.2",
+      "element_name": "Communicating with Supervisors, Peers, or Subordinates",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Write brief messages to others"
+    },
+    {
+      "element_id": "4.A.4.a.2",
+      "element_name": "Communicating with Supervisors, Peers, or Subordinates",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Report the results of a sales meeting to a supervisor"
+    },
+    {
+      "element_id": "4.A.4.a.2",
+      "element_name": "Communicating with Supervisors, Peers, or Subordinates",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Create and deliver a presentation on a company's internal policies"
+    },
+    {
+      "element_id": "4.A.4.a.3",
+      "element_name": "Communicating with People Outside the Organization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Have little contact with people outside the organization"
+    },
+    {
+      "element_id": "4.A.4.a.3",
+      "element_name": "Communicating with People Outside the Organization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Present information to potential clients about available services"
+    },
+    {
+      "element_id": "4.A.4.a.3",
+      "element_name": "Communicating with People Outside the Organization",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Prepare or deliver press releases"
+    },
+    {
+      "element_id": "4.A.4.a.4",
+      "element_name": "Establishing and Maintaining Interpersonal Relationships",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Exchange greetings with a coworker"
+    },
+    {
+      "element_id": "4.A.4.a.4",
+      "element_name": "Establishing and Maintaining Interpersonal Relationships",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Maintain good working relationships with almost all coworkers and clients"
+    },
+    {
+      "element_id": "4.A.4.a.4",
+      "element_name": "Establishing and Maintaining Interpersonal Relationships",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Gain cooperation from a diverse group of executives with competing interests"
+    },
+    {
+      "element_id": "4.A.4.a.5",
+      "element_name": "Assisting and Caring for Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Help a coworker complete an assignment"
+    },
+    {
+      "element_id": "4.A.4.a.5",
+      "element_name": "Assisting and Caring for Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Help a medical patient find in-home assistance or healthcare"
+    },
+    {
+      "element_id": "4.A.4.a.5",
+      "element_name": "Assisting and Caring for Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Care for seriously injured persons in an emergency room"
+    },
+    {
+      "element_id": "4.A.4.a.6",
+      "element_name": "Selling or Influencing Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Convince a coworker to assist with an assignment"
+    },
+    {
+      "element_id": "4.A.4.a.6",
+      "element_name": "Selling or Influencing Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Make a sales pitch to convince others to buy a product"
+    },
+    {
+      "element_id": "4.A.4.a.6",
+      "element_name": "Selling or Influencing Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Deliver a major sales campaign in a new market"
+    },
+    {
+      "element_id": "4.A.4.a.7",
+      "element_name": "Resolving Conflicts and Negotiating with Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Apologize to a customer who complains about waiting too long"
+    },
+    {
+      "element_id": "4.A.4.a.7",
+      "element_name": "Resolving Conflicts and Negotiating with Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Get two subordinates to agree about vacation schedules"
+    },
+    {
+      "element_id": "4.A.4.a.7",
+      "element_name": "Resolving Conflicts and Negotiating with Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Negotiate a major labor-management contract"
+    },
+    {
+      "element_id": "4.A.4.a.8",
+      "element_name": "Performing for or Working Directly with the Public",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Check tickets at a concert"
+    },
+    {
+      "element_id": "4.A.4.a.8",
+      "element_name": "Performing for or Working Directly with the Public",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Sell shoes in a crowded shoe store"
+    },
+    {
+      "element_id": "4.A.4.a.8",
+      "element_name": "Performing for or Working Directly with the Public",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Perform a monologue on TV"
+    },
+    {
+      "element_id": "4.A.4.b.1",
+      "element_name": "Coordinating the Work and Activities of Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Exchange information during a shift change"
+    },
+    {
+      "element_id": "4.A.4.b.1",
+      "element_name": "Coordinating the Work and Activities of Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Organize the cleanup crew after a major sporting event"
+    },
+    {
+      "element_id": "4.A.4.b.1",
+      "element_name": "Coordinating the Work and Activities of Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Act as general contractor for building a large industrial complex"
+    },
+    {
+      "element_id": "4.A.4.b.2",
+      "element_name": "Developing and Building Teams",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Encourage two coworkers to stick with a tough assignment"
+    },
+    {
+      "element_id": "4.A.4.b.2",
+      "element_name": "Developing and Building Teams",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Lead an assembly team in an automobile plant"
+    },
+    {
+      "element_id": "4.A.4.b.2",
+      "element_name": "Developing and Building Teams",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Lead a large team to design and build a new aircraft"
+    },
+    {
+      "element_id": "4.A.4.b.3",
+      "element_name": "Training and Teaching Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Give coworkers brief instructions on a simple procedural change"
+    },
+    {
+      "element_id": "4.A.4.b.3",
+      "element_name": "Training and Teaching Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Teach a social sciences course to high school students"
+    },
+    {
+      "element_id": "4.A.4.b.3",
+      "element_name": "Training and Teaching Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Develop and conduct training programs for a medical school"
+    },
+    {
+      "element_id": "4.A.4.b.4",
+      "element_name": "Guiding, Directing, and Motivating Subordinates",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Work occasionally as a backup supervisor"
+    },
+    {
+      "element_id": "4.A.4.b.4",
+      "element_name": "Guiding, Directing, and Motivating Subordinates",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Manage a small team of employees in a dynamic workplace"
+    },
+    {
+      "element_id": "4.A.4.b.4",
+      "element_name": "Guiding, Directing, and Motivating Subordinates",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Manage a severely downsized unit"
+    },
+    {
+      "element_id": "4.A.4.b.5",
+      "element_name": "Coaching and Developing Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Show a coworker how to operate a piece of equipment"
+    },
+    {
+      "element_id": "4.A.4.b.5",
+      "element_name": "Coaching and Developing Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Provide on-the-job training for administrative workers"
+    },
+    {
+      "element_id": "4.A.4.b.5",
+      "element_name": "Coaching and Developing Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Coach a college athletic team"
+    },
+    {
+      "element_id": "4.A.4.b.6",
+      "element_name": "Providing Consultation and Advice to Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Work in a position that requires little advising of others"
+    },
+    {
+      "element_id": "4.A.4.b.6",
+      "element_name": "Providing Consultation and Advice to Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Recommend a new software package to increase operational efficiency"
+    },
+    {
+      "element_id": "4.A.4.b.6",
+      "element_name": "Providing Consultation and Advice to Others",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Provide ideas for changing an organization to increase profitability"
+    },
+    {
+      "element_id": "4.A.4.c.1",
+      "element_name": "Performing Administrative Activities",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Complete routine paperwork"
+    },
+    {
+      "element_id": "4.A.4.c.1",
+      "element_name": "Performing Administrative Activities",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Complete tax forms for a small business"
+    },
+    {
+      "element_id": "4.A.4.c.1",
+      "element_name": "Performing Administrative Activities",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Serve as the benefits director for a large computer sales organization"
+    },
+    {
+      "element_id": "4.A.4.c.2",
+      "element_name": "Staffing Organizational Units",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Work in a position that has minimal staffing requirements"
+    },
+    {
+      "element_id": "4.A.4.c.2",
+      "element_name": "Staffing Organizational Units",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Interview candidates for a sales position and make hiring recommendations"
+    },
+    {
+      "element_id": "4.A.4.c.2",
+      "element_name": "Staffing Organizational Units",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Direct a recruiting program for a large international organization"
+    },
+    {
+      "element_id": "4.A.4.c.3",
+      "element_name": "Monitoring and Controlling Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 1,
+      "anchor_description": "Work as a server responsible for keeping track of utensils"
+    },
+    {
+      "element_id": "4.A.4.c.3",
+      "element_name": "Monitoring and Controlling Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 4,
+      "anchor_description": "Work as a chef responsible for ordering food for the menu"
+    },
+    {
+      "element_id": "4.A.4.c.3",
+      "element_name": "Monitoring and Controlling Resources",
+      "scale_id": "LV",
+      "scale_name": "Level",
+      "anchor_value": 7,
+      "anchor_description": "Serve as a financial executive in charge of a large company's budget"
+    }
+  ]
+}

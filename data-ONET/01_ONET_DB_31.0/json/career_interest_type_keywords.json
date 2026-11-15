@@ -1,0 +1,492 @@
+{
+  "table_id": "career_interest_type_keywords",
+  "title": "Career Interest Type Keywords",
+  "description": "Provide action and object keywords for each career interest type (RIASEC).",
+  "data_dictionary": "https://www.onetcenter.org/dictionary/31.0/json/career_interest_type_keywords.html",
+  "column": [
+    {
+      "column_id": "element_id",
+      "optional": false,
+      "title": "Element ID",
+      "description": "Content Model Outline Position",
+      "type": "Text",
+      "format": "Character Varying(20)"
+    },
+    {
+      "column_id": "element_name",
+      "optional": false,
+      "title": "Element Name",
+      "description": "Content Model Element Name",
+      "type": "Text",
+      "format": "Character Varying(150)"
+    },
+    {
+      "column_id": "keyword",
+      "optional": false,
+      "title": "Keyword",
+      "description": "Relevant interest keyword",
+      "type": "Text",
+      "format": "Character Varying(150)"
+    },
+    {
+      "column_id": "keyword_type",
+      "optional": false,
+      "title": "Keyword Type",
+      "description": "“Action” or “Object”",
+      "type": "Text",
+      "format": "Character Varying(20)"
+    }
+  ],
+  "row": [
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Build",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Drive",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Install",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Maintain",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Repair",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Work with Hands",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Animals",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Electronics",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Equipment",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Machines",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Plants",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Real-World Materials like Wood",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.a",
+      "element_name": "Realistic",
+      "keyword": "Tools",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Analyze",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Diagnose",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Discover",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Problem Solve",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Research",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Study",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Test",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Think",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Facts",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Ideas",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Knowledge",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Laboratory",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.b",
+      "element_name": "Investigative",
+      "keyword": "Science",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Compose",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Create",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Dance",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Design",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Perform",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Self-Express",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Write",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Art",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Graphics",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Media",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Music",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.c",
+      "element_name": "Artistic",
+      "keyword": "Theatre",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "Advise",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "Educate",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "Guide",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "Help",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "Nurture",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "Teach",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "Communication",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "Health",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "People",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "Service",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.d",
+      "element_name": "Social",
+      "keyword": "Social",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Direct",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Lead",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Manage",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Market",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Negotiate",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Sell",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Supervise",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Business",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Customer",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Employee",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Law",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Politics",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.e",
+      "element_name": "Enterprising",
+      "keyword": "Product",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Attention to Detail",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "File",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Inspect",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Organize",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Record",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Sort",
+      "keyword_type": "Action"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Data",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Files",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Information",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Office",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Procedures",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Regulations",
+      "keyword_type": "Object"
+    },
+    {
+      "element_id": "1.B.1.f",
+      "element_name": "Conventional",
+      "keyword": "Rules",
+      "keyword_type": "Object"
+    }
+  ]
+}

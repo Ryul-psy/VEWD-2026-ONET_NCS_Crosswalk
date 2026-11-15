@@ -1,0 +1,360 @@
+{
+  "table_id": "specific_interest_areas_to_career_interest_types",
+  "title": "Specific Interest Areas to Career Interest Types",
+  "description": "Provide linkages between each specific interest area to relevant career interest types (RIASEC).",
+  "data_dictionary": "https://www.onetcenter.org/dictionary/31.0/json/specific_interest_areas_to_career_interest_types.html",
+  "column": [
+    {
+      "column_id": "specific_interest_areas_element_id",
+      "optional": false,
+      "title": "Specific Interest Areas Element ID",
+      "description": "Content Model Outline Position",
+      "type": "Text",
+      "format": "Character Varying(20)"
+    },
+    {
+      "column_id": "specific_interest_areas_element_name",
+      "optional": false,
+      "title": "Specific Interest Areas Element Name",
+      "description": "Content Model Element Name",
+      "type": "Text",
+      "format": "Character Varying(150)"
+    },
+    {
+      "column_id": "career_interest_types_element_id",
+      "optional": false,
+      "title": "Career Interest Types Element ID",
+      "description": "Content Model Outline Position",
+      "type": "Text",
+      "format": "Character Varying(20)"
+    },
+    {
+      "column_id": "career_interest_types_element_name",
+      "optional": false,
+      "title": "Career Interest Types Element Name",
+      "description": "Content Model Element Name",
+      "type": "Text",
+      "format": "Character Varying(150)"
+    }
+  ],
+  "row": [
+    {
+      "specific_interest_areas_element_id": "1.B.3.a",
+      "specific_interest_areas_element_name": "Mechanics/Electronics",
+      "career_interest_types_element_id": "1.B.1.a",
+      "career_interest_types_element_name": "Realistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.b",
+      "specific_interest_areas_element_name": "Construction/Woodwork",
+      "career_interest_types_element_id": "1.B.1.a",
+      "career_interest_types_element_name": "Realistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.c",
+      "specific_interest_areas_element_name": "Transportation/Machine Operation",
+      "career_interest_types_element_id": "1.B.1.a",
+      "career_interest_types_element_name": "Realistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.d",
+      "specific_interest_areas_element_name": "Physical/Manual Labor",
+      "career_interest_types_element_id": "1.B.1.a",
+      "career_interest_types_element_name": "Realistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.e",
+      "specific_interest_areas_element_name": "Protective Service",
+      "career_interest_types_element_id": "1.B.1.a",
+      "career_interest_types_element_name": "Realistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.f",
+      "specific_interest_areas_element_name": "Agriculture",
+      "career_interest_types_element_id": "1.B.1.a",
+      "career_interest_types_element_name": "Realistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.g",
+      "specific_interest_areas_element_name": "Nature/Outdoors",
+      "career_interest_types_element_id": "1.B.1.a",
+      "career_interest_types_element_name": "Realistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.h",
+      "specific_interest_areas_element_name": "Animal Service",
+      "career_interest_types_element_id": "1.B.1.a",
+      "career_interest_types_element_name": "Realistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.h",
+      "specific_interest_areas_element_name": "Animal Service",
+      "career_interest_types_element_id": "1.B.1.d",
+      "career_interest_types_element_name": "Social"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.i",
+      "specific_interest_areas_element_name": "Athletics",
+      "career_interest_types_element_id": "1.B.1.a",
+      "career_interest_types_element_name": "Realistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.i",
+      "specific_interest_areas_element_name": "Athletics",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.j",
+      "specific_interest_areas_element_name": "Engineering",
+      "career_interest_types_element_id": "1.B.1.a",
+      "career_interest_types_element_name": "Realistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.k",
+      "specific_interest_areas_element_name": "Physical Science",
+      "career_interest_types_element_id": "1.B.1.b",
+      "career_interest_types_element_name": "Investigative"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.l",
+      "specific_interest_areas_element_name": "Life Science",
+      "career_interest_types_element_id": "1.B.1.b",
+      "career_interest_types_element_name": "Investigative"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.m",
+      "specific_interest_areas_element_name": "Medical Science",
+      "career_interest_types_element_id": "1.B.1.b",
+      "career_interest_types_element_name": "Investigative"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.n",
+      "specific_interest_areas_element_name": "Social Science",
+      "career_interest_types_element_id": "1.B.1.b",
+      "career_interest_types_element_name": "Investigative"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.n",
+      "specific_interest_areas_element_name": "Social Science",
+      "career_interest_types_element_id": "1.B.1.d",
+      "career_interest_types_element_name": "Social"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.o",
+      "specific_interest_areas_element_name": "Humanities",
+      "career_interest_types_element_id": "1.B.1.b",
+      "career_interest_types_element_name": "Investigative"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.o",
+      "specific_interest_areas_element_name": "Humanities",
+      "career_interest_types_element_id": "1.B.1.c",
+      "career_interest_types_element_name": "Artistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.p",
+      "specific_interest_areas_element_name": "Mathematics/Statistics",
+      "career_interest_types_element_id": "1.B.1.b",
+      "career_interest_types_element_name": "Investigative"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.p",
+      "specific_interest_areas_element_name": "Mathematics/Statistics",
+      "career_interest_types_element_id": "1.B.1.f",
+      "career_interest_types_element_name": "Conventional"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.q",
+      "specific_interest_areas_element_name": "Information Technology",
+      "career_interest_types_element_id": "1.B.1.f",
+      "career_interest_types_element_name": "Conventional"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.r",
+      "specific_interest_areas_element_name": "Visual Arts",
+      "career_interest_types_element_id": "1.B.1.c",
+      "career_interest_types_element_name": "Artistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.s",
+      "specific_interest_areas_element_name": "Applied Arts and Design",
+      "career_interest_types_element_id": "1.B.1.c",
+      "career_interest_types_element_name": "Artistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.t",
+      "specific_interest_areas_element_name": "Performing Arts",
+      "career_interest_types_element_id": "1.B.1.c",
+      "career_interest_types_element_name": "Artistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.u",
+      "specific_interest_areas_element_name": "Music",
+      "career_interest_types_element_id": "1.B.1.c",
+      "career_interest_types_element_name": "Artistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.v",
+      "specific_interest_areas_element_name": "Creative Writing",
+      "career_interest_types_element_id": "1.B.1.c",
+      "career_interest_types_element_name": "Artistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.w",
+      "specific_interest_areas_element_name": "Media",
+      "career_interest_types_element_id": "1.B.1.c",
+      "career_interest_types_element_name": "Artistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.x",
+      "specific_interest_areas_element_name": "Culinary Art",
+      "career_interest_types_element_id": "1.B.1.c",
+      "career_interest_types_element_name": "Artistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.x",
+      "specific_interest_areas_element_name": "Culinary Art",
+      "career_interest_types_element_id": "1.B.1.d",
+      "career_interest_types_element_name": "Social"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.y",
+      "specific_interest_areas_element_name": "Teaching/Education",
+      "career_interest_types_element_id": "1.B.1.d",
+      "career_interest_types_element_name": "Social"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.z",
+      "specific_interest_areas_element_name": "Social Service",
+      "career_interest_types_element_id": "1.B.1.d",
+      "career_interest_types_element_name": "Social"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.aa",
+      "specific_interest_areas_element_name": "Health Care Service",
+      "career_interest_types_element_id": "1.B.1.b",
+      "career_interest_types_element_name": "Investigative"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.aa",
+      "specific_interest_areas_element_name": "Health Care Service",
+      "career_interest_types_element_id": "1.B.1.d",
+      "career_interest_types_element_name": "Social"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ab",
+      "specific_interest_areas_element_name": "Religious Activities",
+      "career_interest_types_element_id": "1.B.1.d",
+      "career_interest_types_element_name": "Social"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ab",
+      "specific_interest_areas_element_name": "Religious Activities",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ac",
+      "specific_interest_areas_element_name": "Personal Service",
+      "career_interest_types_element_id": "1.B.1.d",
+      "career_interest_types_element_name": "Social"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ad",
+      "specific_interest_areas_element_name": "Professional Advising",
+      "career_interest_types_element_id": "1.B.1.d",
+      "career_interest_types_element_name": "Social"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ad",
+      "specific_interest_areas_element_name": "Professional Advising",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ae",
+      "specific_interest_areas_element_name": "Business Initiatives",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.af",
+      "specific_interest_areas_element_name": "Sales",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ag",
+      "specific_interest_areas_element_name": "Marketing/Advertising",
+      "career_interest_types_element_id": "1.B.1.c",
+      "career_interest_types_element_name": "Artistic"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ag",
+      "specific_interest_areas_element_name": "Marketing/Advertising",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ah",
+      "specific_interest_areas_element_name": "Finance",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ah",
+      "specific_interest_areas_element_name": "Finance",
+      "career_interest_types_element_id": "1.B.1.f",
+      "career_interest_types_element_name": "Conventional"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ai",
+      "specific_interest_areas_element_name": "Accounting",
+      "career_interest_types_element_id": "1.B.1.f",
+      "career_interest_types_element_name": "Conventional"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.aj",
+      "specific_interest_areas_element_name": "Human Resources",
+      "career_interest_types_element_id": "1.B.1.d",
+      "career_interest_types_element_name": "Social"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.aj",
+      "specific_interest_areas_element_name": "Human Resources",
+      "career_interest_types_element_id": "1.B.1.f",
+      "career_interest_types_element_name": "Conventional"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ak",
+      "specific_interest_areas_element_name": "Office Work",
+      "career_interest_types_element_id": "1.B.1.f",
+      "career_interest_types_element_name": "Conventional"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.al",
+      "specific_interest_areas_element_name": "Management/Administration",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.am",
+      "specific_interest_areas_element_name": "Public Speaking",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.an",
+      "specific_interest_areas_element_name": "Politics",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    },
+    {
+      "specific_interest_areas_element_id": "1.B.3.ao",
+      "specific_interest_areas_element_name": "Law",
+      "career_interest_types_element_id": "1.B.1.e",
+      "career_interest_types_element_name": "Enterprising"
+    }
+  ]
+}

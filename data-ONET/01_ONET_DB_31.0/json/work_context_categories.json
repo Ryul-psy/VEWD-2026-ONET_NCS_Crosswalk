@@ -1,0 +1,2306 @@
+{
+  "table_id": "work_context_categories",
+  "title": "Work Context Categories",
+  "description": "Provide description of Work Context categories.",
+  "data_dictionary": "https://www.onetcenter.org/dictionary/31.0/json/work_context_categories.html",
+  "column": [
+    {
+      "column_id": "element_id",
+      "optional": false,
+      "title": "Element ID",
+      "description": "Content Model Outline Position",
+      "type": "Text",
+      "format": "Character Varying(20)"
+    },
+    {
+      "column_id": "element_name",
+      "optional": false,
+      "title": "Element Name",
+      "description": "Content Model Element Name",
+      "type": "Text",
+      "format": "Character Varying(150)"
+    },
+    {
+      "column_id": "scale_id",
+      "optional": false,
+      "title": "Scale ID",
+      "description": "Scale ID",
+      "type": "Text",
+      "format": "Character Varying(3)"
+    },
+    {
+      "column_id": "scale_name",
+      "optional": false,
+      "title": "Scale Name",
+      "description": "Scale Name",
+      "type": "Text",
+      "format": "Character Varying(50)"
+    },
+    {
+      "column_id": "category",
+      "optional": false,
+      "title": "Category",
+      "description": "Category value associated with element",
+      "type": "Number",
+      "format": "Integer(3)"
+    },
+    {
+      "column_id": "category_description",
+      "optional": false,
+      "title": "Category Description",
+      "description": "Detail description of category associated with element",
+      "type": "Text",
+      "format": "Character Varying(1000)"
+    }
+  ],
+  "row": [
+    {
+      "element_id": "4.C.1.a.2.c",
+      "element_name": "Public Speaking",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.1.a.2.c",
+      "element_name": "Public Speaking",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.1.a.2.c",
+      "element_name": "Public Speaking",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.1.a.2.c",
+      "element_name": "Public Speaking",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.1.a.2.c",
+      "element_name": "Public Speaking",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.1.a.2.f",
+      "element_name": "Telephone Conversations",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.1.a.2.f",
+      "element_name": "Telephone Conversations",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.1.a.2.f",
+      "element_name": "Telephone Conversations",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.1.a.2.f",
+      "element_name": "Telephone Conversations",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.1.a.2.f",
+      "element_name": "Telephone Conversations",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.1.a.2.h",
+      "element_name": "E-Mail",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.1.a.2.h",
+      "element_name": "E-Mail",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.1.a.2.h",
+      "element_name": "E-Mail",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.1.a.2.h",
+      "element_name": "E-Mail",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.1.a.2.h",
+      "element_name": "E-Mail",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.1.a.2.j",
+      "element_name": "Written Letters and Memos",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.1.a.2.j",
+      "element_name": "Written Letters and Memos",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.1.a.2.j",
+      "element_name": "Written Letters and Memos",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.1.a.2.j",
+      "element_name": "Written Letters and Memos",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.1.a.2.j",
+      "element_name": "Written Letters and Memos",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.1.a.2.l",
+      "element_name": "Face-to-Face Discussions with Individuals and Within Teams",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.1.a.2.l",
+      "element_name": "Face-to-Face Discussions with Individuals and Within Teams",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.1.a.2.l",
+      "element_name": "Face-to-Face Discussions with Individuals and Within Teams",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.1.a.2.l",
+      "element_name": "Face-to-Face Discussions with Individuals and Within Teams",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.1.a.2.l",
+      "element_name": "Face-to-Face Discussions with Individuals and Within Teams",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.1.a.4",
+      "element_name": "Contact With Others",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "No contact with others"
+    },
+    {
+      "element_id": "4.C.1.a.4",
+      "element_name": "Contact With Others",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Occasional contact with others"
+    },
+    {
+      "element_id": "4.C.1.a.4",
+      "element_name": "Contact With Others",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Contact with others about half the time"
+    },
+    {
+      "element_id": "4.C.1.a.4",
+      "element_name": "Contact With Others",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Contact with others most of the time"
+    },
+    {
+      "element_id": "4.C.1.a.4",
+      "element_name": "Contact With Others",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Constant contact with others"
+    },
+    {
+      "element_id": "4.C.1.b.1.e",
+      "element_name": "Work With or Contribute to a Work Group or Team",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Not important at all"
+    },
+    {
+      "element_id": "4.C.1.b.1.e",
+      "element_name": "Work With or Contribute to a Work Group or Team",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Fairly important"
+    },
+    {
+      "element_id": "4.C.1.b.1.e",
+      "element_name": "Work With or Contribute to a Work Group or Team",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Important"
+    },
+    {
+      "element_id": "4.C.1.b.1.e",
+      "element_name": "Work With or Contribute to a Work Group or Team",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Very important"
+    },
+    {
+      "element_id": "4.C.1.b.1.e",
+      "element_name": "Work With or Contribute to a Work Group or Team",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Extremely important"
+    },
+    {
+      "element_id": "4.C.1.b.1.f",
+      "element_name": "Deal With External Customers or the Public in General",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Not important at all"
+    },
+    {
+      "element_id": "4.C.1.b.1.f",
+      "element_name": "Deal With External Customers or the Public in General",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Fairly important"
+    },
+    {
+      "element_id": "4.C.1.b.1.f",
+      "element_name": "Deal With External Customers or the Public in General",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Important"
+    },
+    {
+      "element_id": "4.C.1.b.1.f",
+      "element_name": "Deal With External Customers or the Public in General",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Very important"
+    },
+    {
+      "element_id": "4.C.1.b.1.f",
+      "element_name": "Deal With External Customers or the Public in General",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Extremely important"
+    },
+    {
+      "element_id": "4.C.1.b.1.g",
+      "element_name": "Coordinate or Lead Others in Accomplishing Work Activities",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Not important at all"
+    },
+    {
+      "element_id": "4.C.1.b.1.g",
+      "element_name": "Coordinate or Lead Others in Accomplishing Work Activities",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Fairly important"
+    },
+    {
+      "element_id": "4.C.1.b.1.g",
+      "element_name": "Coordinate or Lead Others in Accomplishing Work Activities",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Important"
+    },
+    {
+      "element_id": "4.C.1.b.1.g",
+      "element_name": "Coordinate or Lead Others in Accomplishing Work Activities",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Very important"
+    },
+    {
+      "element_id": "4.C.1.b.1.g",
+      "element_name": "Coordinate or Lead Others in Accomplishing Work Activities",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Extremely important"
+    },
+    {
+      "element_id": "4.C.1.c.1",
+      "element_name": "Health and Safety of Other Workers",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "No responsibility"
+    },
+    {
+      "element_id": "4.C.1.c.1",
+      "element_name": "Health and Safety of Other Workers",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Limited responsibility"
+    },
+    {
+      "element_id": "4.C.1.c.1",
+      "element_name": "Health and Safety of Other Workers",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Moderate responsibility"
+    },
+    {
+      "element_id": "4.C.1.c.1",
+      "element_name": "Health and Safety of Other Workers",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "High responsibility"
+    },
+    {
+      "element_id": "4.C.1.c.1",
+      "element_name": "Health and Safety of Other Workers",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Very high responsibility"
+    },
+    {
+      "element_id": "4.C.1.c.2",
+      "element_name": "Work Outcomes and Results of Other Workers",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "No responsibility"
+    },
+    {
+      "element_id": "4.C.1.c.2",
+      "element_name": "Work Outcomes and Results of Other Workers",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Limited responsibility"
+    },
+    {
+      "element_id": "4.C.1.c.2",
+      "element_name": "Work Outcomes and Results of Other Workers",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Moderate responsibility"
+    },
+    {
+      "element_id": "4.C.1.c.2",
+      "element_name": "Work Outcomes and Results of Other Workers",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "High responsibility"
+    },
+    {
+      "element_id": "4.C.1.c.2",
+      "element_name": "Work Outcomes and Results of Other Workers",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Very high responsibility"
+    },
+    {
+      "element_id": "4.C.1.d.1",
+      "element_name": "Conflict Situations",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.1.d.1",
+      "element_name": "Conflict Situations",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.1.d.1",
+      "element_name": "Conflict Situations",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.1.d.1",
+      "element_name": "Conflict Situations",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.1.d.1",
+      "element_name": "Conflict Situations",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.1.d.2",
+      "element_name": "Dealing With Unpleasant, Angry, or Discourteous People",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.1.d.2",
+      "element_name": "Dealing With Unpleasant, Angry, or Discourteous People",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.1.d.2",
+      "element_name": "Dealing With Unpleasant, Angry, or Discourteous People",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.1.d.2",
+      "element_name": "Dealing With Unpleasant, Angry, or Discourteous People",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.1.d.2",
+      "element_name": "Dealing With Unpleasant, Angry, or Discourteous People",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.1.d.3",
+      "element_name": "Dealing with Violent or Physically Aggressive People",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.1.d.3",
+      "element_name": "Dealing with Violent or Physically Aggressive People",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.1.d.3",
+      "element_name": "Dealing with Violent or Physically Aggressive People",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.1.d.3",
+      "element_name": "Dealing with Violent or Physically Aggressive People",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.1.d.3",
+      "element_name": "Dealing with Violent or Physically Aggressive People",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.a",
+      "element_name": "Indoors, Environmentally Controlled",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.a.1.a",
+      "element_name": "Indoors, Environmentally Controlled",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.a.1.a",
+      "element_name": "Indoors, Environmentally Controlled",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.a.1.a",
+      "element_name": "Indoors, Environmentally Controlled",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.a",
+      "element_name": "Indoors, Environmentally Controlled",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.b",
+      "element_name": "Indoors, Not Environmentally Controlled",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.a.1.b",
+      "element_name": "Indoors, Not Environmentally Controlled",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.a.1.b",
+      "element_name": "Indoors, Not Environmentally Controlled",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.a.1.b",
+      "element_name": "Indoors, Not Environmentally Controlled",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.b",
+      "element_name": "Indoors, Not Environmentally Controlled",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.c",
+      "element_name": "Outdoors, Exposed to All Weather Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.a.1.c",
+      "element_name": "Outdoors, Exposed to All Weather Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.a.1.c",
+      "element_name": "Outdoors, Exposed to All Weather Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.a.1.c",
+      "element_name": "Outdoors, Exposed to All Weather Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.c",
+      "element_name": "Outdoors, Exposed to All Weather Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.d",
+      "element_name": "Outdoors, Under Cover",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.a.1.d",
+      "element_name": "Outdoors, Under Cover",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.a.1.d",
+      "element_name": "Outdoors, Under Cover",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.a.1.d",
+      "element_name": "Outdoors, Under Cover",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.d",
+      "element_name": "Outdoors, Under Cover",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.e",
+      "element_name": "In an Open Vehicle or Operating Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.a.1.e",
+      "element_name": "In an Open Vehicle or Operating Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.a.1.e",
+      "element_name": "In an Open Vehicle or Operating Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.a.1.e",
+      "element_name": "In an Open Vehicle or Operating Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.e",
+      "element_name": "In an Open Vehicle or Operating Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.f",
+      "element_name": "In an Enclosed Vehicle or Operate Enclosed Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.a.1.f",
+      "element_name": "In an Enclosed Vehicle or Operate Enclosed Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.a.1.f",
+      "element_name": "In an Enclosed Vehicle or Operate Enclosed Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.a.1.f",
+      "element_name": "In an Enclosed Vehicle or Operate Enclosed Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.a.1.f",
+      "element_name": "In an Enclosed Vehicle or Operate Enclosed Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.a.3",
+      "element_name": "Physical Proximity",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "I don't work near other people (beyond 100 ft.)"
+    },
+    {
+      "element_id": "4.C.2.a.3",
+      "element_name": "Physical Proximity",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "I work with others but not closely (e.g., private office)"
+    },
+    {
+      "element_id": "4.C.2.a.3",
+      "element_name": "Physical Proximity",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Slightly close (e.g., shared office)"
+    },
+    {
+      "element_id": "4.C.2.a.3",
+      "element_name": "Physical Proximity",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Moderately close (at arm's length)"
+    },
+    {
+      "element_id": "4.C.2.a.3",
+      "element_name": "Physical Proximity",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Very close (near touching)"
+    },
+    {
+      "element_id": "4.C.2.b.1.a",
+      "element_name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.b.1.a",
+      "element_name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.b.1.a",
+      "element_name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.b.1.a",
+      "element_name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.a",
+      "element_name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.b",
+      "element_name": "Exposed to Very Hot or Cold Temperatures",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.b.1.b",
+      "element_name": "Exposed to Very Hot or Cold Temperatures",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.b.1.b",
+      "element_name": "Exposed to Very Hot or Cold Temperatures",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.b.1.b",
+      "element_name": "Exposed to Very Hot or Cold Temperatures",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.b",
+      "element_name": "Exposed to Very Hot or Cold Temperatures",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.c",
+      "element_name": "Exposed to Extremely Bright or Inadequate Lighting Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.b.1.c",
+      "element_name": "Exposed to Extremely Bright or Inadequate Lighting Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.b.1.c",
+      "element_name": "Exposed to Extremely Bright or Inadequate Lighting Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.b.1.c",
+      "element_name": "Exposed to Extremely Bright or Inadequate Lighting Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.c",
+      "element_name": "Exposed to Extremely Bright or Inadequate Lighting Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.d",
+      "element_name": "Exposed to Contaminants",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.b.1.d",
+      "element_name": "Exposed to Contaminants",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.b.1.d",
+      "element_name": "Exposed to Contaminants",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.b.1.d",
+      "element_name": "Exposed to Contaminants",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.d",
+      "element_name": "Exposed to Contaminants",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.e",
+      "element_name": "Exposed to Cramped Work Space, Awkward Positions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.b.1.e",
+      "element_name": "Exposed to Cramped Work Space, Awkward Positions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.b.1.e",
+      "element_name": "Exposed to Cramped Work Space, Awkward Positions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.b.1.e",
+      "element_name": "Exposed to Cramped Work Space, Awkward Positions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.e",
+      "element_name": "Exposed to Cramped Work Space, Awkward Positions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.f",
+      "element_name": "Exposed to Whole Body Vibration",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.b.1.f",
+      "element_name": "Exposed to Whole Body Vibration",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.b.1.f",
+      "element_name": "Exposed to Whole Body Vibration",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.b.1.f",
+      "element_name": "Exposed to Whole Body Vibration",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.b.1.f",
+      "element_name": "Exposed to Whole Body Vibration",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.a",
+      "element_name": "Exposed to Radiation",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.c.1.a",
+      "element_name": "Exposed to Radiation",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.c.1.a",
+      "element_name": "Exposed to Radiation",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.c.1.a",
+      "element_name": "Exposed to Radiation",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.a",
+      "element_name": "Exposed to Radiation",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.b",
+      "element_name": "Exposed to Disease or Infections",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.c.1.b",
+      "element_name": "Exposed to Disease or Infections",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.c.1.b",
+      "element_name": "Exposed to Disease or Infections",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.c.1.b",
+      "element_name": "Exposed to Disease or Infections",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.b",
+      "element_name": "Exposed to Disease or Infections",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.c",
+      "element_name": "Exposed to High Places",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.c.1.c",
+      "element_name": "Exposed to High Places",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.c.1.c",
+      "element_name": "Exposed to High Places",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.c.1.c",
+      "element_name": "Exposed to High Places",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.c",
+      "element_name": "Exposed to High Places",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.d",
+      "element_name": "Exposed to Hazardous Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.c.1.d",
+      "element_name": "Exposed to Hazardous Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.c.1.d",
+      "element_name": "Exposed to Hazardous Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.c.1.d",
+      "element_name": "Exposed to Hazardous Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.d",
+      "element_name": "Exposed to Hazardous Conditions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.e",
+      "element_name": "Exposed to Hazardous Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.c.1.e",
+      "element_name": "Exposed to Hazardous Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.c.1.e",
+      "element_name": "Exposed to Hazardous Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.c.1.e",
+      "element_name": "Exposed to Hazardous Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.e",
+      "element_name": "Exposed to Hazardous Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.f",
+      "element_name": "Exposed to Minor Burns, Cuts, Bites, or Stings",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.c.1.f",
+      "element_name": "Exposed to Minor Burns, Cuts, Bites, or Stings",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.c.1.f",
+      "element_name": "Exposed to Minor Burns, Cuts, Bites, or Stings",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.c.1.f",
+      "element_name": "Exposed to Minor Burns, Cuts, Bites, or Stings",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.c.1.f",
+      "element_name": "Exposed to Minor Burns, Cuts, Bites, or Stings",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.d.1.a",
+      "element_name": "Spend Time Sitting",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.d.1.a",
+      "element_name": "Spend Time Sitting",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Less than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.a",
+      "element_name": "Spend Time Sitting",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "About half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.a",
+      "element_name": "Spend Time Sitting",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "More than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.a",
+      "element_name": "Spend Time Sitting",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Continually or almost continually"
+    },
+    {
+      "element_id": "4.C.2.d.1.b",
+      "element_name": "Spend Time Standing",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.d.1.b",
+      "element_name": "Spend Time Standing",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Less than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.b",
+      "element_name": "Spend Time Standing",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "About half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.b",
+      "element_name": "Spend Time Standing",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "More than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.b",
+      "element_name": "Spend Time Standing",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Continually or almost continually"
+    },
+    {
+      "element_id": "4.C.2.d.1.c",
+      "element_name": "Spend Time Climbing Ladders, Scaffolds, or Poles",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.d.1.c",
+      "element_name": "Spend Time Climbing Ladders, Scaffolds, or Poles",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Less than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.c",
+      "element_name": "Spend Time Climbing Ladders, Scaffolds, or Poles",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "About half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.c",
+      "element_name": "Spend Time Climbing Ladders, Scaffolds, or Poles",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "More than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.c",
+      "element_name": "Spend Time Climbing Ladders, Scaffolds, or Poles",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Continually or almost continually"
+    },
+    {
+      "element_id": "4.C.2.d.1.d",
+      "element_name": "Spend Time Walking or Running",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.d.1.d",
+      "element_name": "Spend Time Walking or Running",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Less than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.d",
+      "element_name": "Spend Time Walking or Running",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "About half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.d",
+      "element_name": "Spend Time Walking or Running",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "More than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.d",
+      "element_name": "Spend Time Walking or Running",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Continually or almost continually"
+    },
+    {
+      "element_id": "4.C.2.d.1.e",
+      "element_name": "Spend Time Kneeling, Crouching, Stooping, or Crawling",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.d.1.e",
+      "element_name": "Spend Time Kneeling, Crouching, Stooping, or Crawling",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Less than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.e",
+      "element_name": "Spend Time Kneeling, Crouching, Stooping, or Crawling",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "About half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.e",
+      "element_name": "Spend Time Kneeling, Crouching, Stooping, or Crawling",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "More than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.e",
+      "element_name": "Spend Time Kneeling, Crouching, Stooping, or Crawling",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Continually or almost continually"
+    },
+    {
+      "element_id": "4.C.2.d.1.f",
+      "element_name": "Spend Time Keeping or Regaining Balance",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.d.1.f",
+      "element_name": "Spend Time Keeping or Regaining Balance",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Less than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.f",
+      "element_name": "Spend Time Keeping or Regaining Balance",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "About half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.f",
+      "element_name": "Spend Time Keeping or Regaining Balance",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "More than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.f",
+      "element_name": "Spend Time Keeping or Regaining Balance",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Continually or almost continually"
+    },
+    {
+      "element_id": "4.C.2.d.1.g",
+      "element_name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.d.1.g",
+      "element_name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Less than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.g",
+      "element_name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "About half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.g",
+      "element_name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "More than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.g",
+      "element_name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Continually or almost continually"
+    },
+    {
+      "element_id": "4.C.2.d.1.h",
+      "element_name": "Spend Time Bending or Twisting Your Body",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.d.1.h",
+      "element_name": "Spend Time Bending or Twisting Your Body",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Less than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.h",
+      "element_name": "Spend Time Bending or Twisting Your Body",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "About half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.h",
+      "element_name": "Spend Time Bending or Twisting Your Body",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "More than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.h",
+      "element_name": "Spend Time Bending or Twisting Your Body",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Continually or almost continually"
+    },
+    {
+      "element_id": "4.C.2.d.1.i",
+      "element_name": "Spend Time Making Repetitive Motions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.d.1.i",
+      "element_name": "Spend Time Making Repetitive Motions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Less than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.i",
+      "element_name": "Spend Time Making Repetitive Motions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "About half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.i",
+      "element_name": "Spend Time Making Repetitive Motions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "More than half the time"
+    },
+    {
+      "element_id": "4.C.2.d.1.i",
+      "element_name": "Spend Time Making Repetitive Motions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Continually or almost continually"
+    },
+    {
+      "element_id": "4.C.2.e.1.d",
+      "element_name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.e.1.d",
+      "element_name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.e.1.d",
+      "element_name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.e.1.d",
+      "element_name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.e.1.d",
+      "element_name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.2.e.1.e",
+      "element_name": "Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.2.e.1.e",
+      "element_name": "Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.2.e.1.e",
+      "element_name": "Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.2.e.1.e",
+      "element_name": "Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.2.e.1.e",
+      "element_name": "Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.3.a.1",
+      "element_name": "Consequence of Error",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Not serious at all"
+    },
+    {
+      "element_id": "4.C.3.a.1",
+      "element_name": "Consequence of Error",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Fairly serious"
+    },
+    {
+      "element_id": "4.C.3.a.1",
+      "element_name": "Consequence of Error",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Serious"
+    },
+    {
+      "element_id": "4.C.3.a.1",
+      "element_name": "Consequence of Error",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Very serious"
+    },
+    {
+      "element_id": "4.C.3.a.1",
+      "element_name": "Consequence of Error",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Extremely serious"
+    },
+    {
+      "element_id": "4.C.3.a.2.a",
+      "element_name": "Impact of Decisions on Co-workers or Company Results",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "No results"
+    },
+    {
+      "element_id": "4.C.3.a.2.a",
+      "element_name": "Impact of Decisions on Co-workers or Company Results",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Minor results"
+    },
+    {
+      "element_id": "4.C.3.a.2.a",
+      "element_name": "Impact of Decisions on Co-workers or Company Results",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Moderate results"
+    },
+    {
+      "element_id": "4.C.3.a.2.a",
+      "element_name": "Impact of Decisions on Co-workers or Company Results",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Important results"
+    },
+    {
+      "element_id": "4.C.3.a.2.a",
+      "element_name": "Impact of Decisions on Co-workers or Company Results",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Very important results"
+    },
+    {
+      "element_id": "4.C.3.a.2.b",
+      "element_name": "Frequency of Decision Making",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.3.a.2.b",
+      "element_name": "Frequency of Decision Making",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.3.a.2.b",
+      "element_name": "Frequency of Decision Making",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.3.a.2.b",
+      "element_name": "Frequency of Decision Making",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.3.a.2.b",
+      "element_name": "Frequency of Decision Making",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.3.a.4",
+      "element_name": "Freedom to Make Decisions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "No freedom"
+    },
+    {
+      "element_id": "4.C.3.a.4",
+      "element_name": "Freedom to Make Decisions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Very little freedom"
+    },
+    {
+      "element_id": "4.C.3.a.4",
+      "element_name": "Freedom to Make Decisions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Limited freedom"
+    },
+    {
+      "element_id": "4.C.3.a.4",
+      "element_name": "Freedom to Make Decisions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Some freedom"
+    },
+    {
+      "element_id": "4.C.3.a.4",
+      "element_name": "Freedom to Make Decisions",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "A lot of freedom"
+    },
+    {
+      "element_id": "4.C.3.b.2",
+      "element_name": "Degree of Automation",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Not at all automated"
+    },
+    {
+      "element_id": "4.C.3.b.2",
+      "element_name": "Degree of Automation",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Slightly automated"
+    },
+    {
+      "element_id": "4.C.3.b.2",
+      "element_name": "Degree of Automation",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Moderately automated"
+    },
+    {
+      "element_id": "4.C.3.b.2",
+      "element_name": "Degree of Automation",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Highly automated"
+    },
+    {
+      "element_id": "4.C.3.b.2",
+      "element_name": "Degree of Automation",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Completely automated"
+    },
+    {
+      "element_id": "4.C.3.b.4",
+      "element_name": "Importance of Being Exact or Accurate",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Not important at all"
+    },
+    {
+      "element_id": "4.C.3.b.4",
+      "element_name": "Importance of Being Exact or Accurate",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Fairly important"
+    },
+    {
+      "element_id": "4.C.3.b.4",
+      "element_name": "Importance of Being Exact or Accurate",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Important"
+    },
+    {
+      "element_id": "4.C.3.b.4",
+      "element_name": "Importance of Being Exact or Accurate",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Very important"
+    },
+    {
+      "element_id": "4.C.3.b.4",
+      "element_name": "Importance of Being Exact or Accurate",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Extremely important"
+    },
+    {
+      "element_id": "4.C.3.b.7",
+      "element_name": "Importance of Repeating Same Tasks",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Not important at all"
+    },
+    {
+      "element_id": "4.C.3.b.7",
+      "element_name": "Importance of Repeating Same Tasks",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Fairly important"
+    },
+    {
+      "element_id": "4.C.3.b.7",
+      "element_name": "Importance of Repeating Same Tasks",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Important"
+    },
+    {
+      "element_id": "4.C.3.b.7",
+      "element_name": "Importance of Repeating Same Tasks",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Very important"
+    },
+    {
+      "element_id": "4.C.3.b.7",
+      "element_name": "Importance of Repeating Same Tasks",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Extremely important"
+    },
+    {
+      "element_id": "4.C.3.b.8",
+      "element_name": "Determine Tasks, Priorities and Goals",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "No freedom"
+    },
+    {
+      "element_id": "4.C.3.b.8",
+      "element_name": "Determine Tasks, Priorities and Goals",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Very little freedom"
+    },
+    {
+      "element_id": "4.C.3.b.8",
+      "element_name": "Determine Tasks, Priorities and Goals",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Limited freedom"
+    },
+    {
+      "element_id": "4.C.3.b.8",
+      "element_name": "Determine Tasks, Priorities and Goals",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Some freedom"
+    },
+    {
+      "element_id": "4.C.3.b.8",
+      "element_name": "Determine Tasks, Priorities and Goals",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "A lot of freedom"
+    },
+    {
+      "element_id": "4.C.3.c.1",
+      "element_name": "Level of Competition",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Not at all competitive"
+    },
+    {
+      "element_id": "4.C.3.c.1",
+      "element_name": "Level of Competition",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Slightly competitive"
+    },
+    {
+      "element_id": "4.C.3.c.1",
+      "element_name": "Level of Competition",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Moderately competitive"
+    },
+    {
+      "element_id": "4.C.3.c.1",
+      "element_name": "Level of Competition",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Highly competitive"
+    },
+    {
+      "element_id": "4.C.3.c.1",
+      "element_name": "Level of Competition",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Extremely competitive"
+    },
+    {
+      "element_id": "4.C.3.d.1",
+      "element_name": "Time Pressure",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Never"
+    },
+    {
+      "element_id": "4.C.3.d.1",
+      "element_name": "Time Pressure",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Once a year or more but not every month"
+    },
+    {
+      "element_id": "4.C.3.d.1",
+      "element_name": "Time Pressure",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Once a month or more but not every week"
+    },
+    {
+      "element_id": "4.C.3.d.1",
+      "element_name": "Time Pressure",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Once a week or more but not every day"
+    },
+    {
+      "element_id": "4.C.3.d.1",
+      "element_name": "Time Pressure",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Every day"
+    },
+    {
+      "element_id": "4.C.3.d.3",
+      "element_name": "Pace Determined by Speed of Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 1,
+      "category_description": "Not important at all"
+    },
+    {
+      "element_id": "4.C.3.d.3",
+      "element_name": "Pace Determined by Speed of Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 2,
+      "category_description": "Fairly important"
+    },
+    {
+      "element_id": "4.C.3.d.3",
+      "element_name": "Pace Determined by Speed of Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 3,
+      "category_description": "Important"
+    },
+    {
+      "element_id": "4.C.3.d.3",
+      "element_name": "Pace Determined by Speed of Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 4,
+      "category_description": "Very important"
+    },
+    {
+      "element_id": "4.C.3.d.3",
+      "element_name": "Pace Determined by Speed of Equipment",
+      "scale_id": "CXP",
+      "scale_name": "Context (Categories 1-5)",
+      "category": 5,
+      "category_description": "Extremely important"
+    },
+    {
+      "element_id": "4.C.3.d.4",
+      "element_name": "Work Schedules",
+      "scale_id": "CTP",
+      "scale_name": "Context (Categories 1-3)",
+      "category": 1,
+      "category_description": "Regular (established routine, set schedule)"
+    },
+    {
+      "element_id": "4.C.3.d.4",
+      "element_name": "Work Schedules",
+      "scale_id": "CTP",
+      "scale_name": "Context (Categories 1-3)",
+      "category": 2,
+      "category_description": "Irregular (changes with weather conditions, production demands, or contract duration)"
+    },
+    {
+      "element_id": "4.C.3.d.4",
+      "element_name": "Work Schedules",
+      "scale_id": "CTP",
+      "scale_name": "Context (Categories 1-3)",
+      "category": 3,
+      "category_description": "Seasonal (only during certain times of the year)"
+    },
+    {
+      "element_id": "4.C.3.d.8",
+      "element_name": "Duration of Typical Work Week",
+      "scale_id": "CTP",
+      "scale_name": "Context (Categories 1-3)",
+      "category": 1,
+      "category_description": "Less than 40 hours"
+    },
+    {
+      "element_id": "4.C.3.d.8",
+      "element_name": "Duration of Typical Work Week",
+      "scale_id": "CTP",
+      "scale_name": "Context (Categories 1-3)",
+      "category": 2,
+      "category_description": "40 hours"
+    },
+    {
+      "element_id": "4.C.3.d.8",
+      "element_name": "Duration of Typical Work Week",
+      "scale_id": "CTP",
+      "scale_name": "Context (Categories 1-3)",
+      "category": 3,
+      "category_description": "More than 40 hours"
+    }
+  ]
+}
