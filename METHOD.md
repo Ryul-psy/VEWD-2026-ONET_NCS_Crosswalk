@@ -248,6 +248,7 @@ IN이 M5보다 나았습니다(상위 1에서 한쪽만 맞힌 수행준거 30 �
 | 4    | `make_validation*.py`, `make_occ_validation*.py` | 검증표를 만듭니다(4절).                                  | `batch1/validation/`, `validation2/`, `validation3/`, `batch1/occupation/` |
 | 5    | `evaluate_*.py`                                    | 판정된 검증표로 모델을 비교합니다.                       | 각 폴더의 `*_evaluation.md`                                                      |
 | 6    | `build_crosswalk.py`                               | 최종 모델을 수행준거 전체에 적용합니다(9절).             | `batch3/embeddings/`, `crosswalk/`                                             |
+| 7    | `make_performance_charts.py`                       | 묶음별 평가의 상위 k 적중률을 표와 차트로 모읍니다.      | `model_performance.xlsx`                                                         |
 
 모든 명령은 `.venv/bin/python` 뒤에 붙여 실행합니다. 임베딩은 float16으로 저장하고, 오래 걸리는 단계는 중간 결과를 저장해 멈춰도 이어서 합니다. 전체 유사도 행렬(196,657 × 18,796)은 한 번에 만들 수 없어 수행준거를 2,000개씩 나눠 곱합니다. 측정은 Apple M2(메모리 8GB)에서 했고, e5 임베딩 전체에 약 2시간 40분, 재순위는 초당 약 33쌍이 걸렸습니다. `rerank_test.py`는 재순위 모델을 1번 묶음 판정으로 먼저 시험한 스크립트입니다(`batch2/`).
 

@@ -1,7 +1,7 @@
-# VEWD-2026 O*NET–NCS Crosswalk
+# VEWD-2026/Autumn O*NET–NCS Crosswalk
 
 * O\*NET과 NCS를 의미 유사도로 연결하는 작업입니다.
-* DISCLAIMER: THIS IS PERSONAL WORK. NOT AUTHORIZED BY US Employment and Training Administration, National Center for O\*NET Development nor ROK Mnistry of Employment of Labor, Human Resources Development Service of Korea.
+* DISCLAIMER: THIS IS PERSONAL WORK. NOT AUTHORIZED BY US Employment and Training Administration, National Center for O\*NET Development nor ROK Ministry of Employment of Labor, Human Resources Development Service of Korea.
 
 - NCS 능력단위요소의 "수행준거"와 O*NET의 "Task Statements"를 BERT 계열 임베딩 모델로 연결하고, 사람이 검증합니다.
 - crosswalk between ESCO and O\*NET에서 사용한 방식을 차용했으며, 자세한 사항은 아래 링크를 확인해 주세요.
@@ -44,9 +44,9 @@ uv pip install -r requirements.txt
 
 아래 파일은 GitHub의 파일 크기 제한(100MB)을 넘어 저장소에 없습니다. 따로 공유받아 같은 경로에 넣어 주세요.
 
-| 파일                              | 링크                                                                                                                                                      | 쓰임                                            |
-| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| `data-NCS/NCS-DB(2026-02).xlsx` | [ncs.go.kr/th06/bbs_lib_view.do?libDstinCd=01&amp;libSeq=20260205111407114](https://ncs.go.kr/th06/bbs_lib_view.do?libDstinCd=01&libSeq=20260205111407114) | NCS 원자료. `clean_ncs.py` 실행에 필요합니다. |
+| 파일                              | 링크                                                                                   | 쓰임                                            |
+| --------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| `data-NCS/NCS-DB(2026-02).xlsx` | [NCS DB](https://ncs.go.kr/th06/bbs_lib_view.do?libDstinCd=01&libSeq=20260205111407114) | NCS 원자료. `clean_ncs.py` 실행에 필요합니다. |
 
 NCS 원자료를 넣은 뒤 아래 명령으로 정제본 두 개를 만듭니다. 자세한 내용은 [METHOD.md](METHOD.md) 2절에 있습니다.
 
@@ -58,15 +58,16 @@ NCS 원자료를 넣은 뒤 아래 명령으로 정제본 두 개를 만듭니�
 
 모든 명령은 `.venv/bin/python` 뒤에 붙여 실행합니다. 오래 걸리는 단계는 중간 결과를 저장하므로 멈춰도 다시 실행하면 이어서 합니다.
 
-| 순서 | 명령                                                                                                  | 하는 일                                                            |
-| ---- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 1    | `clean_ncs.py`                                                                                      | NCS 원자료 정제                                                    |
-| 2    | `embed_texts.py`                                                                                    | 수행준거와 Task 임베딩 (multilingual-e5-large, 약 2시간 40분)      |
-| 3    | `find_candidates.py`                                                                                | 수행준거마다 Task 상위 10개 찾기                                   |
-| 4    | `make_validation.py`, `make_validation2.py`, `make_validation3.py`                              | 수행준거 → Task 검증표 1~3번                                      |
-| 5    | `make_occ_validation.py`, `make_occ_validation2.py`, `make_occ_recheck.py`                                               | 세분류 → 직업 검증표                                              |
+| 순서 | 명령                                                                                                                               | 하는 일                                                            |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 1    | `clean_ncs.py`                                                                                                                   | NCS 원자료 정제                                                    |
+| 2    | `embed_texts.py`                                                                                                                 | 수행준거와 Task 임베딩 (multilingual-e5-large, 약 2시간 40분)      |
+| 3    | `find_candidates.py`                                                                                                             | 수행준거마다 Task 상위 10개 찾기                                   |
+| 4    | `make_validation.py`, `make_validation2.py`, `make_validation3.py`                                                           | 수행준거 → Task 검증표 1~3번                                      |
+| 5    | `make_occ_validation.py`, `make_occ_validation2.py`, `make_occ_recheck.py`                                                   | 세분류 → 직업 검증표                                              |
 | 6    | `evaluate_recalc.py`, `evaluate_validation2.py`, `evaluate_validation3.py`, `evaluate_occ.py`, `evaluate_occ_recheck.py` | 판정된 검증표로 모델 비교                                          |
-| 7    | `caffeinate -i .venv/bin/python build_crosswalk.py`                                                 | 최종 모델을 전체에 적용 (며칠 걸림). `--status`로 진행 상황 확인 |
+| 7    | `caffeinate -i .venv/bin/python build_crosswalk.py`                                                                              | 최종 모델을 전체에 적용 (며칠 걸림). `--status`로 진행 상황 확인 |
+| 8    | `make_performance_charts.py`                                                                                                     | 모델별 성능을 표와 차트로 정리 (`model_performance.xlsx`)        |
 
 검증표를 만드는 스크립트는 같은 이름의 검증표가 있으면 멈춥니다. 판정한 내용을 덮어쓰지 않기 위해서입니다. 결과는 `data-ONET-NCS/` 아래에 저장됩니다.
 
