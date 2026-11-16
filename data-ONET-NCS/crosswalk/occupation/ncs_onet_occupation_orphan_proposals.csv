@@ -1,0 +1,43 @@
+﻿NCS세분류코드,대분류,중분류,소분류,세분류,O*NET-SOC 코드,O*NET 직업명,관계유형,출처,번호,검증자_기재,직업명_일치,과제_있는_직업,후보_제시_판정
+08030308,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠유통·서비스,캐릭터콘텐츠유통·서비스,11-2021.00,Marketing Managers,검증자 제안 (미판정),occ1,8,11-2021.00 Marketing Managers,예,예,아니오
+10020103,영업판매,부동산,부동산컨설팅,부동산경·공매,23-2093.00,"Title Examiners, Abstractors, and Searchers",검증자 제안 (미판정),occ1,10,"23-2093.00 Title Examiners, Abstractors, and Searchers",예,예,아니오
+01010103,사업관리,사업관리,프로젝트관리,산학협력관리,11-9033.00,"Education Administrators, Postsecondary",검증자 제안 (미판정),occ1,26,"11-9033.00 Education Administrators, Postsecondary",예,예,아니오
+01010201,사업관리,사업관리,해외관리,해외법인설립관리,13-1111.00,Management Analysts,검증자 제안 (미판정),occ1,27,13-1111.00 Management Analysts,예,예,아니오
+02010101,경영·회계·사무,기획사무,경영기획,경영기획,13-1111.00,Management Analysts,검증자 제안 (미판정),occ1,32,13-1111.00 Management Analysts,예,예,아니오
+05020301,법률·경찰·소방·교도·국방,소방방재,스마트재난관리,스마트재난위험예측,11-9161.00,Emergency Management Directors,검증자 제안 (미판정),occ1,42,11-9161.00 Emergency Management Directors,예,예,아니오
+16020303,재료,세라믹재료,소성·소결세라믹제조,세라믹소성·소결,51-9051.00,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",검증자 제안 (미판정),occ1,84,"51-9051.00 Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",예,예,아니오
+16010602,재료,금속재료,비철금속재료제조,타이타늄제조,51-4051.00,Metal-Refining Furnace Operators and Tenders,검증자 제안 (미판정),occ1,87,51-4051.00 Metal-Refining Furnace Operators and Tenders,예,예,아니오
+16010201,재료,금속재료,금속재료제조,제선,51-4051.00,Metal-Refining Furnace Operators and Tenders,검증자 제안 (미판정),occ2,121,51-4051.00 Metal-Refining Furnace Operators and Tenders,예,예,아니오
+08010303,문화·예술·디자인·방송,문화·예술,공연예술,무대기계,49-9096.00,Riggers,검증자 제안 (미판정),occ2,154,49-9096.00 Riggers,예,예,아니오
+09030107,운전·운송,선박운전·운송,선박운항,선박갑판관리,53-5011.00,Sailors and Marine Oilers,검증자 제안 (미판정),occ2,155,53-5011.00 Sailors and Marine Oilers,예,예,아니오
+14070401,건설,건설기계운전·정비,적재기계운전,지게차운전,53-7051.00,Industrial Truck and Tractor Operators,검증자 제안 (미판정),occ2,158,53-7051.00 Industrial Truck and Tractor Operators,예,예,아니오
+20010306,정보통신,정보기술,정보기술운영,데이터거래관리,13-1199.06,Online Merchants,검증자 제안 (미판정),occ2,183,13-1199.06 Online Merchants,예,예,아니오
+05010204,법률·경찰·소방·교도·국방,법률,지식재산관리,특허엔지니어링,23-1011.00,Lawyers,검증자 제안 (미판정),occ2,190,23-1011.00 Lawyers,예,예,아니오
+08010102,문화·예술·디자인·방송,문화·예술,문화예술경영,문화·예술행정,11-1021.00,General and Operations Managers,검증자 제안 (미판정),occ2,192,11-1021.00 General and Operations Managers,예,예,아니오
+16010209,재료,금속재료,금속재료제조,전기로제강,51-4051.00,Metal-Refining Furnace Operators and Tenders,검증자 제안 (미판정),occ2,198,51-4051.00 Metal-Refining Furnace Operators and Tenders,예,예,아니오
+16020305,재료,세라믹재료,소성·소결세라믹제조,소성·소결세라믹시공,49-9045.00,"Refractory Materials Repairers, Except Brickmasons",검증자 제안 (미판정),occ2,269,"49-9045.00 Refractory Materials Repairers, Except Brickmasons",예,예,아니오
+03010502,금융·보험,금융,금융영업지원,채권추심,43-3011.00,Bill and Account Collectors,검증자 제안 (미판정),occ2,295,43-3011.00 Bill and Account Collectors,예,예,아니오
+24040401,농림어업,수산,어촌개발,어촌체험상품개발,41-3041.00,Travel Agents,검증자 제안 (미판정),occ2,309,41-3041.00 Travel Agents,예,예,아니오
+15020101,기계,기계가공,절삭가공,선반가공,51-4034.00,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",검증자 제안 (미판정),occ2,316,"51-4034.00 Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",예,예,아니오
+03010201,금융·보험,금융,금융상품개발,여수신상품개발,11-3031.00,Financial Managers,검증자 제안 (미판정),occ2,355,11-3031.00 Financial Managers,예,예,아니오
+09030106,운전·운송,선박운전·운송,선박운항,선박교통관제,43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance",검증자 제안 (미판정),occ2,357,"43-5032.00 Dispatchers, Except Police, Fire, and Ambulance",예,예,아니오
+18010102,섬유·의복,섬유제조,섬유생산,방적,51-6064.00,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",검증자 제안 (미판정),occ2,377,"51-6064.00 Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",예,예,아니오
+16010304,재료,금속재료,금속가공,선재가공,51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",검증자 제안 (미판정),occ2,389,"51-4021.00 Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",예,예,아니오
+16010204,재료,금속재료,금속재료제조,냉간압연,51-4023.00,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",검증자 제안 (미판정),occ2,415,"51-4023.00 Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",예,예,아니오
+09030201,운전·운송,선박운전·운송,검수·검량,검수·검정,43-5111.00,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",검증자 제안 (미판정),occ2,436,"43-5111.00 Weighers, Measurers, Checkers, and Samplers, Recordkeeping",예,예,아니오
+16010203,재료,금속재료,금속재료제조,열간압연,51-4023.00,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",검증자 제안 (미판정),occ2,484,"51-4023.00 Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",예,예,아니오
+24010301,농림어업,농업,농촌개발,농촌체험상품개발,41-3041.00,Travel Agents,검증자 제안 (미판정),occ2,510,41-3041.00 Travel Agents,예,예,아니오
+14070107,건설,건설기계운전·정비,토공기계운전,준설선운전,53-7031.00,Dredge Operators,검증자 제안 (미판정),occ2,513,53-7031.00 Dredge Operators,예,예,아니오
+16010208,재료,금속재료,금속재료제조,전로제강,51-4051.00,Metal-Refining Furnace Operators and Tenders,검증자 제안 (미판정),occ2,613,51-4051.00 Metal-Refining Furnace Operators and Tenders,예,예,아니오
+14070505,건설,건설기계운전·정비,양중기계운전,컨테이너크레인운전(컨테이너크레인조종),53-7021.00,Crane and Tower Operators,검증자 제안 (미판정),occ2,628,53-7021.00 Crane and Tower Operators,예,예,아니오
+15020204,기계,기계가공,특수가공,플라즈마가공,51-4121.00,"Welders, Cutters, Solderers, and Brazers",검증자 제안 (미판정),occ2,637,"51-4121.00 Welders, Cutters, Solderers, and Brazers",예,예,아니오
+17040105,화학·바이오,플라스틱·고무,플라스틱,사출성형,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",검증자 제안 (미판정),occ2,646,"51-4072.00 Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",예,예,아니오
+15060402,기계,자동차,자동차정비관리,자동차정비현장관리,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",검증자 제안 (미판정),occ2,661,"49-1011.00 First-Line Supervisors of Mechanics, Installers, and Repairers",예,예,아니오
+14070602,건설,건설기계운전·정비,건설기계정비,굴착기정비,49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines",검증자 제안 (미판정),occ2,699,"49-3042.00 Mobile Heavy Equipment Mechanics, Except Engines",예,예,아니오
+14070104,건설,건설기계운전·정비,토공기계운전,불도저운전,47-2073.00,Operating Engineers and Other Construction Equipment Operators,검증자 제안 (미판정),occ2,705,47-2073.00 Operating Engineers and Other Construction Equipment Operators,예,예,아니오
+15060401,기계,자동차,자동차정비관리,자동차정비경영관리,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers",검증자 제안 (미판정),occ2,850,"49-1011.00 First-Line Supervisors of Mechanics, Installers, and Repairers",예,예,아니오
+20010606,정보통신,정보기술,정보보호,생체인식(바이오인식),15-1252.00,Software Developers,검증자 제안 (미판정),occ2,896,15-1252.00 Software Developers,예,예,아니오
+14070503,건설,건설기계운전·정비,양중기계운전,타워크레인운전(타워크레인조종),53-7021.00,Crane and Tower Operators,검증자 제안 (미판정),occ2,901,53-7021.00 Crane and Tower Operators,예,예,아니오
+14070502,건설,건설기계운전·정비,양중기계운전,양화장치운전(선박크레인조종),53-7021.00,Crane and Tower Operators,검증자 제안 (미판정),occ2,905,53-7021.00 Crane and Tower Operators,예,예,아니오
+14070103,건설,건설기계운전·정비,토공기계운전,롤러운전,47-2071.00,"Paving, Surfacing, and Tamping Equipment Operators",검증자 제안 (미판정),occ2,917,"47-2071.00 Paving, Surfacing, and Tamping Equipment Operators",예,예,아니오
+19020203,전기·전자,전자기기일반,전자부품기획·생산,전자부품표면실장(SMT),51-2022.00,Electrical and Electronic Equipment Assemblers,검증자 제안 (미판정),occ2,943,51-2022.00 Electrical and Electronic Equipment Assemblers,예,예,아니오

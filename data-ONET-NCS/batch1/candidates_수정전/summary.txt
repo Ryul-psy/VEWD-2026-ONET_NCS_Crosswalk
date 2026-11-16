@@ -1,0 +1,33 @@
+[M1] 방식 A 가중치 1.0, 방식 B 가중치 0.0
+  1위 점수 평균 0.841, 10위 점수 평균 0.827, 1·2위 격차 평균 0.0045
+  어느 수행준거의 상위 10개에도 오르지 않은 Task: 1,239개 / 18,796개
+  상위 10개 쌍 가운데 반대 방향에서도 상위 10개인 비율: 5.0%
+  가장 자주 후보에 오른 Task:
+     3,208회  [Coil Winders, Tapers, and Finishers] Review work orders and specifications to determine materials needed and types of parts to be processed.
+     3,014회  [Materials Engineers] Determine appropriate methods for fabricating and joining materials.
+     2,996회  [Bakers] Check the quality of raw materials to ensure that standards and specifications are met.
+     2,792회  [First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand] Maintain a safe working environment by monitoring safety procedures and equipment.
+     2,623회  [Civil Engineers] Estimate quantities and cost of materials, equipment, or labor to determine project feasibility.
+[M3] 방식 A 가중치 0.5, 방식 B 가중치 0.5
+  1위 점수 평균 0.825, 10위 점수 평균 0.812, 1·2위 격차 평균 0.0043
+  어느 수행준거의 상위 10개에도 오르지 않은 Task: 4,242개 / 18,796개
+  상위 10개 쌍 가운데 반대 방향에서도 상위 10개인 비율: 3.7%
+  가장 자주 후보에 오른 Task:
+     8,392회  [Radio, Cellular, and Tower Equipment Installers and Repairers] Read work orders, blueprints, plans, datasheets or site drawings to determine work to be done.
+     6,291회  [Automotive Glass Installers and Repairers] Select appropriate tools, safety equipment, and parts, according to job requirements.
+     5,749회  [Structural Iron and Steel Workers] Read specifications or blueprints to determine the locations, quantities, or sizes of materials required.
+     5,702회  [Coil Winders, Tapers, and Finishers] Review work orders and specifications to determine materials needed and types of parts to be processed.
+     5,690회  [Solar Photovoltaic Installers] Determine materials, equipment, and installation sequences necessary to maximize installation efficiency.
+[M4] M1에 쏠림 보정 (점수는 보정 점수여서 다른 모델과 견줄 수 없음)
+  1위 점수 평균 -0.005, 10위 점수 평균 -0.032, 1·2위 격차 평균 0.0082
+  어느 수행준거의 상위 10개에도 오르지 않은 Task: 84개 / 18,796개
+  상위 10개 쌍 가운데 반대 방향에서도 상위 10개인 비율: 8.5%
+  가장 자주 후보에 오른 Task:
+     1,618회  [Radio Frequency Identification Device Specialists] Define and compare possible radio frequency identification device (RFID) solutions to inform selection for specific projects.
+     1,560회  [First-Line Supervisors of Construction Trades and Extraction Workers] Read specifications, such as blueprints, to determine construction requirements or to plan procedures.
+     1,351회  [Reinforcing Iron and Rebar Workers] Determine quantities, sizes, shapes, and locations of reinforcing rods from blueprints, sketches, or oral instructions.
+     1,338회  [Tile and Stone Setters] Determine and implement the best layout to achieve a desired pattern.
+     1,332회  [Materials Engineers] Determine appropriate methods for fabricating and joining materials.
+[M1 대 M3] 1위가 같은 수행준거 25.3%, 상위 10개 중 겹치는 Task 평균 3.8개
+[M1 대 M4] 1위가 같은 수행준거 54.7%, 상위 10개 중 겹치는 Task 평균 6.5개
+[M3 대 M4] 1위가 같은 수행준거 22.0%, 상위 10개 중 겹치는 Task 평균 3.4개

@@ -1,0 +1,1680 @@
+﻿NCS세분류코드,대분류,중분류,소분류,세분류,O*NET-SOC 코드,O*NET 직업명,검증자1_관계유형,구분,검증자2_관계유형,출처,투표_순위,이름_순위,평균_순위,목록_순위
+01010102,사업관리,사업관리,프로젝트관리,프로젝트관리,13-1082.00,Project Management Specialists,일치,핵심,,occ1,1,2,2,2
+01010102,사업관리,사업관리,프로젝트관리,프로젝트관리,15-1299.09,Information Technology Project Managers,넓음,핵심,,occ1,2,1,1,1
+01010102,사업관리,사업관리,프로젝트관리,프로젝트관리,11-9041.00,Architectural and Engineering Managers,근접,재판정 합의,근접,occ1,6,6,4,
+02010102,경영·회계·사무,기획사무,경영기획,경영평가,13-1111.00,Management Analysts,좁음,핵심,,occ2,3,4,,6
+02010201,경영·회계·사무,기획사무,홍보·광고,PR,27-3031.00,Public Relations Specialists,일치,핵심,,occ2,2,3,6,1
+02010202,경영·회계·사무,기획사무,홍보·광고,광고,11-2011.00,Advertising and Promotions Managers,좁음,핵심,,occ2,1,1,2,6
+02010301,경영·회계·사무,기획사무,마케팅,마케팅전략기획,11-2021.00,Marketing Managers,좁음,핵심,,occ2,1,1,2,1
+02010302,경영·회계·사무,기획사무,마케팅,고객관리,11-2021.00,Marketing Managers,좁음,핵심,,occ2,5,1,,1
+02010302,경영·회계·사무,기획사무,마케팅,고객관리,11-2022.00,Sales Managers,좁음,핵심,,occ2,2,2,,2
+02010303,경영·회계·사무,기획사무,마케팅,통계조사,19-3022.00,Survey Researchers,일치,핵심,,occ2,2,5,6,2
+02010303,경영·회계·사무,기획사무,마케팅,통계조사,15-2041.00,Statisticians,좁음,핵심,,occ2,1,3,2,1
+02010303,경영·회계·사무,기획사무,마케팅,통계조사,43-9111.00,Statistical Assistants,넓음,핵심,,occ2,3,9,1,
+02010303,경영·회계·사무,기획사무,마케팅,통계조사,15-2041.01,Biostatisticians,근접,재판정 합의,근접,occ2,4,,5,10
+02010304,경영·회계·사무,기획사무,마케팅,유통관리,41-1011.00,First-Line Supervisors of Retail Sales Workers,넓음,재판정 합의,넓음,occ2,7,10,3,7
+02010304,경영·회계·사무,기획사무,마케팅,유통관리,11-2011.00,Advertising and Promotions Managers,근접,재판정 합의,근접,occ2,2,4,,
+02010304,경영·회계·사무,기획사무,마케팅,유통관리,11-2021.00,Marketing Managers,근접,재판정 합의,근접,occ2,6,1,,3
+02010304,경영·회계·사무,기획사무,마케팅,유통관리,11-2022.00,Sales Managers,근접,재판정 합의,근접,occ2,1,3,2,4
+02010304,경영·회계·사무,기획사무,마케팅,유통관리,11-3071.04,Supply Chain Managers,근접,재판정 합의,근접,occ2,4,5,,9
+02010304,경영·회계·사무,기획사무,마케팅,유통관리,13-1199.06,Online Merchants,근접,재판정 합의,근접,occ2,5,,9,6
+02010304,경영·회계·사무,기획사무,마케팅,유통관리,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,근접,재판정 합의,근접,occ2,9,,1,
+02020102,경영·회계·사무,총무·인사,총무,자산관리,11-9141.00,"Property, Real Estate, and Community Association Managers",근접,재판정 합의,근접,occ2,2,10,6,
+02020104,경영·회계·사무,총무·인사,총무,공공조달관리,11-3061.00,Purchasing Managers,좁음,핵심,,occ2,2,1,1,4
+02020201,경영·회계·사무,총무·인사,인사·조직,인사,11-3111.00,Compensation and Benefits Managers,넓음,핵심,,occ2,5,2,3,2
+02020201,경영·회계·사무,총무·인사,인사·조직,인사,43-3051.00,Payroll and Timekeeping Clerks,넓음,핵심,,occ2,4,6,,
+02020201,경영·회계·사무,총무·인사,인사·조직,인사,43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping",넓음,핵심,,occ2,8,3,7,10
+02020202,경영·회계·사무,총무·인사,인사·조직,노무관리,13-1075.00,Labor Relations Specialists,일치,핵심,,occ2,1,,1,4
+02020202,경영·회계·사무,총무·인사,인사·조직,노무관리,11-3121.00,Human Resources Managers,좁음,핵심,,occ2,2,1,2,1
+02020301,경영·회계·사무,총무·인사,일반사무,비서,43-6011.00,Executive Secretaries and Executive Administrative Assistants,일치,핵심,,occ2,2,,1,3
+02020301,경영·회계·사무,총무·인사,일반사무,비서,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",넓음,핵심,,occ2,,2,,
+02020301,경영·회계·사무,총무·인사,일반사무,비서,43-4171.00,Receptionists and Information Clerks,넓음,핵심,,occ2,3,,3,
+02020301,경영·회계·사무,총무·인사,일반사무,비서,43-9022.00,Word Processors and Typists,넓음,핵심,,occ2,4,,,
+02020302,경영·회계·사무,총무·인사,일반사무,사무행정,43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",일치,핵심,,occ2,10,8,2,9
+02020302,경영·회계·사무,총무·인사,일반사무,사무행정,43-4071.00,File Clerks,넓음,핵심,,occ2,3,,,
+02020302,경영·회계·사무,총무·인사,일반사무,사무행정,43-9021.00,Data Entry Keyers,넓음,재판정 합의,근접,occ2,5,,5,
+02020302,경영·회계·사무,총무·인사,일반사무,사무행정,43-9022.00,Word Processors and Typists,넓음,핵심,,occ2,6,,3,
+02020302,경영·회계·사무,총무·인사,일반사무,사무행정,15-1299.03,Document Management Specialists,근접,재판정 합의,근접,occ2,4,,,3
+02030101,경영·회계·사무,재무·회계,재무,예산,13-2031.00,Budget Analysts,일치,핵심,,occ1,1,1,1,4
+02030101,경영·회계·사무,재무·회계,재무,예산,11-3031.00,Financial Managers,좁음,핵심,,occ1,4,3,2,2
+02030101,경영·회계·사무,재무·회계,재무,예산,11-3031.01,Treasurers and Controllers,좁음,핵심,,occ1,,4,5,1
+02030102,경영·회계·사무,재무·회계,재무,자금,11-3031.00,Financial Managers,좁음,핵심,,occ2,1,1,1,1
+02030102,경영·회계·사무,재무·회계,재무,자금,11-3031.01,Treasurers and Controllers,좁음,핵심,,occ2,7,3,,3
+02030201,경영·회계·사무,재무·회계,회계,회계·감사,13-2011.00,Accountants and Auditors,일치,핵심,,occ1,2,2,1,9
+02030201,경영·회계·사무,재무·회계,회계,회계·감사,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks",넓음,핵심,,occ1,1,1,2,1
+02030202,경영·회계·사무,재무·회계,회계,세무,13-2082.00,Tax Preparers,넓음,재판정 합의,넓음,occ2,1,1,1,1
+02040101,경영·회계·사무,생산·품질관리,생산관리,구매관리,13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",일치,핵심,,occ1,3,3,4,
+02040101,경영·회계·사무,생산·품질관리,생산관리,구매관리,43-3061.00,Procurement Clerks,넓음,핵심,,occ1,4,6,3,5
+02040102,경영·회계·사무,생산·품질관리,생산관리,자재관리,11-3071.04,Supply Chain Managers,좁음,핵심,,occ2,1,1,3,4
+02040102,경영·회계·사무,생산·품질관리,생산관리,자재관리,13-1081.00,Logisticians,좁음,핵심,,occ2,5,,10,1
+02040102,경영·회계·사무,생산·품질관리,생산관리,자재관리,53-7065.00,Stockers and Order Fillers,넓음,핵심,,occ2,3,,,
+02040103,경영·회계·사무,생산·품질관리,생산관리,공정관리,11-3051.00,Industrial Production Managers,좁음,핵심,,occ2,8,1,3,1
+02040104,경영·회계·사무,생산·품질관리,생산관리,SCM,11-3071.04,Supply Chain Managers,일치,핵심,,occ2,1,1,2,1
+02040201,경영·회계·사무,생산·품질관리,품질관리,QM/QC관리,11-3051.01,Quality Control Systems Managers,일치,핵심,,occ2,1,1,1,1
+02040302,경영·회계·사무,생산·품질관리,물류무역관리,수출입관리,13-1041.08,Customs Brokers,넓음,재판정 합의,넓음,occ2,1,,1,1
+02040302,경영·회계·사무,생산·품질관리,물류무역관리,수출입관리,43-5011.01,Freight Forwarders,근접,재판정 합의,근접,occ2,2,9,2,6
+02040303,경영·회계·사무,생산·품질관리,물류무역관리,원산지관리,13-1041.08,Customs Brokers,좁음,핵심,,occ2,2,,1,
+02040305,경영·회계·사무,생산·품질관리,물류무역관리,물류기획,11-3071.00,"Transportation, Storage, and Distribution Managers",좁음,핵심,,occ2,4,1,3,4
+02040305,경영·회계·사무,생산·품질관리,물류무역관리,물류기획,11-3071.04,Supply Chain Managers,좁음,핵심,,occ2,3,2,4,3
+02040305,경영·회계·사무,생산·품질관리,물류무역관리,물류기획,13-1081.01,Logistics Engineers,좁음,핵심,,occ2,2,4,2,2
+02040305,경영·회계·사무,생산·품질관리,물류무역관리,물류기획,13-1081.02,Logistics Analysts,좁음,핵심,,occ2,1,8,1,5
+02040306,경영·회계·사무,생산·품질관리,물류무역관리,운송관리,11-3071.00,"Transportation, Storage, and Distribution Managers",좁음,핵심,,occ2,4,1,8,1
+02040306,경영·회계·사무,생산·품질관리,물류무역관리,운송관리,11-3071.04,Supply Chain Managers,좁음,핵심,,occ2,8,2,,
+02040307,경영·회계·사무,생산·품질관리,물류무역관리,보관·하역관리,11-3071.00,"Transportation, Storage, and Distribution Managers",좁음,핵심,,occ2,2,1,7,3
+02040307,경영·회계·사무,생산·품질관리,물류무역관리,보관·하역관리,11-3071.04,Supply Chain Managers,좁음,재판정 합의,좁음,occ2,4,3,,4
+03010101,금융·보험,금융,금융영업,창구사무,43-3071.00,Tellers,일치,핵심,,occ1,1,,3,1
+03010101,금융·보험,금융,금융영업,창구사무,43-4141.00,New Accounts Clerks,넓음,핵심,,occ1,2,1,1,
+03010102,금융·보험,금융,금융영업,기업영업,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",좁음,핵심,,occ2,9,3,2,6
+03010103,금융·보험,금융,금융영업,PB영업,13-2052.00,Personal Financial Advisors,좁음,핵심,,occ2,1,1,2,1
+03010104,금융·보험,금융,금융영업,카드영업,43-4041.00,"Credit Authorizers, Checkers, and Clerks",넓음,핵심,,occ2,,3,,5
+03010104,금융·보험,금융,금융영업,카드영업,11-2022.00,Sales Managers,근접,재판정 합의,근접,occ2,7,,3,
+03010105,금융·보험,금융,금융영업,여신전문금융영업,13-2072.00,Loan Officers,좁음,핵심,,occ2,1,2,1,3
+03010202,금융·보험,금융,금융상품개발,투자상품개발,13-2054.00,Financial Risk Specialists,근접,재판정 합의,근접,occ2,1,9,1,
+03010202,금융·보험,금융,금융상품개발,투자상품개발,13-2099.01,Financial Quantitative Analysts,근접,재판정 합의,근접,occ2,4,6,4,2
+03010203,금융·보험,금융,금융상품개발,연금상품개발,15-2011.00,Actuaries,좁음,핵심,,occ2,2,7,1,6
+03010204,금융·보험,금융,금융상품개발,카드상품개발,11-2011.00,Advertising and Promotions Managers,근접,재판정 합의,근접,occ2,1,,9,7
+03010204,금융·보험,금융,금융상품개발,카드상품개발,13-1161.00,Market Research Analysts and Marketing Specialists,근접,재판정 합의,근접,occ2,4,10,6,2
+03010301,금융·보험,금융,신용분석,개인신용분석,13-2041.00,Credit Analysts,좁음,핵심,,occ2,1,1,2,1
+03010302,금융·보험,금융,신용분석,기업신용분석,13-2041.00,Credit Analysts,좁음,핵심,,occ2,1,1,9,1
+03010303,금융·보험,금융,신용분석,여신심사,13-2072.00,Loan Officers,좁음,핵심,,occ2,1,8,1,2
+03010401,금융·보험,금융,자산운용,펀드운용,11-3031.03,Investment Fund Managers,일치,핵심,,occ1,1,2,1,3
+03010402,금융·보험,금융,자산운용,주식·채권운용,11-3031.03,Investment Fund Managers,좁음,핵심,,occ2,2,4,3,
+03010403,금융·보험,금융,자산운용,파생상품운용,11-3031.03,Investment Fund Managers,좁음,핵심,,occ2,4,4,2,
+03010404,금융·보험,금융,자산운용,대체투자,11-3031.03,Investment Fund Managers,좁음,핵심,,occ2,1,1,2,7
+03010405,금융·보험,금융,자산운용,신탁자산관리,11-3031.00,Financial Managers,좁음,핵심,,occ2,5,1,4,2
+03010503,금융·보험,금융,금융영업지원,리스크관리,13-2054.00,Financial Risk Specialists,일치,핵심,,occ2,1,1,1,1
+03010601,금융·보험,금융,증권·외환,증권거래업무,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",좁음,핵심,,occ2,2,2,3,2
+03010601,금융·보험,금융,증권·외환,증권거래업무,43-4011.00,Brokerage Clerks,넓음,핵심,,occ2,,1,,1
+03010602,금융·보험,금융,증권·외환,외환·파생업무,43-3071.00,Tellers,넓음,핵심,,occ2,2,,,4
+03010602,금융·보험,금융,증권·외환,외환·파생업무,43-4011.00,Brokerage Clerks,넓음,핵심,,occ2,,3,,
+03010603,금융·보험,금융,증권·외환,인수업무,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",좁음,핵심,,occ2,5,1,5,9
+03010603,금융·보험,금융,증권·외환,인수업무,43-4011.00,Brokerage Clerks,넓음,핵심,,occ2,,2,,1
+03010604,금융·보험,금융,증권·외환,증권상장업무,13-2051.00,Financial and Investment Analysts,좁음,핵심,,occ1,1,,1,
+03010605,금융·보험,금융,증권·외환,외화조달·외화대출업무,11-3031.00,Financial Managers,좁음,재판정 합의,근접,occ2,3,,2,
+03010605,금융·보험,금융,증권·외환,외화조달·외화대출업무,13-2072.00,Loan Officers,근접,재판정 합의,근접,occ2,1,2,3,2
+03010605,금융·보험,금융,증권·외환,외화조달·외화대출업무,43-4131.00,Loan Interviewers and Clerks,근접,재판정 합의,근접,occ2,4,6,8,
+03020101,금융·보험,보험,보험상품개발,보험동향분석,13-1161.00,Market Research Analysts and Marketing Specialists,근접,재판정 합의,근접,occ2,2,5,5,3
+03020101,금융·보험,보험,보험상품개발,보험동향분석,15-2011.00,Actuaries,근접,재판정 합의,근접,occ2,8,3,4,1
+03020102,금융·보험,보험,보험상품개발,보험상품개발,15-2011.00,Actuaries,좁음,핵심,,occ2,2,7,1,2
+03020103,금융·보험,보험,보험상품개발,보험계리,15-2011.00,Actuaries,좁음,핵심,,occ2,1,1,1,2
+03020201,금융·보험,보험,보험영업·계약,보험모집,41-3021.00,Insurance Sales Agents,일치,핵심,,occ2,1,1,,1
+03020201,금융·보험,보험,보험영업·계약,보험모집,43-9041.00,Insurance Claims and Policy Processing Clerks,넓음,핵심,,occ2,,2,,
+03020202,금융·보험,보험,보험영업·계약,보험계약심사,13-2053.00,Insurance Underwriters,일치,핵심,,occ2,2,1,3,1
+03020203,금융·보험,보험,보험영업·계약,보험계약·보전,43-9041.00,Insurance Claims and Policy Processing Clerks,좁음,핵심,,occ2,3,3,4,6
+03020301,금융·보험,보험,손해사정,재물손해사정,13-1031.00,"Claims Adjusters, Examiners, and Investigators",좁음,핵심,,occ1,3,3,3,
+03020302,금융·보험,보험,손해사정,차량손해사정,13-1032.00,"Insurance Appraisers, Auto Damage",일치,핵심,,occ2,1,1,,1
+03020302,금융·보험,보험,손해사정,차량손해사정,13-1031.00,"Claims Adjusters, Examiners, and Investigators",좁음,핵심,,occ2,5,,2,
+03020303,금융·보험,보험,손해사정,신체손해사정,13-1031.00,"Claims Adjusters, Examiners, and Investigators",좁음,핵심,,occ2,1,,1,
+04020201,교육·자연·사회과학,평생교육,평생교육운영,평생교육프로그램 기획·개발·평가,25-9031.00,Instructional Coordinators,좁음,핵심,,occ2,2,,2,
+04020202,교육·자연·사회과학,평생교육,평생교육운영,평생교육프로그램 운영·상담·교수,25-3021.00,Self-Enrichment Teachers,넓음,핵심,,occ2,2,6,3,
+04020202,교육·자연·사회과학,평생교육,평생교육운영,평생교육프로그램 운영·상담·교수,11-9033.00,"Education Administrators, Postsecondary",근접,재판정 합의,근접,occ2,4,10,,7
+04030102,교육·자연·사회과학,직업교육,직업교육,기업교육,13-1151.00,Training and Development Specialists,일치,핵심,,occ1,,,3,5
+04030102,교육·자연·사회과학,직업교육,직업교육,기업교육,25-1194.00,"Career/Technical Education Teachers, Postsecondary",근접,재판정 합의,근접,occ1,5,1,4,
+04030102,교육·자연·사회과학,직업교육,직업교육,기업교육,25-9031.00,Instructional Coordinators,근접,재판정 합의,근접,occ1,1,,1,
+04030103,교육·자연·사회과학,직업교육,직업교육,직무분석,13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",좁음,핵심,,occ1,1,2,3,9
+04030201,교육·자연·사회과학,직업교육,이러닝,이러닝시스템개발,15-1211.00,Computer Systems Analysts,좁음,핵심,,occ2,2,,3,
+04030201,교육·자연·사회과학,직업교육,이러닝,이러닝시스템개발,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,3,,1,
+04030201,교육·자연·사회과학,직업교육,이러닝,이러닝시스템개발,15-1299.09,Information Technology Project Managers,근접,재판정 합의,근접,occ2,4,,,6
+05010202,법률·경찰·소방·교도·국방,법률,지식재산관리,지식재산평가·거래,13-2022.00,Appraisers of Personal and Business Property,좁음,핵심,,occ2,4,1,,2
+05020101,법률·경찰·소방·교도·국방,소방방재,소방,소방시설설계·감리,17-2111.02,Fire-Prevention and Protection Engineers,좁음,핵심,,occ2,1,1,,4
+05020102,법률·경찰·소방·교도·국방,소방방재,소방,소방시설공사,49-2098.00,Security and Fire Alarm Systems Installers,넓음,핵심,,occ2,5,1,1,2
+05020103,법률·경찰·소방·교도·국방,소방방재,소방,구조구급,29-2042.00,Emergency Medical Technicians,넓음,핵심,,occ2,2,4,3,4
+05020103,법률·경찰·소방·교도·국방,소방방재,소방,구조구급,29-2043.00,Paramedics,넓음,핵심,,occ2,1,2,1,3
+05020104,법률·경찰·소방·교도·국방,소방방재,소방,소방안전관리,33-2021.00,Fire Inspectors and Investigators,근접,재판정 합의,근접,occ2,3,8,3,
+05020105,법률·경찰·소방·교도·국방,소방방재,소방,위험물운송·운반관리,53-7121.00,"Tank Car, Truck, and Ship Loaders",근접,재판정 합의,근접,occ1,9,4,,2
+05020106,법률·경찰·소방·교도·국방,소방방재,소방,위험물안전관리,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",좁음,핵심,,occ2,4,4,3,
+05020106,법률·경찰·소방·교도·국방,소방방재,소방,위험물안전관리,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,2,,4,
+05020106,법률·경찰·소방·교도·국방,소방방재,소방,위험물안전관리,19-5012.00,Occupational Health and Safety Technicians,좁음,핵심,,occ2,9,,1,
+05020107,법률·경찰·소방·교도·국방,소방방재,소방,화재감식평가,33-2021.00,Fire Inspectors and Investigators,좁음,핵심,,occ2,1,1,1,3
+05020201,법률·경찰·소방·교도·국방,소방방재,방재,방재시설,17-2051.00,Civil Engineers,좁음,핵심,,occ1,,,2,5
+05020202,법률·경찰·소방·교도·국방,소방방재,방재,기업재난관리,13-1199.04,Business Continuity Planners,일치,핵심,,occ2,1,7,1,1
+05020302,법률·경찰·소방·교도·국방,소방방재,스마트재난관리,스마트재난관리설계,11-9161.00,Emergency Management Directors,좁음,핵심,,occ2,2,6,2,4
+05020302,법률·경찰·소방·교도·국방,소방방재,스마트재난관리,스마트재난관리설계,13-1199.04,Business Continuity Planners,근접,재판정 합의,근접,occ2,1,,1,5
+06010101,보건·의료,보건,의료기술지원,의료기기관리,49-9062.00,Medical Equipment Repairers,일치,핵심,,occ2,1,3,5,2
+06010108,보건·의료,보건,의료기술지원,요양지원,31-1132.00,Orderlies,넓음,핵심,,occ2,3,,5,
+06010109,보건·의료,보건,의료기술지원,의지보조기제작·관리,29-2091.00,Orthotists and Prosthetists,일치,핵심,,occ2,1,,2,2
+06010109,보건·의료,보건,의료기술지원,의지보조기제작·관리,51-9082.00,Medical Appliance Technicians,좁음,핵심,,occ2,3,1,9,1
+06010110,보건·의료,보건,의료기술지원,청각관리,29-1181.00,Audiologists,일치,핵심,,occ1,1,2,1,1
+06010110,보건·의료,보건,의료기술지원,청각관리,29-2092.00,Hearing Aid Specialists,넓음,핵심,,occ1,2,1,2,3
+06010113,보건·의료,보건,의료기술지원,임상심리,19-3033.00,Clinical and Counseling Psychologists,좁음,핵심,,occ2,1,5,2,1
+06010113,보건·의료,보건,의료기술지원,임상심리,19-3034.00,School Psychologists,근접,재판정 합의,근접,occ2,3,,,
+06010113,보건·의료,보건,의료기술지원,임상심리,21-1014.00,Mental Health Counselors,근접,재판정 합의,근접,occ2,2,,5,9
+06010114,보건·의료,보건,의료기술지원,의료정보관리,29-9021.00,Health Information Technologists and Medical Registrars,일치,핵심,,occ2,2,1,1,1
+06010114,보건·의료,보건,의료기술지원,의료정보관리,31-9094.00,Medical Transcriptionists,넓음,핵심,,occ2,1,,4,
+06010202,보건·의료,보건,보건지원,병원안내,43-4171.00,Receptionists and Information Clerks,좁음,핵심,,occ2,,,1,
+06010203,보건·의료,보건,보건지원,보건교육,21-1091.00,Health Education Specialists,일치,핵심,,occ1,1,1,2,1
+06010204,보건·의료,보건,보건지원,의료시설위생관리,31-9093.00,Medical Equipment Preparers,넓음,핵심,,occ1,2,2,6,1
+07010101,사회복지·종교,사회복지,사회복지정책,지역사회복지개발,11-9151.00,Social and Community Service Managers,좁음,핵심,,occ2,1,1,6,7
+07010102,사회복지·종교,사회복지,사회복지정책,사회복지조직운영,11-9151.00,Social and Community Service Managers,좁음,핵심,,occ2,1,1,,1
+07010102,사회복지·종교,사회복지,사회복지정책,사회복지조직운영,11-2033.00,Fundraising Managers,근접,재판정 합의,넓음,occ2,3,9,,10
+07010102,사회복지·종교,사회복지,사회복지정책,사회복지조직운영,11-3121.00,Human Resources Managers,근접,재판정 합의,근접,occ2,4,7,8,2
+07010102,사회복지·종교,사회복지,사회복지정책,사회복지조직운영,13-1131.00,Fundraisers,근접,재판정 합의,넓음,occ2,2,,,5
+07010103,사회복지·종교,사회복지,사회복지정책,공공복지,43-4061.00,"Eligibility Interviewers, Government Programs",넓음,핵심,,occ1,4,1,,7
+07010201,사회복지·종교,사회복지,사회복지서비스,사회복지프로그램운영,21-1091.00,Health Education Specialists,근접,재판정 합의,근접,occ1,,,,2
+07010202,사회복지·종교,사회복지,사회복지서비스,일상생활기능지원,31-1122.00,Personal Care Aides,일치,핵심,,occ2,,2,,1
+07010203,사회복지·종교,사회복지,사회복지서비스,사회복지면담,21-1022.00,Healthcare Social Workers,좁음,핵심,,occ2,3,1,7,2
+07010203,사회복지·종교,사회복지,사회복지서비스,사회복지면담,21-1023.00,Mental Health and Substance Abuse Social Workers,좁음,핵심,,occ2,4,2,,1
+07010205,사회복지·종교,사회복지,사회복지서비스,자원봉사관리,11-9151.00,Social and Community Service Managers,좁음,핵심,,occ2,2,1,1,2
+07020101,사회복지·종교,상담,직업상담서비스,직업상담,21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",좁음,핵심,,occ2,2,1,,
+07020102,사회복지·종교,상담,직업상담서비스,취업알선,13-1071.00,Human Resources Specialists,좁음,핵심,,occ2,1,9,1,4
+07020102,사회복지·종교,상담,직업상담서비스,취업알선,21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",좁음,핵심,,occ2,3,1,,5
+07020103,사회복지·종교,상담,직업상담서비스,전직지원,21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",좁음,핵심,,occ2,5,1,,8
+07020201,사회복지·종교,상담,청소년지도,청소년활동,11-9151.00,Social and Community Service Managers,근접,재판정 합의,근접,occ2,2,6,,
+07020201,사회복지·종교,상담,청소년지도,청소년활동,39-9032.00,Recreation Workers,근접,재판정 합의,근접,occ2,1,,1,8
+07020202,사회복지·종교,상담,청소년지도,청소년상담복지,19-3034.00,School Psychologists,좁음,핵심,,occ2,5,,,5
+07020202,사회복지·종교,상담,청소년지도,청소년상담복지,21-1014.00,Mental Health Counselors,좁음,핵심,,occ2,1,5,2,4
+07020202,사회복지·종교,상담,청소년지도,청소년상담복지,21-1021.00,"Child, Family, and School Social Workers",좁음,핵심,,occ2,10,1,3,2
+07020203,사회복지·종교,상담,청소년지도,진로지원,21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",좁음,핵심,,occ2,1,1,4,1
+07020301,사회복지·종교,상담,심리상담,심리상담,21-1014.00,Mental Health Counselors,일치,핵심,,occ1,1,2,1,2
+07020301,사회복지·종교,상담,심리상담,심리상담,21-1013.00,Marriage and Family Therapists,넓음,핵심,,occ1,3,3,5,5
+07030101,사회복지·종교,보육,보육,보육,25-2011.00,"Preschool Teachers, Except Special Education",근접,재판정 합의,근접,occ2,4,,3,
+07030101,사회복지·종교,보육,보육,보육,25-2051.00,"Special Education Teachers, Preschool",근접,재판정 합의,근접,occ2,3,4,4,
+07030101,사회복지·종교,보육,보육,보육,39-9011.00,Childcare Workers,근접,재판정 합의,일치,occ2,1,3,1,4
+07030101,사회복지·종교,보육,보육,보육,39-9011.01,Nannies,근접,재판정 합의,근접,occ2,2,1,2,1
+07030102,사회복지·종교,보육,보육,산후육아지원,39-9011.01,Nannies,근접,재판정 합의,근접,occ2,3,5,,3
+07030103,사회복지·종교,보육,보육,아이돌봄,39-9011.01,Nannies,일치,핵심,,occ1,2,2,2,1
+08010103,문화·예술·디자인·방송,문화·예술,문화예술경영,문화·예술경영,11-2011.00,Advertising and Promotions Managers,근접,재판정 합의,근접,occ2,3,,9,
+08010103,문화·예술·디자인·방송,문화·예술,문화예술경영,문화·예술경영,11-2033.00,Fundraising Managers,근접,재판정 합의,넓음,occ2,4,10,,10
+08010104,문화·예술·디자인·방송,문화·예술,문화예술경영,문헌정보관리,25-4022.00,Librarians and Media Collections Specialists,일치,핵심,,occ2,4,1,1,1
+08010201,문화·예술·디자인·방송,문화·예술,실용예술,실용음악,27-2041.00,Music Directors and Composers,넓음,핵심,,occ2,2,2,1,2
+08010201,문화·예술·디자인·방송,문화·예술,실용예술,실용음악,27-2042.00,Musicians and Singers,넓음,핵심,,occ2,1,3,2,4
+08010201,문화·예술·디자인·방송,문화·예술,실용예술,실용음악,27-4014.00,Sound Engineering Technicians,넓음,핵심,,occ2,4,6,4,1
+08010202,문화·예술·디자인·방송,문화·예술,실용예술,실용사진,27-4021.00,Photographers,일치,핵심,,occ2,1,1,1,1
+08010301,문화·예술·디자인·방송,문화·예술,공연예술,무대연출,27-2012.00,Producers and Directors,좁음,핵심,,occ2,5,2,1,2
+08010302,문화·예술·디자인·방송,문화·예술,공연예술,무대조명,27-4015.00,Lighting Technicians,좁음,핵심,,occ2,1,3,2,2
+08010304,문화·예술·디자인·방송,문화·예술,공연예술,무대음향,27-4014.00,Sound Engineering Technicians,좁음,핵심,,occ2,1,1,4,2
+08010305,문화·예술·디자인·방송,문화·예술,공연예술,무대미술,27-1027.00,Set and Exhibit Designers,좁음,핵심,,occ2,2,,2,
+08010306,문화·예술·디자인·방송,문화·예술,공연예술,무대감독,27-2012.00,Producers and Directors,근접,재판정 합의,좁음,occ2,4,1,1,1
+08010309,문화·예술·디자인·방송,문화·예술,공연예술,무대의상,39-3092.00,Costume Attendants,넓음,핵심,,occ2,1,2,3,4
+08010310,문화·예술·디자인·방송,문화·예술,공연예술,무대영상,27-4011.00,Audio and Video Technicians,근접,재판정 합의,근접,occ2,1,4,1,1
+08010310,문화·예술·디자인·방송,문화·예술,공연예술,무대영상,27-4031.00,"Camera Operators, Television, Video, and Film",근접,재판정 합의,근접,occ2,4,9,6,
+08010311,문화·예술·디자인·방송,문화·예술,공연예술,하우스매니징,11-9072.00,"Entertainment and Recreation Managers, Except Gambling",좁음,핵심,,occ2,1,9,2,
+08010311,문화·예술·디자인·방송,문화·예술,공연예술,하우스매니징,39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers",넓음,핵심,,occ2,3,,1,
+08010311,문화·예술·디자인·방송,문화·예술,공연예술,하우스매니징,39-3091.00,Amusement and Recreation Attendants,넓음,핵심,,occ2,2,,10,
+08010401,문화·예술·디자인·방송,문화·예술,문화재관리,학예,25-4012.00,Curators,일치,핵심,,occ2,5,2,6,1
+08010402,문화·예술·디자인·방송,문화·예술,문화재관리,문화재보수,25-4013.00,Museum Technicians and Conservators,근접,재판정 합의,근접,occ2,1,1,1,2
+08010403,문화·예술·디자인·방송,문화·예술,문화재관리,문화재보존,25-4013.00,Museum Technicians and Conservators,좁음,핵심,,occ2,2,1,1,1
+08020101,문화·예술·디자인·방송,디자인,디자인,시각디자인,27-1024.00,Graphic Designers,일치,핵심,,occ2,1,1,1,3
+08020102,문화·예술·디자인·방송,디자인,디자인,제품디자인,27-1021.00,Commercial and Industrial Designers,일치,핵심,,occ2,1,2,1,
+08020103,문화·예술·디자인·방송,디자인,디자인,환경디자인,17-1011.00,"Architects, Except Landscape and Naval",근접,재판정 합의,근접,occ2,,,3,
+08020103,문화·예술·디자인·방송,디자인,디자인,환경디자인,17-3022.00,Civil Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,1,
+08020103,문화·예술·디자인·방송,디자인,디자인,환경디자인,27-1025.00,Interior Designers,근접,재판정 합의,근접,occ2,1,1,2,5
+08020104,문화·예술·디자인·방송,디자인,디자인,디지털디자인,15-1254.00,Web Developers,근접,재판정 합의,근접,occ2,10,9,3,
+08020104,문화·예술·디자인·방송,디자인,디자인,디지털디자인,15-1255.00,Web and Digital Interface Designers,근접,재판정 합의,일치,occ2,1,1,6,1
+08020104,문화·예술·디자인·방송,디자인,디자인,디지털디자인,27-1011.00,Art Directors,근접,재판정 합의,근접,occ2,6,6,2,
+08020104,문화·예술·디자인·방송,디자인,디자인,디지털디자인,27-1024.00,Graphic Designers,근접,재판정 합의,근접,occ2,2,2,1,7
+08020105,문화·예술·디자인·방송,디자인,디자인,텍스타일디자인,27-1022.00,Fashion Designers,근접,재판정 합의,근접,occ2,4,1,2,3
+08020106,문화·예술·디자인·방송,디자인,디자인,서비스경험디자인,13-1161.00,Market Research Analysts and Marketing Specialists,근접,재판정 합의,근접,occ2,5,,,
+08020106,문화·예술·디자인·방송,디자인,디자인,서비스경험디자인,15-1255.00,Web and Digital Interface Designers,근접,재판정 합의,근접,occ2,1,1,10,2
+08020106,문화·예술·디자인·방송,디자인,디자인,서비스경험디자인,17-2112.01,Human Factors Engineers and Ergonomists,근접,재판정 합의,근접,occ2,4,,3,
+08020106,문화·예술·디자인·방송,디자인,디자인,서비스경험디자인,19-3022.00,Survey Researchers,근접,재판정 합의,근접,occ2,3,,,
+08020107,문화·예술·디자인·방송,디자인,디자인,실내디자인,27-1025.00,Interior Designers,일치,핵심,,occ2,1,1,1,1
+08020109,문화·예술·디자인·방송,디자인,디자인,전시디자인,27-1027.00,Set and Exhibit Designers,좁음,핵심,,occ2,1,1,1,
+08020110,문화·예술·디자인·방송,디자인,디자인,3D프린팅디자인,27-1021.00,Commercial and Industrial Designers,좁음,핵심,,occ2,10,7,2,
+08020111,문화·예술·디자인·방송,디자인,디자인,패키지디자인,27-1011.00,Art Directors,근접,재판정 합의,근접,occ2,6,8,3,
+08020111,문화·예술·디자인·방송,디자인,디자인,패키지디자인,27-1021.00,Commercial and Industrial Designers,근접,재판정 합의,좁음,occ2,10,7,2,
+08020111,문화·예술·디자인·방송,디자인,디자인,패키지디자인,27-1024.00,Graphic Designers,근접,재판정 합의,근접,occ2,1,1,1,1
+08020112,문화·예술·디자인·방송,디자인,디자인,VR콘텐츠디자인,15-1255.01,Video Game Designers,근접,재판정 합의,근접,occ2,1,1,1,1
+08020112,문화·예술·디자인·방송,디자인,디자인,VR콘텐츠디자인,27-1014.00,Special Effects Artists and Animators,근접,재판정 합의,근접,occ2,2,10,4,9
+08030101,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠기획,문화콘텐츠기획,27-1011.00,Art Directors,근접,재판정 합의,근접,occ2,,2,,
+08030101,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠기획,문화콘텐츠기획,27-2012.00,Producers and Directors,근접,재판정 합의,근접,occ2,1,1,1,7
+08030201,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,방송콘텐츠제작,27-2012.00,Producers and Directors,좁음,핵심,,occ2,1,1,1,2
+08030201,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,방송콘텐츠제작,27-4012.00,Broadcast Technicians,넓음,핵심,,occ2,2,2,2,1
+08030201,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,방송콘텐츠제작,27-4031.00,"Camera Operators, Television, Video, and Film",넓음,핵심,,occ2,5,,7,
+08030201,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,방송콘텐츠제작,27-4032.00,Film and Video Editors,넓음,핵심,,occ2,3,,5,
+08030202,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,영화콘텐츠제작,27-2012.00,Producers and Directors,좁음,핵심,,occ2,2,2,2,1
+08030202,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,영화콘텐츠제작,27-4011.00,Audio and Video Technicians,넓음,핵심,,occ2,3,,3,
+08030202,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,영화콘텐츠제작,27-4031.00,"Camera Operators, Television, Video, and Film",넓음,핵심,,occ2,4,6,4,
+08030202,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,영화콘텐츠제작,27-4032.00,Film and Video Editors,넓음,핵심,,occ2,1,1,1,7
+08030203,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,음악콘텐츠제작,27-2041.00,Music Directors and Composers,근접,재판정 합의,근접,occ2,2,1,1,1
+08030203,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,음악콘텐츠제작,27-4014.00,Sound Engineering Technicians,근접,재판정 합의,넓음,occ2,4,,9,3
+08030204,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,광고콘텐츠제작,11-2011.00,Advertising and Promotions Managers,근접,재판정 합의,근접,occ2,2,2,5,
+08030204,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,광고콘텐츠제작,27-1011.00,Art Directors,근접,재판정 합의,근접,occ2,9,7,3,
+08030204,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,광고콘텐츠제작,27-1014.00,Special Effects Artists and Animators,근접,재판정 합의,근접,occ2,5,5,,2
+08030204,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,광고콘텐츠제작,27-1024.00,Graphic Designers,근접,재판정 합의,근접,occ2,3,1,2,1
+08030204,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,광고콘텐츠제작,27-2012.00,Producers and Directors,근접,재판정 합의,근접,occ2,,3,,5
+08030204,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,광고콘텐츠제작,27-3043.00,Writers and Authors,근접,재판정 합의,근접,occ2,4,8,4,3
+08030205,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,게임콘텐츠제작,15-1255.01,Video Game Designers,넓음,핵심,,occ1,1,1,1,3
+08030206,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,애니메이션콘텐츠제작,27-1014.00,Special Effects Artists and Animators,좁음,핵심,,occ2,1,1,6,2
+08030207,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,만화콘텐츠제작,27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators",좁음,핵심,,occ2,,2,2,8
+08030208,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,캐릭터콘텐츠제작,27-1011.00,Art Directors,근접,재판정 합의,근접,occ2,,10,3,
+08030208,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,캐릭터콘텐츠제작,27-1014.00,Special Effects Artists and Animators,근접,재판정 합의,근접,occ2,2,1,7,3
+08030208,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,캐릭터콘텐츠제작,27-1024.00,Graphic Designers,근접,재판정 합의,근접,occ2,7,3,2,2
+08030209,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,스마트문화앱콘텐츠제작,15-1254.00,Web Developers,근접,재판정 합의,근접,occ2,3,10,1,
+08030209,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,스마트문화앱콘텐츠제작,15-1255.00,Web and Digital Interface Designers,근접,재판정 합의,근접,occ2,1,4,2,1
+08030210,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,영사,39-3021.00,Motion Picture Projectionists,일치,핵심,,occ2,1,,2,1
+08030211,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,완구콘텐츠제작,27-1021.00,Commercial and Industrial Designers,근접,재판정 합의,근접,occ2,,,2,3
+08030212,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,드론콘텐츠제작,27-2012.00,Producers and Directors,근접,재판정 합의,근접,occ2,2,1,3,1
+08030212,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠제작,드론콘텐츠제작,27-4031.00,"Camera Operators, Television, Video, and Film",근접,재판정 합의,근접,occ2,3,,4,
+08030302,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠유통·서비스,영화콘텐츠유통·서비스,11-2011.00,Advertising and Promotions Managers,근접,재판정 합의,근접,occ2,3,,9,
+08030304,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠유통·서비스,광고콘텐츠유통·서비스,11-2011.00,Advertising and Promotions Managers,좁음,핵심,,occ2,1,2,2,
+08030305,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠유통·서비스,게임콘텐츠유통·서비스,13-1161.00,Market Research Analysts and Marketing Specialists,근접,재판정 합의,근접,occ2,4,,2,
+08030308,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠유통·서비스,캐릭터콘텐츠유통·서비스,13-1161.00,Market Research Analysts and Marketing Specialists,근접,재판정 합의,근접,occ1,2,,4,
+08030309,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠유통·서비스,스마트문화앱콘텐츠유통·서비스,11-2011.00,Advertising and Promotions Managers,근접,재판정 합의,근접,occ2,2,,6,
+08030309,문화·예술·디자인·방송,문화콘텐츠,문화콘텐츠유통·서비스,스마트문화앱콘텐츠유통·서비스,13-1161.01,Search Marketing Strategists,근접,재판정 합의,근접,occ2,1,,1,
+08030401,문화·예술·디자인·방송,문화콘텐츠,영상제작,영상연출,27-2012.00,Producers and Directors,좁음,핵심,,occ2,2,2,2,1
+08030402,문화·예술·디자인·방송,문화콘텐츠,영상제작,영상촬영,27-4031.00,"Camera Operators, Television, Video, and Film",일치,핵심,,occ2,1,1,1,1
+08030403,문화·예술·디자인·방송,문화콘텐츠,영상제작,영상조명,27-4015.00,Lighting Technicians,좁음,핵심,,occ2,1,3,3,1
+08030404,문화·예술·디자인·방송,문화콘텐츠,영상제작,영상음향제작,27-4014.00,Sound Engineering Technicians,좁음,핵심,,occ2,1,2,1,1
+08030405,문화·예술·디자인·방송,문화콘텐츠,영상제작,영상그래픽,27-1014.00,Special Effects Artists and Animators,좁음,핵심,,occ2,2,3,7,1
+08030406,문화·예술·디자인·방송,문화콘텐츠,영상제작,영상편집,27-4032.00,Film and Video Editors,일치,핵심,,occ2,1,1,1,1
+08030407,문화·예술·디자인·방송,문화콘텐츠,영상제작,영상미술,39-5091.00,"Makeup Artists, Theatrical and Performance",넓음,핵심,,occ1,4,,6,
+09010101,운전·운송,자동차운전·운송,자동차운전·운송,여객운송,53-3051.00,"Bus Drivers, School",넓음,핵심,,occ2,4,9,3,
+09010101,운전·운송,자동차운전·운송,자동차운전·운송,여객운송,53-3052.00,"Bus Drivers, Transit and Intercity",넓음,핵심,,occ2,2,3,4,
+09010101,운전·운송,자동차운전·운송,자동차운전·운송,여객운송,53-3053.00,Shuttle Drivers and Chauffeurs,넓음,핵심,,occ2,1,1,1,5
+09010101,운전·운송,자동차운전·운송,자동차운전·운송,여객운송,53-3054.00,Taxi Drivers,넓음,핵심,,occ2,5,,5,
+09010102,운전·운송,자동차운전·운송,자동차운전·운송,화물운송,53-7121.00,"Tank Car, Truck, and Ship Loaders",넓음,핵심,,occ2,7,1,,8
+09020102,운전·운송,철도운전·운송,철도운전운영,열차운용DIA,19-3099.01,Transportation Planners,좁음,핵심,,occ2,2,,9,1
+09020103,운전·운송,철도운전·운송,철도운전운영,철도운전,53-4011.00,Locomotive Engineers,일치,핵심,,occ1,3,2,3,1
+09020103,운전·운송,철도운전·운송,철도운전운영,철도운전,53-4041.00,Subway and Streetcar Operators,넓음,핵심,,occ1,5,,4,
+09020104,운전·운송,철도운전·운송,철도운전운영,기지내차량운전,53-4013.00,"Rail Yard Engineers, Dinkey Operators, and Hostlers",일치,핵심,,occ1,6,9,2,
+09020201,운전·운송,철도운전·운송,철도시설유지보수,철도선로시설물유지보수,47-4061.00,Rail-Track Laying and Maintenance Equipment Operators,일치,핵심,,occ2,1,1,,2
+09020202,운전·운송,철도운전·운송,철도시설유지보수,정비기지시설물유지보수,49-9043.00,"Maintenance Workers, Machinery",좁음,핵심,,occ2,3,4,,
+09020202,운전·운송,철도운전·운송,철도시설유지보수,정비기지시설물유지보수,49-9071.00,"Maintenance and Repair Workers, General",좁음,핵심,,occ2,1,5,5,6
+09020203,운전·운송,철도운전·운송,철도시설유지보수,역시설물유지보수,11-3013.00,Facilities Managers,근접,재판정 합의,근접,occ2,2,,,
+09020203,운전·운송,철도운전·운송,철도시설유지보수,역시설물유지보수,47-4021.00,Elevator and Escalator Installers and Repairers,근접,재판정 합의,근접,occ2,1,,,
+09020203,운전·운송,철도운전·운송,철도시설유지보수,역시설물유지보수,51-8021.00,Stationary Engineers and Boiler Operators,근접,재판정 합의,근접,occ2,,,1,
+09020204,운전·운송,철도운전·운송,철도시설유지보수,철도정보통신시설물유지보수,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",좁음,핵심,,occ2,3,8,1,
+09030101,운전·운송,선박운전·운송,선박운항,항해,53-5021.00,"Captains, Mates, and Pilots of Water Vessels",일치,핵심,,occ2,1,1,1,3
+09030101,운전·운송,선박운전·운송,선박운항,항해,53-5022.00,Motorboat Operators,넓음,재판정 합의,근접,occ2,2,4,3,
+09030102,운전·운송,선박운전·운송,선박운항,선박기관운전,53-5031.00,Ship Engineers,일치,핵심,,occ1,1,3,,2
+09030102,운전·운송,선박운전·운송,선박운항,선박기관운전,51-8021.00,Stationary Engineers and Boiler Operators,근접,재판정 합의,근접,occ1,7,,2,
+09030104,운전·운송,선박운전·운송,선박운항,수면비행선박조종,53-5021.00,"Captains, Mates, and Pilots of Water Vessels",근접,재판정 합의,근접,occ2,1,1,1,7
+09030104,운전·운송,선박운전·운송,선박운항,수면비행선박조종,53-5022.00,Motorboat Operators,근접,재판정 합의,근접,occ2,2,,2,
+09030105,운전·운송,선박운전·운송,선박운항,수상레저기구조종,53-5022.00,Motorboat Operators,일치,핵심,,occ1,2,9,4,2
+09040101,운전·운송,항공운전·운송,항공기조종운송,경량항공기조종,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",근접,재판정 합의,근접,occ2,3,2,2,
+09040101,운전·운송,항공운전·운송,항공기조종운송,경량항공기조종,53-2012.00,Commercial Pilots,근접,재판정 합의,근접,occ2,1,10,1,
+09040102,운전·운송,항공운전·운송,항공기조종운송,자가용항공기조종,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",근접,재판정 합의,근접,occ2,3,2,3,4
+09040102,운전·운송,항공운전·운송,항공기조종운송,자가용항공기조종,53-2012.00,Commercial Pilots,근접,재판정 합의,근접,occ2,1,6,1,10
+09040103,운전·운송,항공운전·운송,항공기조종운송,사업용항공기조종,53-2012.00,Commercial Pilots,일치,핵심,,occ2,1,3,1,9
+09040104,운전·운송,항공운전·운송,항공기조종운송,운송용항공기조종,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers",일치,핵심,,occ1,4,2,4,6
+09040105,운전·운송,항공운전·운송,항공기조종운송,소형무인기운용·조종,53-2012.00,Commercial Pilots,좁음,핵심,,occ2,2,8,1,
+09040201,운전·운송,항공운전·운송,항공운항,항공교통관제,53-2021.00,Air Traffic Controllers,일치,핵심,,occ2,1,1,1,1
+09040203,운전·운송,항공운전·운송,항공운항,항공안전,53-6051.01,Aviation Inspectors,좁음,핵심,,occ2,1,3,,7
+09040203,운전·운송,항공운전·운송,항공운항,항공안전,53-2022.00,Airfield Operations Specialists,근접,재판정 합의,근접,occ2,3,7,,1
+09040204,운전·운송,항공운전·운송,항공운항,항공보안,33-9093.00,Transportation Security Screeners,넓음,핵심,,occ2,1,7,1,
+09040205,운전·운송,항공운전·운송,항공운항,항공여객운송서비스,43-4181.00,Reservation and Transportation Ticket Agents and Travel Clerks,좁음,핵심,,occ2,3,4,1,6
+09040206,운전·운송,항공운전·운송,항공운항,항공화물운송서비스,53-1041.00,Aircraft Cargo Handling Supervisors,넓음,재판정 합의,넓음,occ2,3,2,,1
+09040206,운전·운송,항공운전·운송,항공운항,항공화물운송서비스,43-5011.00,Cargo and Freight Agents,근접,재판정 합의,근접,occ2,6,1,4,2
+09040206,운전·운송,항공운전·운송,항공운항,항공화물운송서비스,43-5011.01,Freight Forwarders,근접,재판정 합의,근접,occ2,1,5,3,7
+10010101,영업판매,영업,일반·해외영업,일반영업,11-2022.00,Sales Managers,근접,재판정 합의,근접,occ2,1,,3,8
+10010101,영업판매,영업,일반·해외영업,일반영업,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",근접,재판정 합의,근접,occ2,,3,1,
+10010101,영업판매,영업,일반·해외영업,일반영업,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",근접,재판정 합의,일치,occ2,,5,2,
+10010102,영업판매,영업,일반·해외영업,해외영업,11-2021.00,Marketing Managers,근접,재판정 합의,근접,occ2,2,,,1
+10010102,영업판매,영업,일반·해외영업,해외영업,13-1161.00,Market Research Analysts and Marketing Specialists,근접,재판정 합의,근접,occ2,1,,3,2
+10010102,영업판매,영업,일반·해외영업,해외영업,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",근접,재판정 합의,근접,occ2,9,3,1,
+10010102,영업판매,영업,일반·해외영업,해외영업,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",근접,재판정 합의,근접,occ2,,2,2,
+10010102,영업판매,영업,일반·해외영업,해외영업,41-9031.00,Sales Engineers,근접,재판정 합의,근접,occ2,4,,4,
+10020101,영업판매,부동산,부동산컨설팅,부동산개발,19-3051.00,Urban and Regional Planners,근접,재판정 합의,근접,occ2,2,,1,10
+10020102,영업판매,부동산,부동산컨설팅,부동산분양,11-2011.00,Advertising and Promotions Managers,근접,재판정 합의,근접,occ2,5,,,
+10020201,영업판매,부동산,부동산관리,주택관리,11-9141.00,"Property, Real Estate, and Community Association Managers",좁음,핵심,,occ2,1,2,1,7
+10020202,영업판매,부동산,부동산관리,상업용건물관리,11-9141.00,"Property, Real Estate, and Community Association Managers",좁음,핵심,,occ1,1,2,1,6
+10020301,영업판매,부동산,부동산중개,부동산중개,41-9021.00,Real Estate Brokers,일치,핵심,,occ2,2,1,1,1
+10020301,영업판매,부동산,부동산중개,부동산중개,41-9022.00,Real Estate Sales Agents,넓음,핵심,,occ2,1,2,2,2
+10020302,영업판매,부동산,부동산중개,부동산정보제공,11-2021.00,Marketing Managers,근접,재판정 합의,근접,occ2,5,,,
+10020401,영업판매,부동산,감정평가,부동산·동산감정평가,13-2022.00,Appraisers of Personal and Business Property,넓음,핵심,,occ2,2,1,2,1
+10020401,영업판매,부동산,감정평가,부동산·동산감정평가,13-2023.00,Appraisers and Assessors of Real Estate,넓음,핵심,,occ2,1,2,1,3
+10020402,영업판매,부동산,감정평가,기업가치평가,13-2022.00,Appraisers of Personal and Business Property,좁음,핵심,,occ2,1,1,,1
+10020402,영업판매,부동산,감정평가,기업가치평가,13-2051.00,Financial and Investment Analysts,좁음,핵심,,occ2,2,,1,4
+10030101,영업판매,판매,e-비지니스,통신판매,41-9041.00,Telemarketers,넓음,핵심,,occ2,5,9,,
+10030102,영업판매,판매,e-비지니스,전자상거래,13-1199.06,Online Merchants,일치,핵심,,occ2,1,1,1,1
+10030201,영업판매,판매,일반판매,매장판매,41-2031.00,Retail Salespersons,일치,핵심,,occ2,1,1,3,3
+10030201,영업판매,판매,일반판매,매장판매,53-7065.00,Stockers and Order Fillers,넓음,핵심,,occ2,4,,5,
+10030202,영업판매,판매,일반판매,방문판매,41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",일치,핵심,,occ1,10,3,,
+11010101,경비·청소,경비,경비·경호,보안,33-9032.00,Security Guards,일치,핵심,,occ1,2,1,,4
+11010101,경비·청소,경비,경비·경호,보안,11-3013.01,Security Managers,근접,재판정 합의,근접,occ1,1,3,,5
+11010101,경비·청소,경비,경비·경호,보안,13-1199.07,Security Management Specialists,근접,재판정 합의,근접,occ1,3,8,,
+11010101,경비·청소,경비,경비·경호,보안,33-3051.00,Police and Sheriff's Patrol Officers,근접,재판정 합의,근접,occ1,5,,3,
+11010101,경비·청소,경비,경비·경호,보안,33-9099.02,Retail Loss Prevention Specialists,근접,재판정 합의,근접,occ1,8,,5,
+11010102,경비·청소,경비,경비·경호,경호,33-9032.00,Security Guards,좁음,핵심,,occ1,5,1,,5
+11020101,경비·청소,청소,청소,환경미화,37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",일치,핵심,,occ1,,3,,
+11020102,경비·청소,청소,청소,가사지원,37-2012.00,Maids and Housekeeping Cleaners,일치,핵심,,occ1,3,2,2,
+12010101,이용·숙박·여행·오락·스포츠,이·미용,이·미용서비스,헤어미용,39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists",일치,핵심,,occ1,1,1,2,1
+12010101,이용·숙박·여행·오락·스포츠,이·미용,이·미용서비스,헤어미용,39-5093.00,Shampooers,넓음,핵심,,occ1,4,3,,6
+12010102,이용·숙박·여행·오락·스포츠,이·미용,이·미용서비스,피부미용,39-5094.00,Skincare Specialists,일치,핵심,,occ2,1,2,1,2
+12010103,이용·숙박·여행·오락·스포츠,이·미용,이·미용서비스,메이크업,39-5091.00,"Makeup Artists, Theatrical and Performance",넓음,핵심,,occ2,1,2,1,4
+12010104,이용·숙박·여행·오락·스포츠,이·미용,이·미용서비스,네일미용,39-5092.00,Manicurists and Pedicurists,일치,핵심,,occ2,1,2,1,2
+12010105,이용·숙박·여행·오락·스포츠,이·미용,이·미용서비스,이용,39-5011.00,Barbers,일치,핵심,,occ2,2,2,1,3
+12020102,이용·숙박·여행·오락·스포츠,결혼·장례,결혼서비스,웨딩플래너,13-1121.00,"Meeting, Convention, and Event Planners",좁음,핵심,,occ2,1,1,,2
+12020103,이용·숙박·여행·오락·스포츠,결혼·장례,결혼서비스,결혼예식장관리,11-9051.00,Food Service Managers,근접,재판정 합의,근접,occ2,1,,4,3
+12020103,이용·숙박·여행·오락·스포츠,결혼·장례,결혼서비스,결혼예식장관리,13-1121.00,"Meeting, Convention, and Event Planners",근접,재판정 합의,근접,occ2,2,4,,
+12020103,이용·숙박·여행·오락·스포츠,결혼·장례,결혼서비스,결혼예식장관리,35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers,근접,재판정 합의,근접,occ2,,,2,
+12020104,이용·숙박·여행·오락·스포츠,결혼·장례,결혼서비스,웨딩이벤트,13-1121.00,"Meeting, Convention, and Event Planners",좁음,핵심,,occ2,,1,,
+12020104,이용·숙박·여행·오락·스포츠,결혼·장례,결혼서비스,웨딩이벤트,27-1023.00,Floral Designers,넓음,핵심,,occ2,1,,1,3
+12020104,이용·숙박·여행·오락·스포츠,결혼·장례,결혼서비스,웨딩이벤트,27-4021.00,Photographers,넓음,핵심,,occ2,5,,,
+12020104,이용·숙박·여행·오락·스포츠,결혼·장례,결혼서비스,웨딩이벤트,39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists",넓음,핵심,,occ2,4,6,,2
+12020104,이용·숙박·여행·오락·스포츠,결혼·장례,결혼서비스,웨딩이벤트,51-6052.00,"Tailors, Dressmakers, and Custom Sewers",넓음,핵심,,occ2,3,,,
+12020201,이용·숙박·여행·오락·스포츠,결혼·장례,장례서비스,장례지원,39-4012.00,Crematory Operators,넓음,핵심,,occ2,5,,,
+12020201,이용·숙박·여행·오락·스포츠,결혼·장례,장례서비스,장례지원,39-4021.00,Funeral Attendants,넓음,핵심,,occ2,1,1,5,4
+12020202,이용·숙박·여행·오락·스포츠,결혼·장례,장례서비스,장례지도,39-4031.00,"Morticians, Undertakers, and Funeral Arrangers",일치,핵심,,occ2,2,3,1,4
+12020202,이용·숙박·여행·오락·스포츠,결혼·장례,장례서비스,장례지도,39-4011.00,Embalmers,넓음,핵심,,occ2,3,7,2,5
+12020202,이용·숙박·여행·오락·스포츠,결혼·장례,장례서비스,장례지도,39-4012.00,Crematory Operators,넓음,핵심,,occ2,4,,4,9
+12020202,이용·숙박·여행·오락·스포츠,결혼·장례,장례서비스,장례지도,39-4021.00,Funeral Attendants,넓음,핵심,,occ2,1,4,3,7
+12030101,이용·숙박·여행·오락·스포츠,관광·레저,여행서비스,여행상품개발,41-3041.00,Travel Agents,좁음,핵심,,occ2,2,2,,1
+12030102,이용·숙박·여행·오락·스포츠,관광·레저,여행서비스,여행상품상담,41-3041.00,Travel Agents,좁음,핵심,,occ2,1,1,2,1
+12030103,이용·숙박·여행·오락·스포츠,관광·레저,여행서비스,국내여행안내,39-7012.00,Travel Guides,일치,핵심,,occ1,1,1,3,1
+12030104,이용·숙박·여행·오락·스포츠,관광·레저,여행서비스,해외여행안내,39-7012.00,Travel Guides,좁음,핵심,,occ2,1,1,3,1
+12030105,이용·숙박·여행·오락·스포츠,관광·레저,여행서비스,항공객실서비스,53-2031.00,Flight Attendants,일치,핵심,,occ2,1,2,1,1
+12030201,이용·숙박·여행·오락·스포츠,관광·레저,숙박서비스,숙박기획·개발,11-9081.00,Lodging Managers,좁음,핵심,,occ2,1,1,,1
+12030202,이용·숙박·여행·오락·스포츠,관광·레저,숙박서비스,객실관리,39-6011.00,Baggage Porters and Bellhops,넓음,핵심,,occ2,5,,6,
+12030203,이용·숙박·여행·오락·스포츠,관광·레저,숙박서비스,부대시설관리,35-3011.00,Bartenders,넓음,핵심,,occ2,3,,,
+12030203,이용·숙박·여행·오락·스포츠,관광·레저,숙박서비스,부대시설관리,35-3031.00,Waiters and Waitresses,넓음,핵심,,occ2,1,,,
+12030203,이용·숙박·여행·오락·스포츠,관광·레저,숙박서비스,부대시설관리,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",넓음,핵심,,occ2,4,,,
+12030204,이용·숙박·여행·오락·스포츠,관광·레저,숙박서비스,연회관리,13-1121.00,"Meeting, Convention, and Event Planners",좁음,핵심,,occ2,1,,1,5
+12030204,이용·숙박·여행·오락·스포츠,관광·레저,숙박서비스,연회관리,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",넓음,핵심,,occ2,9,3,,
+12030205,이용·숙박·여행·오락·스포츠,관광·레저,숙박서비스,접객서비스,39-6011.00,Baggage Porters and Bellhops,넓음,핵심,,occ2,4,,5,
+12030205,이용·숙박·여행·오락·스포츠,관광·레저,숙박서비스,접객서비스,53-6021.00,Parking Attendants,넓음,핵심,,occ2,2,,,8
+12030301,이용·숙박·여행·오락·스포츠,관광·레저,컨벤션,회의기획,13-1121.00,"Meeting, Convention, and Event Planners",좁음,핵심,,occ2,1,1,1,2
+12030302,이용·숙박·여행·오락·스포츠,관광·레저,컨벤션,전시기획,13-1121.00,"Meeting, Convention, and Event Planners",좁음,핵심,,occ2,1,1,1,2
+12030303,이용·숙박·여행·오락·스포츠,관광·레저,컨벤션,이벤트기획,13-1121.00,"Meeting, Convention, and Event Planners",일치,핵심,,occ2,1,1,1,2
+12030401,이용·숙박·여행·오락·스포츠,관광·레저,관광레저서비스,카지노기획개발,11-9071.00,Gambling Managers,좁음,핵심,,occ2,1,2,2,1
+12030402,이용·숙박·여행·오락·스포츠,관광·레저,관광레저서비스,카지노운영관리,11-9071.00,Gambling Managers,일치,핵심,,occ2,2,1,1,1
+12030402,이용·숙박·여행·오락·스포츠,관광·레저,관광레저서비스,카지노운영관리,39-3011.00,Gambling Dealers,넓음,핵심,,occ2,1,,3,7
+12030402,이용·숙박·여행·오락·스포츠,관광·레저,관광레저서비스,카지노운영관리,43-3041.00,Gambling Cage Workers,넓음,핵심,,occ2,5,,6,10
+12030403,이용·숙박·여행·오락·스포츠,관광·레저,관광레저서비스,크루즈운영관리,39-3011.00,Gambling Dealers,넓음,핵심,,occ2,1,,,
+12030404,이용·숙박·여행·오락·스포츠,관광·레저,관광레저서비스,유원시설운영관리,11-9072.00,"Entertainment and Recreation Managers, Except Gambling",좁음,핵심,,occ2,6,5,1,
+12030404,이용·숙박·여행·오락·스포츠,관광·레저,관광레저서비스,유원시설운영관리,39-3091.00,Amusement and Recreation Attendants,넓음,핵심,,occ2,4,3,,10
+12030405,이용·숙박·여행·오락·스포츠,관광·레저,관광레저서비스,리조트운영관리,11-9081.00,Lodging Managers,일치,핵심,,occ1,1,1,4,1
+12030405,이용·숙박·여행·오락·스포츠,관광·레저,관광레저서비스,리조트운영관리,43-4081.00,"Hotel, Motel, and Resort Desk Clerks",넓음,핵심,,occ1,2,6,,
+12030405,이용·숙박·여행·오락·스포츠,관광·레저,관광레저서비스,리조트운영관리,11-9072.00,"Entertainment and Recreation Managers, Except Gambling",근접,재판정 합의,근접,occ1,,3,1,
+12040101,이용·숙박·여행·오락·스포츠,스포츠,스포츠용품,스포츠용품제작,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ2,2,,2,
+12040101,이용·숙박·여행·오락·스포츠,스포츠,스포츠용품,스포츠용품제작,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,6,,1,
+12040201,이용·숙박·여행·오락·스포츠,스포츠,스포츠시설,스포츠시설개발,17-1011.00,"Architects, Except Landscape and Naval",근접,재판정 합의,근접,occ2,,,1,
+12040201,이용·숙박·여행·오락·스포츠,스포츠,스포츠시설,스포츠시설개발,27-1025.00,Interior Designers,근접,재판정 합의,근접,occ2,4,,3,6
+12040202,이용·숙박·여행·오락·스포츠,스포츠,스포츠시설,스포츠시설운영관리,11-9072.00,"Entertainment and Recreation Managers, Except Gambling",좁음,핵심,,occ1,9,8,2,
+12040301,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,선수스포츠지도,27-2022.00,Coaches and Scouts,좁음,핵심,,occ2,1,6,1,
+12040302,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,일반인스포츠지도,39-9031.00,Exercise Trainers and Group Fitness Instructors,좁음,핵심,,occ2,3,,1,10
+12040303,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,건강운동관리,39-9031.00,Exercise Trainers and Group Fitness Instructors,넓음,재판정 합의,근접,occ2,3,8,2,
+12040303,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,건강운동관리,11-9179.01,Fitness and Wellness Coordinators,근접,재판정 합의,근접,occ2,2,3,8,
+12040303,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,건강운동관리,29-1123.00,Physical Therapists,근접,재판정 합의,근접,occ2,4,9,3,5
+12040303,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,건강운동관리,29-1128.00,Exercise Physiologists,근접,재판정 합의,일치,occ2,1,5,1,1
+12040304,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,경기기록분석,15-2051.00,Data Scientists,근접,재판정 합의,근접,occ2,5,,2,3
+12040304,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,경기기록분석,43-9111.00,Statistical Assistants,근접,재판정 합의,근접,occ2,6,,3,
+12040305,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,경기심판,27-2023.00,"Umpires, Referees, and Other Sports Officials",일치,핵심,,occ2,1,1,1,1
+12040307,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,건강운동ICT융복합콘텐츠개발,15-1299.09,Information Technology Project Managers,근접,재판정 합의,근접,occ2,3,,,10
+12040309,이용·숙박·여행·오락·스포츠,스포츠,스포츠경기·지도,골프캐디,39-3091.00,Amusement and Recreation Attendants,좁음,핵심,,occ1,6,,5,
+12040401,이용·숙박·여행·오락·스포츠,스포츠,스포츠마케팅,스포츠이벤트,13-1121.00,"Meeting, Convention, and Event Planners",좁음,핵심,,occ2,3,,3,8
+12040403,이용·숙박·여행·오락·스포츠,스포츠,스포츠마케팅,스포츠에이전트,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes",좁음,핵심,,occ2,,3,,1
+12040404,이용·숙박·여행·오락·스포츠,스포츠,스포츠마케팅,스포츠정보관리,15-2031.00,Operations Research Analysts,근접,재판정 합의,근접,occ2,4,,2,4
+12040404,이용·숙박·여행·오락·스포츠,스포츠,스포츠마케팅,스포츠정보관리,15-2041.00,Statisticians,근접,재판정 합의,근접,occ2,1,,3,5
+12040404,이용·숙박·여행·오락·스포츠,스포츠,스포츠마케팅,스포츠정보관리,15-2051.00,Data Scientists,근접,재판정 합의,근접,occ2,3,,4,8
+12040404,이용·숙박·여행·오락·스포츠,스포츠,스포츠마케팅,스포츠정보관리,15-2051.01,Business Intelligence Analysts,근접,재판정 합의,근접,occ2,5,,5,
+12040501,이용·숙박·여행·오락·스포츠,스포츠,레크리에이션,레크리에이션지도,39-9032.00,Recreation Workers,좁음,핵심,,occ2,1,6,1,2
+13010100,음식서비스,식음료조리·서비스,음식조리,음식조리공통직무,11-9051.00,Food Service Managers,좁음,핵심,,occ2,2,2,4,1
+13010100,음식서비스,식음료조리·서비스,음식조리,음식조리공통직무,35-1011.00,Chefs and Head Cooks,좁음,핵심,,occ2,1,,1,8
+13010100,음식서비스,식음료조리·서비스,음식조리,음식조리공통직무,35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers,좁음,핵심,,occ2,,1,3,5
+13010100,음식서비스,식음료조리·서비스,음식조리,음식조리공통직무,35-2012.00,"Cooks, Institution and Cafeteria",좁음,핵심,,occ2,4,,2,10
+13010100,음식서비스,식음료조리·서비스,음식조리,음식조리공통직무,35-2014.00,"Cooks, Restaurant",좁음,핵심,,occ2,5,7,6,3
+13010101,음식서비스,식음료조리·서비스,음식조리,한식조리,35-2014.00,"Cooks, Restaurant",좁음,핵심,,occ1,1,2,1,4
+13010102,음식서비스,식음료조리·서비스,음식조리,양식조리,35-2014.00,"Cooks, Restaurant",좁음,핵심,,occ1,1,2,1,1
+13010103,음식서비스,식음료조리·서비스,음식조리,중식조리,35-2014.00,"Cooks, Restaurant",좁음,핵심,,occ2,1,3,1,4
+13010104,음식서비스,식음료조리·서비스,음식조리,일식조리,35-2014.00,"Cooks, Restaurant",좁음,핵심,,occ1,2,2,1,3
+13010105,음식서비스,식음료조리·서비스,음식조리,복어조리,35-2014.00,"Cooks, Restaurant",좁음,핵심,,occ1,4,1,1,5
+13010201,음식서비스,식음료조리·서비스,식음료서비스,식음료접객,35-3031.00,Waiters and Waitresses,일치,핵심,,occ1,1,5,3,5
+13010201,음식서비스,식음료조리·서비스,식음료서비스,식음료접객,35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers,넓음,핵심,,occ1,8,1,,
+13010201,음식서비스,식음료조리·서비스,식음료서비스,식음료접객,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",넓음,핵심,,occ1,2,10,6,9
+13010201,음식서비스,식음료조리·서비스,식음료서비스,식음료접객,11-9051.00,Food Service Managers,근접,재판정 합의,근접,occ1,3,2,2,2
+13010201,음식서비스,식음료조리·서비스,식음료서비스,식음료접객,35-3011.00,Bartenders,근접,재판정 합의,근접,occ1,5,6,,
+13010201,음식서비스,식음료조리·서비스,식음료서비스,식음료접객,35-3023.00,Fast Food and Counter Workers,근접,재판정 합의,근접,occ1,4,7,9,1
+13010201,음식서비스,식음료조리·서비스,식음료서비스,식음료접객,35-3023.01,Baristas,근접,재판정 합의,근접,occ1,6,8,,4
+13010202,음식서비스,식음료조리·서비스,식음료서비스,소믈리에,35-3031.00,Waiters and Waitresses,좁음,핵심,,occ2,1,,2,
+13010203,음식서비스,식음료조리·서비스,식음료서비스,커피관리,35-3023.01,Baristas,근접,재판정 합의,일치,occ2,1,2,9,3
+13010204,음식서비스,식음료조리·서비스,식음료서비스,바텐더,35-3011.00,Bartenders,일치,핵심,,occ2,1,1,1,1
+13010301,음식서비스,식음료조리·서비스,외식경영,외식운영관리,11-9051.00,Food Service Managers,일치,핵심,,occ2,1,1,2,1
+14010101,건설,건설공사관리,건설시공전관리,설계기획관리,11-9041.00,Architectural and Engineering Managers,좁음,핵심,,occ2,1,2,4,2
+14010201,건설,건설공사관리,건설시공관리,건설공사공정관리,11-9021.00,Construction Managers,좁음,핵심,,occ2,1,1,2,1
+14010201,건설,건설공사관리,건설시공관리,건설공사공정관리,13-1082.00,Project Management Specialists,좁음,핵심,,occ2,5,,,
+14010202,건설,건설공사관리,건설시공관리,건설공사품질관리,11-3051.01,Quality Control Systems Managers,좁음,핵심,,occ2,1,,1,
+14010203,건설,건설공사관리,건설시공관리,건설공사환경관리,17-2081.00,Environmental Engineers,좁음,핵심,,occ2,4,10,2,1
+14010203,건설,건설공사관리,건설시공관리,건설공사환경관리,17-3025.00,Environmental Engineering Technologists and Technicians,좁음,핵심,,occ2,,,1,
+14010203,건설,건설공사관리,건설시공관리,건설공사환경관리,19-2041.00,"Environmental Scientists and Specialists, Including Health",좁음,핵심,,occ2,,,3,
+14010204,건설,건설공사관리,건설시공관리,건설공사공무관리,11-9021.00,Construction Managers,좁음,핵심,,occ2,1,1,1,1
+14010301,건설,건설공사관리,건설시공후관리,유지관리,11-3013.00,Facilities Managers,근접,재판정 합의,근접,occ2,3,7,,5
+14010301,건설,건설공사관리,건설시공후관리,유지관리,17-3029.01,Non-Destructive Testing Specialists,근접,재판정 합의,근접,occ2,4,,,
+14010301,건설,건설공사관리,건설시공후관리,유지관리,47-4011.00,Construction and Building Inspectors,근접,재판정 합의,근접,occ2,2,,1,
+14010401,건설,건설공사관리,스마트건설관리,스마트건설설계,17-1011.00,"Architects, Except Landscape and Naval",근접,재판정 합의,근접,occ2,,,1,
+14010401,건설,건설공사관리,스마트건설관리,스마트건설설계,17-3011.00,Architectural and Civil Drafters,근접,재판정 합의,근접,occ2,4,10,5,8
+14010401,건설,건설공사관리,스마트건설관리,스마트건설설계,17-3022.00,Civil Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,8,2,
+14010402,건설,건설공사관리,스마트건설관리,스마트건설정보관리,15-1299.09,Information Technology Project Managers,근접,재판정 합의,근접,occ2,,3,,5
+14010402,건설,건설공사관리,스마트건설관리,스마트건설정보관리,15-2051.00,Data Scientists,근접,재판정 합의,근접,occ2,,,3,
+14010403,건설,건설공사관리,스마트건설관리,스마트건설시공관리,11-9021.00,Construction Managers,좁음,핵심,,occ2,1,1,1,2
+14020101,건설,토목,토목설계·감리,도로설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,4,2,3,4
+14020101,건설,토목,토목설계·감리,도로설계,17-2051.01,Transportation Engineers,좁음,핵심,,occ2,1,1,1,1
+14020102,건설,토목,토목설계·감리,공항설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,7,1,2,1
+14020102,건설,토목,토목설계·감리,공항설계,17-2051.01,Transportation Engineers,좁음,핵심,,occ2,5,9,1,7
+14020103,건설,토목,토목설계·감리,터널설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,6,1,1,1
+14020104,건설,토목,토목설계·감리,교량설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,2,1,3,1
+14020105,건설,토목,토목설계·감리,항만(해양)설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,2,3,3,4
+14020106,건설,토목,토목설계·감리,상하수도설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,6,4,1,4
+14020106,건설,토목,토목설계·감리,상하수도설계,17-2051.02,Water/Wastewater Engineers,좁음,핵심,,occ2,1,1,,2
+14020107,건설,토목,토목설계·감리,하천(댐)설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,5,2,3,2
+14020108,건설,토목,토목설계·감리,지반설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,1,3,2,9
+14020109,건설,토목,토목설계·감리,단지설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,4,1,2,2
+14020110,건설,토목,토목설계·감리,철도설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,3,4,4,2
+14020110,건설,토목,토목설계·감리,철도설계,17-2051.01,Transportation Engineers,좁음,핵심,,occ2,1,7,1,6
+14020111,건설,토목,토목설계·감리,토목건설사업관리,11-9021.00,Construction Managers,좁음,핵심,,occ2,1,1,2,1
+14020111,건설,토목,토목설계·감리,토목건설사업관리,13-1082.00,Project Management Specialists,좁음,핵심,,occ2,5,,,
+14020112,건설,토목,토목설계·감리,토목시설물경관,17-1012.00,Landscape Architects,좁음,핵심,,occ2,1,,2,
+14020202,건설,토목,토목시공,지반개량,17-2051.00,Civil Engineers,근접,재판정 합의,근접,occ2,2,,5,4
+14020202,건설,토목,토목시공,지반개량,19-2042.00,"Geoscientists, Except Hydrologists and Geographers",근접,재판정 합의,근접,occ2,9,,1,9
+14020203,건설,토목,토목시공,포장,47-2051.00,Cement Masons and Concrete Finishers,넓음,핵심,,occ2,2,,,
+14020203,건설,토목,토목시공,포장,47-4091.00,Segmental Pavers,넓음,핵심,,occ2,3,,,
+14020204,건설,토목,토목시공,수중구조물시공,11-9021.00,Construction Managers,근접,재판정 합의,근접,occ2,1,7,1,5
+14020204,건설,토목,토목시공,수중구조물시공,17-2051.00,Civil Engineers,근접,재판정 합의,근접,occ2,5,4,3,1
+14020206,건설,토목,토목시공,궤도시공,47-4061.00,Rail-Track Laying and Maintenance Equipment Operators,좁음,핵심,,occ2,1,,,
+14020206,건설,토목,토목시공,궤도시공,47-2051.00,Cement Masons and Concrete Finishers,넓음,핵심,,occ2,4,,,
+14020207,건설,토목,토목시공,상하수도시공,11-9021.00,Construction Managers,근접,재판정 합의,근접,occ2,2,,2,5
+14020207,건설,토목,토목시공,상하수도시공,17-2051.00,Civil Engineers,근접,재판정 합의,근접,occ2,3,3,8,1
+14020207,건설,토목,토목시공,상하수도시공,17-2051.02,Water/Wastewater Engineers,근접,재판정 합의,근접,occ2,7,1,,2
+14020207,건설,토목,토목시공,상하수도시공,47-2152.00,"Plumbers, Pipefitters, and Steamfitters",근접,재판정 합의,근접,occ2,4,8,,
+14020207,건설,토목,토목시공,상하수도시공,47-4011.00,Construction and Building Inspectors,근접,재판정 합의,근접,occ2,5,,1,10
+14020208,건설,토목,토목시공,보링그라우팅,11-9021.00,Construction Managers,근접,재판정 합의,근접,occ2,1,,1,
+14020208,건설,토목,토목시공,보링그라우팅,17-2051.00,Civil Engineers,근접,재판정 합의,근접,occ2,5,,5,3
+14020209,건설,토목,토목시공,철강재시공,47-2221.00,Structural Iron and Steel Workers,좁음,핵심,,occ2,1,1,,6
+14020210,건설,토목,토목시공,준설,11-9021.00,Construction Managers,근접,재판정 합의,근접,occ2,,,1,
+14020210,건설,토목,토목시공,준설,17-2051.00,Civil Engineers,근접,재판정 합의,근접,occ2,6,6,2,1
+14020211,건설,토목,토목시공,석축,47-2022.00,Stonemasons,좁음,핵심,,occ1,3,,,2
+14020301,건설,토목,측량·지리정보개발,지적,17-1022.00,Surveyors,좁음,핵심,,occ2,1,1,3,1
+14020302,건설,토목,측량·지리정보개발,측량,17-1022.00,Surveyors,일치,핵심,,occ2,1,1,6,2
+14020302,건설,토목,측량·지리정보개발,측량,17-1022.01,Geodetic Surveyors,넓음,핵심,,occ2,2,3,1,8
+14020303,건설,토목,측량·지리정보개발,공간정보구축,15-1299.02,Geographic Information Systems Technologists and Technicians,근접,재판정 합의,근접,occ2,4,2,,
+14020303,건설,토목,측량·지리정보개발,공간정보구축,17-1021.00,Cartographers and Photogrammetrists,근접,재판정 합의,일치,occ2,,3,3,3
+14020303,건설,토목,측량·지리정보개발,공간정보구축,17-3031.00,Surveying and Mapping Technicians,근접,재판정 합의,근접,occ2,2,1,2,1
+14020303,건설,토목,측량·지리정보개발,공간정보구축,19-2099.01,Remote Sensing Scientists and Technologists,근접,재판정 합의,근접,occ2,3,,10,
+14020303,건설,토목,측량·지리정보개발,공간정보구축,19-4099.03,Remote Sensing Technicians,근접,재판정 합의,근접,occ2,1,,4,9
+14020304,건설,토목,측량·지리정보개발,공간정보융합서비스,15-1299.02,Geographic Information Systems Technologists and Technicians,근접,재판정 합의,근접,occ2,1,1,6,
+14020304,건설,토목,측량·지리정보개발,공간정보융합서비스,15-2051.00,Data Scientists,근접,재판정 합의,근접,occ2,5,,5,8
+14020304,건설,토목,측량·지리정보개발,공간정보융합서비스,17-1021.00,Cartographers and Photogrammetrists,근접,재판정 합의,근접,occ2,,3,8,1
+14020304,건설,토목,측량·지리정보개발,공간정보융합서비스,17-3031.00,Surveying and Mapping Technicians,근접,재판정 합의,근접,occ2,7,2,3,6
+14020304,건설,토목,측량·지리정보개발,공간정보융합서비스,19-2099.01,Remote Sensing Scientists and Technologists,근접,재판정 합의,근접,occ2,3,7,4,
+14020304,건설,토목,측량·지리정보개발,공간정보융합서비스,19-3092.00,Geographers,근접,재판정 합의,근접,occ2,6,8,2,7
+14020304,건설,토목,측량·지리정보개발,공간정보융합서비스,19-4099.03,Remote Sensing Technicians,근접,재판정 합의,근접,occ2,2,6,1,
+14030101,건설,건축,건축설계·감리,건축설계,17-1011.00,"Architects, Except Landscape and Naval",일치,핵심,,occ2,2,6,1,
+14030101,건설,건축,건축설계·감리,건축설계,17-3011.00,Architectural and Civil Drafters,넓음,핵심,,occ2,1,3,4,2
+14030102,건설,건축,건축설계·감리,건축구조설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,2,2,6,2
+14030103,건설,건축,건축설계·감리,건축공사감리,11-9021.00,Construction Managers,좁음,핵심,,occ2,2,8,1,1
+14030104,건설,건축,건축설계·감리,실내건축설계,27-1025.00,Interior Designers,좁음,핵심,,occ2,1,1,1,1
+14030201,건설,건축,건축시공,건축목공시공,47-2031.00,Carpenters,좁음,핵심,,occ2,6,,1,3
+14030202,건설,건축,건축시공,조적미장시공,47-2021.00,Brickmasons and Blockmasons,넓음,핵심,,occ2,1,6,,4
+14030202,건설,건축,건축시공,조적미장시공,47-2161.00,Plasterers and Stucco Masons,넓음,핵심,,occ2,4,1,,6
+14030203,건설,건축,건축시공,방수시공,47-2141.00,"Painters, Construction and Maintenance",근접,재판정 합의,근접,occ2,1,7,,
+14030203,건설,건축,건축시공,방수시공,47-2181.00,Roofers,근접,재판정 합의,근접,occ2,2,,,8
+14030204,건설,건축,건축시공,타일시공,47-2044.00,Tile and Stone Setters,좁음,핵심,,occ2,1,8,2,4
+14030205,건설,건축,건축시공,건축도장시공,47-2141.00,"Painters, Construction and Maintenance",좁음,핵심,,occ2,1,,,
+14030206,건설,건축,건축시공,철근콘크리트시공,47-2051.00,Cement Masons and Concrete Finishers,넓음,핵심,,occ2,1,2,,
+14030206,건설,건축,건축시공,철근콘크리트시공,47-2031.00,Carpenters,근접,재판정 합의,근접,occ2,,,3,6
+14030207,건설,건축,건축시공,창호시공,47-2031.00,Carpenters,근접,재판정 합의,근접,occ2,6,,1,3
+14030207,건설,건축,건축시공,창호시공,47-2121.00,Glaziers,근접,재판정 합의,일치,occ2,1,,,
+14030208,건설,건축,건축시공,가설시공,47-2031.00,Carpenters,근접,재판정 합의,근접,occ2,,,3,
+14030208,건설,건축,건축시공,가설시공,47-4011.00,Construction and Building Inspectors,근접,재판정 합의,근접,occ2,1,,1,
+14030209,건설,건축,건축시공,수장시공,47-2041.00,Carpet Installers,넓음,핵심,,occ2,2,,,6
+14030209,건설,건축,건축시공,수장시공,47-2082.00,Tapers,넓음,핵심,,occ2,4,,,
+14030209,건설,건축,건축시공,수장시공,47-2142.00,Paperhangers,넓음,핵심,,occ2,1,,,
+14030209,건설,건축,건축시공,수장시공,47-2161.00,Plasterers and Stucco Masons,넓음,핵심,,occ2,10,1,,
+14030210,건설,건축,건축시공,단열시공,47-2131.00,"Insulation Workers, Floor, Ceiling, and Wall",일치,핵심,,occ2,7,3,,
+14030211,건설,건축,건축시공,지붕시공,47-2181.00,Roofers,일치,핵심,,occ2,1,2,,1
+14030212,건설,건축,건축시공,구조물해체,47-2061.00,Construction Laborers,좁음,핵심,,occ2,3,2,,2
+14030213,건설,건축,건축시공,강구조시공,47-2221.00,Structural Iron and Steel Workers,일치,핵심,,occ2,2,10,,
+14030214,건설,건축,건축시공,경량철골시공,47-2081.00,Drywall and Ceiling Tile Installers,좁음,핵심,,occ2,1,3,,
+14030216,건설,건축,건축시공,한옥시공,47-2022.00,Stonemasons,넓음,핵심,,occ2,2,,,8
+14030216,건설,건축,건축시공,한옥시공,47-2044.00,Tile and Stone Setters,넓음,핵심,,occ2,3,,9,
+14030216,건설,건축,건축시공,한옥시공,47-2051.00,Cement Masons and Concrete Finishers,넓음,핵심,,occ2,5,8,,
+14030216,건설,건축,건축시공,한옥시공,47-2081.00,Drywall and Ceiling Tile Installers,넓음,핵심,,occ2,9,2,,
+14030216,건설,건축,건축시공,한옥시공,47-2161.00,Plasterers and Stucco Masons,넓음,핵심,,occ2,1,3,,7
+14030217,건설,건축,건축시공,석재시공,47-2044.00,Tile and Stone Setters,좁음,핵심,,occ2,1,2,,7
+14030301,건설,건축,건축설비설계·시공,건축설비설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,,,2,
+14030302,건설,건축,건축설비설계·시공,건축설비시공,11-9021.00,Construction Managers,근접,재판정 합의,근접,occ2,2,,1,6
+14030302,건설,건축,건축설비설계·시공,건축설비시공,47-2152.00,"Plumbers, Pipefitters, and Steamfitters",근접,재판정 합의,근접,occ2,5,10,,
+14030302,건설,건축,건축설비설계·시공,건축설비시공,47-4011.00,Construction and Building Inspectors,근접,재판정 합의,근접,occ2,1,6,5,2
+14030303,건설,건축,건축설비설계·시공,건축설비감리,11-9021.00,Construction Managers,근접,재판정 합의,근접,occ2,2,,2,6
+14030303,건설,건축,건축설비설계·시공,건축설비감리,17-2051.00,Civil Engineers,근접,재판정 합의,근접,occ2,7,3,,2
+14030303,건설,건축,건축설비설계·시공,건축설비감리,17-3022.00,Civil Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,3,
+14030303,건설,건축,건축설비설계·시공,건축설비감리,47-4011.00,Construction and Building Inspectors,근접,재판정 합의,근접,occ2,1,1,1,3
+14030304,건설,건축,건축설비설계·시공,건축설비유지관리,11-3013.00,Facilities Managers,좁음,핵심,,occ2,3,3,10,9
+14030305,건설,건축,건축설비설계·시공,배관시공,47-2152.00,"Plumbers, Pipefitters, and Steamfitters",좁음,핵심,,occ2,1,3,,2
+14040102,건설,플랜트,플랜트설계·감리,석유·화학설비설계,17-2041.00,Chemical Engineers,좁음,핵심,,occ2,1,1,,1
+14040102,건설,플랜트,플랜트설계·감리,석유·화학설비설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,,,1,4
+14040103,건설,플랜트,플랜트설계·감리,에너지설비설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,,,1,4
+14040103,건설,플랜트,플랜트설계·감리,에너지설비설계,17-2199.03,"Energy Engineers, Except Wind and Solar",좁음,핵심,,occ2,3,1,,1
+14040104,건설,플랜트,플랜트설계·감리,제조공장설비설계,17-2112.03,Manufacturing Engineers,좁음,핵심,,occ2,1,1,3,3
+14040104,건설,플랜트,플랜트설계·감리,제조공장설비설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,,,2,
+14040105,건설,플랜트,플랜트설계·감리,환경설비설계,17-2081.00,Environmental Engineers,좁음,핵심,,occ2,6,1,,1
+14040106,건설,플랜트,플랜트설계·감리,플랜트설비감리,11-9021.00,Construction Managers,좁음,핵심,,occ2,6,,2,1
+14040107,건설,플랜트,플랜트설계·감리,해수담수화플랜트설비설계,17-2051.02,Water/Wastewater Engineers,좁음,핵심,,occ2,1,1,,6
+14040202,건설,플랜트,플랜트시공,플랜트전기설비시공,47-2111.00,Electricians,좁음,핵심,,occ2,1,3,10,5
+14040203,건설,플랜트,플랜트시공,플랜트계측설비시공,47-2111.00,Electricians,근접,재판정 합의,근접,occ2,3,,,
+14040301,건설,플랜트,플랜트사업관리,플랜트사업관리,11-9021.00,Construction Managers,좁음,핵심,,occ2,3,1,2,1
+14040301,건설,플랜트,플랜트사업관리,플랜트사업관리,13-1082.00,Project Management Specialists,좁음,핵심,,occ2,2,,10,7
+14050101,건설,조경,조경,조경설계,17-1012.00,Landscape Architects,일치,핵심,,occ2,1,,3,10
+14050102,건설,조경,조경,조경시공,37-3013.00,Tree Trimmers and Pruners,넓음,핵심,,occ2,4,,,
+14050103,건설,조경,조경,조경관리,37-3011.00,Landscaping and Groundskeeping Workers,일치,핵심,,occ2,3,1,7,3
+14050104,건설,조경,조경,조경사업관리,11-9021.00,Construction Managers,좁음,핵심,,occ2,1,1,1,
+14060101,건설,도시·교통,국토·도시계획,국토·지역계획,19-3051.00,Urban and Regional Planners,좁음,핵심,,occ2,1,1,1,1
+14060102,건설,도시·교통,국토·도시계획,도시계획,19-3051.00,Urban and Regional Planners,일치,핵심,,occ2,1,1,1,1
+14060103,건설,도시·교통,국토·도시계획,도시설계,19-3051.00,Urban and Regional Planners,좁음,핵심,,occ2,1,3,1,2
+14060104,건설,도시·교통,국토·도시계획,도시재생,19-3051.00,Urban and Regional Planners,좁음,핵심,,occ2,2,2,1,1
+14060105,건설,도시·교통,국토·도시계획,도시개발,17-1012.00,Landscape Architects,근접,재판정 합의,근접,occ2,3,,5,
+14060105,건설,도시·교통,국토·도시계획,도시개발,19-3051.00,Urban and Regional Planners,근접,재판정 합의,근접,occ2,1,1,1,1
+14060106,건설,도시·교통,국토·도시계획,도시경관,17-1012.00,Landscape Architects,좁음,핵심,,occ2,2,3,1,
+14060106,건설,도시·교통,국토·도시계획,도시경관,19-3051.00,Urban and Regional Planners,좁음,핵심,,occ2,1,2,2,1
+14060201,건설,도시·교통,교통계획·설계,교통계획,19-3099.01,Transportation Planners,일치,핵심,,occ2,1,1,1,1
+14060202,건설,도시·교통,교통계획·설계,교통설계,17-2051.00,Civil Engineers,좁음,핵심,,occ2,5,3,6,5
+14060202,건설,도시·교통,교통계획·설계,교통설계,17-2051.01,Transportation Engineers,좁음,핵심,,occ2,2,2,1,2
+14060203,건설,도시·교통,교통계획·설계,교통운영·감리,17-2051.01,Transportation Engineers,좁음,핵심,,occ2,2,2,1,5
+14060301,건설,도시·교통,주거서비스,주거서비스지원,21-1093.00,Social and Human Service Assistants,근접,재판정 합의,근접,occ2,1,9,1,6
+14060401,건설,도시·교통,지능형교통,지능형교통체계(ITS) 기획 및 설계,17-2051.01,Transportation Engineers,좁음,핵심,,occ2,2,2,,3
+14060402,건설,도시·교통,지능형교통,지능형교통체계(ITS) 개발 및 구축,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,,,3,
+14060403,건설,도시·교통,지능형교통,지능형교통체계(ITS) 운영 및 유지관리,15-1244.00,Network and Computer Systems Administrators,근접,재판정 합의,근접,occ2,4,,,1
+14060403,건설,도시·교통,지능형교통,지능형교통체계(ITS) 운영 및 유지관리,53-6041.00,Traffic Technicians,근접,재판정 합의,근접,occ2,1,,4,
+14070101,건설,건설기계운전·정비,토공기계운전,모터그레이더운전,47-2073.00,Operating Engineers and Other Construction Equipment Operators,좁음,핵심,,occ2,,1,1,2
+14070102,건설,건설기계운전·정비,토공기계운전,아스팔트피니셔운전,47-2071.00,"Paving, Surfacing, and Tamping Equipment Operators",좁음,핵심,,occ2,2,1,,1
+14070105,건설,건설기계운전·정비,토공기계운전,로더운전,47-2073.00,Operating Engineers and Other Construction Equipment Operators,좁음,핵심,,occ2,,4,1,
+14070106,건설,건설기계운전·정비,토공기계운전,굴착기운전,47-2073.00,Operating Engineers and Other Construction Equipment Operators,좁음,핵심,,occ2,,1,2,7
+14070201,건설,건설기계운전·정비,기초공건설기계운전,락드릴항타항발기운전,47-2072.00,Pile Driver Operators,넓음,핵심,,occ2,1,2,,
+14070202,건설,건설기계운전·정비,기초공건설기계운전,지열시추기운전,47-5023.00,"Earth Drillers, Except Oil and Gas",좁음,핵심,,occ2,1,,1,
+14070501,건설,건설기계운전·정비,양중기계운전,기중기운전(이동식크레인조종),53-7021.00,Crane and Tower Operators,좁음,핵심,,occ2,4,,,
+14070504,건설,건설기계운전·정비,양중기계운전,천장크레인운전(천장크레인조종),53-7021.00,Crane and Tower Operators,좁음,핵심,,occ2,2,8,,
+14070506,건설,건설기계운전·정비,양중기계운전,줄걸이작업,49-9096.00,Riggers,일치,핵심,,occ2,3,,,
+14070601,건설,건설기계운전·정비,건설기계정비,건설기계정비,49-3041.00,Farm Equipment Mechanics and Service Technicians,근접,재판정 합의,근접,occ1,,5,,
+14070603,건설,건설기계운전·정비,건설기계정비,지게차정비,49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines",좁음,핵심,,occ2,,1,,
+14070604,건설,건설기계운전·정비,건설기계정비,이동식크레인정비,49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines",좁음,핵심,,occ2,,1,,
+14070605,건설,건설기계운전·정비,건설기계정비,건설기계성능검사,17-3027.01,Automotive Engineering Technicians,근접,재판정 합의,근접,occ2,3,,1,
+14080101,건설,해양자원,해양환경조사,해양관측,19-4044.00,Hydrologic Technicians,좁음,핵심,,occ2,3,10,1,
+14080102,건설,해양자원,해양환경조사,해양측량,17-1022.00,Surveyors,좁음,핵심,,occ2,3,2,8,4
+14080103,건설,해양자원,해양환경조사,해양생태환경조사,19-1029.04,Biologists,좁음,핵심,,occ2,1,8,1,4
+14080103,건설,해양자원,해양환경조사,해양생태환경조사,19-2041.00,"Environmental Scientists and Specialists, Including Health",좁음,핵심,,occ2,7,1,,1
+14080201,건설,해양자원,해양환경관리,해양환경보전·복원,19-2041.02,Environmental Restoration Planners,좁음,핵심,,occ2,2,1,,
+14080202,건설,해양자원,해양환경관리,해양환경영향평가,19-1029.04,Biologists,근접,재판정 합의,근접,occ2,3,,2,
+14080202,건설,해양자원,해양환경관리,해양환경영향평가,19-2041.02,Environmental Restoration Planners,근접,재판정 합의,근접,occ2,4,,,
+14080301,건설,해양자원,해양플랜트설계·설치·운용,원유시추설비설치·운용,47-5011.00,"Derrick Operators, Oil and Gas",근접,재판정 합의,근접,occ2,1,6,4,
+14080301,건설,해양자원,해양플랜트설계·설치·운용,원유시추설비설치·운용,47-5012.00,"Rotary Drill Operators, Oil and Gas",근접,재판정 합의,근접,occ2,3,8,,
+14080302,건설,해양자원,해양플랜트설계·설치·운용,원유생산설비설치·운용,53-7021.00,Crane and Tower Operators,넓음,핵심,,occ2,4,,,
+14080304,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트프로세스설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,,,1,
+14080305,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트시운전설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,2,1,,8
+14080306,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트안전설계,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",좁음,핵심,,occ2,3,5,1,
+14080307,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트종합설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,1,1,1,1
+14080308,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트구조설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,4,1,3,
+14080309,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트기계설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,,1,10,
+14080309,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트기계설계,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,8,,3,
+14080310,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트계장설계,17-3012.00,Electrical and Electronics Drafters,근접,재판정 합의,근접,occ2,1,,6,
+14080311,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트배관설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,,3,,
+14080311,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트배관설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,7,,2,
+14080312,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트전장설계,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,5,,3,6
+14080312,건설,해양자원,해양플랜트설계·설치·운용,해양플랜트전장설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,,1,,2
+14080401,건설,해양자원,해양자원개발·관리,해양자원탐사,19-2042.00,"Geoscientists, Except Hydrologists and Geographers",좁음,핵심,,occ2,2,2,2,1
+14080402,건설,해양자원,해양자원개발·관리,해양자원개발,17-2171.00,Petroleum Engineers,근접,재판정 합의,근접,occ2,1,,4,6
+14080402,건설,해양자원,해양자원개발·관리,해양자원개발,19-2042.00,"Geoscientists, Except Hydrologists and Geographers",근접,재판정 합의,근접,occ2,5,,3,5
+14080403,건설,해양자원,해양자원개발·관리,해양자원관리,51-9011.00,Chemical Equipment Operators and Tenders,근접,재판정 합의,근접,occ2,,,2,
+14080501,건설,해양자원,잠수,일반잠수,49-9092.00,Commercial Divers,근접,재판정 합의,근접,occ2,1,2,7,1
+14080502,건설,해양자원,잠수,산업잠수,49-9092.00,Commercial Divers,일치,핵심,,occ2,1,1,1,1
+15010101,기계,기계설계,설계기획,기계설계기획,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,2,1,2,2
+15010102,기계,기계설계,설계기획,기계개발기획,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,2,3,4,6
+15010103,기계,기계설계,설계기획,기계조달,11-3061.00,Purchasing Managers,좁음,핵심,,occ2,3,,1,2
+15010104,기계,기계설계,설계기획,기계마케팅,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",좁음,핵심,,occ2,10,,3,
+15010104,기계,기계설계,설계기획,기계마케팅,41-9031.00,Sales Engineers,좁음,핵심,,occ2,3,10,6,
+15010201,기계,기계설계,기계설계,기계요소설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,7,1,6,7
+15010201,기계,기계설계,기계설계,기계요소설계,17-3013.00,Mechanical Drafters,좁음,핵심,,occ2,3,,,9
+15010201,기계,기계설계,기계설계,기계요소설계,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,9,,1,
+15010202,기계,기계설계,기계설계,기계시스템설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,5,1,5,3
+15010202,기계,기계설계,기계설계,기계시스템설계,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,6,8,1,
+15010204,기계,기계설계,기계설계,기계제어설계,17-2199.05,Mechatronics Engineers,좁음,핵심,,occ2,2,2,3,5
+15020102,기계,기계가공,절삭가공,밀링가공,51-4035.00,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",좁음,핵심,,occ2,2,1,,6
+15020102,기계,기계가공,절삭가공,밀링가공,51-4041.00,Machinists,좁음,핵심,,occ2,3,,4,
+15020103,기계,기계가공,절삭가공,연삭가공,51-4033.00,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",좁음,핵심,,occ2,1,3,,
+15020103,기계,기계가공,절삭가공,연삭가공,51-4041.00,Machinists,좁음,핵심,,occ2,3,,3,
+15020104,기계,기계가공,절삭가공,CAM,51-4061.00,"Model Makers, Metal and Plastic",근접,재판정 합의,근접,occ2,3,5,,4
+15020104,기계,기계가공,절삭가공,CAM,51-4062.00,"Patternmakers, Metal and Plastic",근접,재판정 합의,근접,occ2,5,,,
+15020104,기계,기계가공,절삭가공,CAM,51-9161.00,Computer Numerically Controlled Tool Operators,근접,재판정 합의,근접,occ2,2,8,2,7
+15020104,기계,기계가공,절삭가공,CAM,51-9162.00,Computer Numerically Controlled Tool Programmers,근접,재판정 합의,일치,occ2,1,4,5,2
+15020105,기계,기계가공,절삭가공,측정,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,,,3,
+15020105,기계,기계가공,절삭가공,측정,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,4,,1,
+15020106,기계,기계가공,절삭가공,성형가공,51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",좁음,핵심,,occ2,,2,,
+15020201,기계,기계가공,특수가공,방전가공,51-4041.00,Machinists,좁음,핵심,,occ2,3,,7,
+15030101,기계,기계조립·관리,기계조립,기계수동조립,51-2023.00,Electromechanical Equipment Assemblers,근접,재판정 합의,근접,occ2,2,,,
+15030102,기계,기계조립·관리,기계조립,기계소프트웨어개발,15-1251.00,Computer Programmers,좁음,핵심,,occ2,2,,,8
+15030102,기계,기계조립·관리,기계조립,기계소프트웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,5,4,6,2
+15030102,기계,기계조립·관리,기계조립,기계소프트웨어개발,17-2199.05,Mechatronics Engineers,좁음,핵심,,occ2,3,7,10,3
+15030103,기계,기계조립·관리,기계조립,기계하드웨어개발,17-2199.05,Mechatronics Engineers,좁음,핵심,,occ2,2,4,5,3
+15030104,기계,기계조립·관리,기계조립,기계펌웨어개발,15-1251.00,Computer Programmers,좁음,핵심,,occ2,4,,,8
+15030104,기계,기계조립·관리,기계조립,기계펌웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,1,,3,2
+15030104,기계,기계조립·관리,기계조립,기계펌웨어개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,5,,1,
+15030201,기계,기계조립·관리,기계생산관리,기계생산관리계획,11-3051.00,Industrial Production Managers,좁음,핵심,,occ2,5,1,4,1
+15030201,기계,기계조립·관리,기계생산관리,기계생산관리계획,17-3026.00,Industrial Engineering Technologists and Technicians,좁음,핵심,,occ2,2,,1,
+15030202,기계,기계조립·관리,기계생산관리,기계자재관리,11-3071.04,Supply Chain Managers,좁음,핵심,,occ2,1,,2,7
+15030203,기계,기계조립·관리,기계생산관리,기계공정관리,17-2112.03,Manufacturing Engineers,좁음,핵심,,occ2,2,,3,6
+15030203,기계,기계조립·관리,기계생산관리,기계공정관리,17-3026.00,Industrial Engineering Technologists and Technicians,좁음,핵심,,occ2,1,,1,
+15030204,기계,기계조립·관리,기계생산관리,기계생산성관리,11-3051.00,Industrial Production Managers,좁음,핵심,,occ2,2,2,4,4
+15030204,기계,기계조립·관리,기계생산관리,기계생산성관리,17-2112.03,Manufacturing Engineers,좁음,핵심,,occ2,4,10,3,
+15030204,기계,기계조립·관리,기계생산관리,기계생산성관리,17-3026.00,Industrial Engineering Technologists and Technicians,좁음,핵심,,occ2,1,,1,
+15030205,기계,기계조립·관리,기계생산관리,기계작업감독,51-1011.00,First-Line Supervisors of Production and Operating Workers,좁음,핵심,,occ2,2,2,1,
+15040101,기계,기계품질관리,기계품질관리,기계품질계획,11-3051.01,Quality Control Systems Managers,좁음,핵심,,occ2,1,3,2,4
+15040101,기계,기계품질관리,기계품질관리,기계품질계획,17-2112.03,Manufacturing Engineers,좁음,핵심,,occ2,2,5,,
+15040101,기계,기계품질관리,기계품질관리,기계품질계획,17-3026.00,Industrial Engineering Technologists and Technicians,좁음,핵심,,occ2,5,,7,
+15040102,기계,기계품질관리,기계품질관리,기계품질관리,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,3,,3,
+15040102,기계,기계품질관리,기계품질관리,기계품질관리,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,4,,1,4
+15050101,기계,기계장치설치,기계장비설치·정비,운반하역기계설치·정비,49-9041.00,Industrial Machinery Mechanics,좁음,핵심,,occ2,1,9,,2
+15050102,기계,기계장치설치,기계장비설치·정비,건설광산기계설치·정비,49-9041.00,Industrial Machinery Mechanics,좁음,핵심,,occ2,1,9,,3
+15050103,기계,기계장치설치,기계장비설치·정비,섬유기계설치·정비,49-9041.00,Industrial Machinery Mechanics,좁음,핵심,,occ2,4,,,8
+15050104,기계,기계장치설치,기계장비설치·정비,공작기계설치·정비,49-9041.00,Industrial Machinery Mechanics,좁음,핵심,,occ2,1,4,,1
+15050104,기계,기계장치설치,기계장비설치·정비,공작기계설치·정비,49-9044.00,Millwrights,좁음,핵심,,occ2,5,,,2
+15050105,기계,기계장치설치,기계장비설치·정비,고무프라스틱기계설치·정비,49-9041.00,Industrial Machinery Mechanics,좁음,핵심,,occ2,1,,,5
+15050106,기계,기계장치설치,기계장비설치·정비,농업용기계설치·정비,49-3041.00,Farm Equipment Mechanics and Service Technicians,일치,핵심,,occ2,1,1,,3
+15050107,기계,기계장치설치,기계장비설치·정비,승강기설치·정비,47-4021.00,Elevator and Escalator Installers and Repairers,일치,핵심,,occ2,1,1,1,1
+15050108,기계,기계장치설치,기계장비설치·정비,승강기설계,17-2199.05,Mechatronics Engineers,근접,재판정 합의,근접,occ2,2,,4,
+15050201,기계,기계장치설치,냉동공조설비,냉동공조설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,,,1,
+15050201,기계,기계장치설치,냉동공조설비,냉동공조설계,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,,,2,
+15050202,기계,기계장치설치,냉동공조설비,냉동공조설치,49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",좁음,핵심,,occ2,2,2,,8
+15050203,기계,기계장치설치,냉동공조설비,냉동공조유지보수관리,49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",일치,핵심,,occ2,4,2,5,8
+15050204,기계,기계장치설치,냉동공조설비,보일러설치·정비,47-2011.00,Boilermakers,좁음,핵심,,occ2,2,9,,1
+15050205,기계,기계장치설치,냉동공조설비,보일러운영관리,51-8021.00,Stationary Engineers and Boiler Operators,좁음,핵심,,occ2,1,3,2,7
+15050301,기계,기계장치설치,이륜차정비,오토바이정비,49-3052.00,Motorcycle Mechanics,일치,핵심,,occ2,2,5,,1
+15050302,기계,기계장치설치,이륜차정비,자전거정비,49-3091.00,Bicycle Repairers,일치,핵심,,occ2,1,2,,1
+15060101,기계,자동차,자동차설계,자동차설계,17-2141.02,Automotive Engineers,좁음,핵심,,occ2,1,1,1,1
+15060102,기계,자동차,자동차설계,자동차시험평가,17-2141.02,Automotive Engineers,좁음,핵심,,occ2,2,1,2,2
+15060102,기계,자동차,자동차설계,자동차시험평가,17-3027.01,Automotive Engineering Technicians,좁음,핵심,,occ2,1,3,1,10
+15060103,기계,자동차,자동차설계,자동차공정설계,17-2112.03,Manufacturing Engineers,좁음,핵심,,occ2,1,7,2,8
+15060103,기계,자동차,자동차설계,자동차공정설계,17-2141.02,Automotive Engineers,좁음,핵심,,occ2,6,1,,1
+15060104,기계,자동차,자동차설계,차량용 제어기 SW개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,7,,2,
+15060201,기계,자동차,자동차제작,자동차조립,51-2031.00,Engine and Other Machine Assemblers,근접,재판정 합의,근접,occ2,2,5,6,
+15060202,기계,자동차,자동차제작,자동차성능검사,17-3027.01,Automotive Engineering Technicians,좁음,핵심,,occ2,1,3,1,9
+15060301,기계,자동차,자동차정비,자동차전기·전자장치정비,49-3023.00,Automotive Service Technicians and Mechanics,좁음,핵심,,occ2,1,2,1,1
+15060302,기계,자동차,자동차정비,자동차엔진정비,49-3023.00,Automotive Service Technicians and Mechanics,좁음,핵심,,occ2,1,1,1,1
+15060303,기계,자동차,자동차정비,자동차섀시정비,49-3023.00,Automotive Service Technicians and Mechanics,좁음,핵심,,occ2,1,1,1,1
+15060304,기계,자동차,자동차정비,자동차차체정비,49-3021.00,Automotive Body and Related Repairers,일치,핵심,,occ2,2,1,,3
+15060304,기계,자동차,자동차정비,자동차차체정비,49-3022.00,Automotive Glass Installers and Repairers,넓음,핵심,,occ2,6,3,,2
+15060305,기계,자동차,자동차정비,자동차도장,51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,7,,1,2
+15060306,기계,자동차,자동차정비,자동차정비검사,53-6051.07,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",좁음,핵심,,occ2,,,3,
+15060307,기계,자동차,자동차정비,전기자동차정비,49-3023.00,Automotive Service Technicians and Mechanics,좁음,핵심,,occ2,1,2,1,1
+15060308,기계,자동차,자동차정비,전기자동차검사,17-3027.01,Automotive Engineering Technicians,근접,재판정 합의,근접,occ2,3,9,1,6
+15060308,기계,자동차,자동차정비,전기자동차검사,49-3023.00,Automotive Service Technicians and Mechanics,근접,재판정 합의,근접,occ2,1,2,2,1
+15060501,기계,자동차,자동차관리,자동차영업,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",근접,재판정 합의,근접,occ2,,,1,
+15060501,기계,자동차,자동차관리,자동차영업,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",근접,재판정 합의,근접,occ2,,,2,
+15060502,기계,자동차,자동차관리,자동차튜닝,49-3021.00,Automotive Body and Related Repairers,근접,재판정 합의,근접,occ2,4,2,,8
+15060502,기계,자동차,자동차관리,자동차튜닝,49-3023.00,Automotive Service Technicians and Mechanics,근접,재판정 합의,근접,occ2,3,1,3,2
+15070101,기계,철도차량제작,철도차량설계·제작,철도차량설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,,,3,
+15070102,기계,철도차량제작,철도차량설계·제작,철도차량제작,49-3043.00,Rail Car Repairers,근접,재판정 합의,근접,occ2,1,1,,1
+15070102,기계,철도차량제작,철도차량설계·제작,철도차량제작,51-2022.00,Electrical and Electronic Equipment Assemblers,근접,재판정 합의,근접,occ2,5,,,
+15070102,기계,철도차량제작,철도차량설계·제작,철도차량제작,51-2031.00,Engine and Other Machine Assemblers,근접,재판정 합의,근접,occ2,,3,,
+15070201,기계,철도차량제작,철도차량유지보수,고속차량유지보수,49-3043.00,Rail Car Repairers,좁음,핵심,,occ2,2,1,,6
+15070202,기계,철도차량제작,철도차량유지보수,디젤차량유지보수,49-3043.00,Rail Car Repairers,좁음,핵심,,occ2,3,1,,
+15070203,기계,철도차량제작,철도차량유지보수,전기차량유지보수,49-3043.00,Rail Car Repairers,좁음,핵심,,occ2,1,1,6,7
+15070204,기계,철도차량제작,철도차량유지보수,객화차량유지보수,49-3043.00,Rail Car Repairers,좁음,핵심,,occ2,1,1,,8
+15070205,기계,철도차량제작,철도차량유지보수,특수차량유지보수,49-3043.00,Rail Car Repairers,좁음,핵심,,occ2,2,1,,8
+15080101,기계,조선,선박설계,선박기본설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,1,1,1,1
+15080102,기계,조선,선박설계,선체설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,,1,,
+15080103,기계,조선,선박설계,선박배관설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,1,2,6,3
+15080103,기계,조선,선박설계,선박배관설계,17-3013.00,Mechanical Drafters,좁음,핵심,,occ2,5,,,
+15080104,기계,조선,선박설계,철의장설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,,1,3,1
+15080104,기계,조선,선박설계,철의장설계,17-3013.00,Mechanical Drafters,좁음,핵심,,occ2,5,,,
+15080105,기계,조선,선박설계,기장설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,1,1,3,
+15080106,기계,조선,선박설계,전장설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ2,,1,,5
+15080107,기계,조선,선박설계,선실설계,17-2121.00,Marine Engineers and Naval Architects,좁음,핵심,,occ1,,2,,
+15080201,기계,조선,선체건조,선체가공,51-2041.00,Structural Metal Fabricators and Fitters,좁음,핵심,,occ2,1,,,3
+15080202,기계,조선,선체건조,선체조립,51-2041.00,Structural Metal Fabricators and Fitters,좁음,핵심,,occ2,1,5,,
+15080203,기계,조선,선체건조,선박도장,51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,4,,2,8
+15080204,기계,조선,선체건조,심출(철목),51-2041.00,Structural Metal Fabricators and Fitters,좁음,핵심,,occ2,5,,,
+15080301,기계,조선,선박의장생산,기장생산,51-2031.00,Engine and Other Machine Assemblers,근접,재판정 합의,근접,occ2,1,4,,6
+15080302,기계,조선,선박의장생산,전장생산,47-2111.00,Electricians,근접,재판정 합의,근접,occ2,5,,,8
+15080302,기계,조선,선박의장생산,전장생산,49-2098.00,Security and Fire Alarm Systems Installers,근접,재판정 합의,근접,occ2,,,2,
+15080303,기계,조선,선박의장생산,선장생산,51-2041.00,Structural Metal Fabricators and Fitters,근접,재판정 합의,근접,occ2,3,,,
+15080304,기계,조선,선박의장생산,선실의장생산,47-2081.00,Drywall and Ceiling Tile Installers,근접,재판정 합의,근접,occ2,3,,,
+15080304,기계,조선,선박의장생산,선실의장생산,49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",근접,재판정 합의,근접,occ2,,,2,
+15080401,기계,조선,선박품질관리,선체품질관리,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,3,,3,
+15080401,기계,조선,선박품질관리,선체품질관리,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,5,,2,
+15080402,기계,조선,선박품질관리,의장품질관리,11-3051.01,Quality Control Systems Managers,좁음,핵심,,occ2,3,,,10
+15080403,기계,조선,선박품질관리,도장품질관리,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,3,,2,
+15080403,기계,조선,선박품질관리,도장품질관리,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,,,3,
+15080501,기계,조선,선박생산관리,선박생산계획,11-3051.00,Industrial Production Managers,좁음,핵심,,occ2,,1,5,3
+15080501,기계,조선,선박생산관리,선박생산계획,17-3026.00,Industrial Engineering Technologists and Technicians,좁음,핵심,,occ2,,,3,
+15080501,기계,조선,선박생산관리,선박생산계획,43-5061.00,"Production, Planning, and Expediting Clerks",좁음,핵심,,occ2,,2,,8
+15080502,기계,조선,선박생산관리,선체생산관리,11-3051.00,Industrial Production Managers,좁음,핵심,,occ2,,3,6,5
+15080503,기계,조선,선박생산관리,의장생산관리,17-2112.00,Industrial Engineers,근접,재판정 합의,근접,occ2,1,,,
+15080601,기계,조선,시운전,기장시운전,53-5031.00,Ship Engineers,좁음,핵심,,occ2,1,,,5
+15080603,기계,조선,시운전,전장시운전,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",근접,재판정 합의,근접,occ2,,,1,5
+15080701,기계,조선,선박정비,선체정비,51-4121.00,"Welders, Cutters, Solderers, and Brazers",근접,재판정 합의,근접,occ2,2,,,
+15080702,기계,조선,선박정비,선박기관정비,53-5031.00,Ship Engineers,좁음,핵심,,occ2,1,2,,2
+15080703,기계,조선,선박정비,선박배관정비,47-2152.00,"Plumbers, Pipefitters, and Steamfitters",좁음,핵심,,occ1,,,,4
+15080704,기계,조선,선박정비,전장정비,47-2111.00,Electricians,근접,재판정 합의,근접,occ2,1,,,3
+15080704,기계,조선,선박정비,전장정비,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",근접,재판정 합의,근접,occ2,,,3,2
+15080801,기계,조선,레저선박,레저선박몰드제작,51-7031.00,"Model Makers, Wood",좁음,핵심,,occ2,3,4,,
+15080801,기계,조선,레저선박,레저선박몰드제작,51-7032.00,"Patternmakers, Wood",좁음,핵심,,occ2,4,,1,
+15080803,기계,조선,레저선박,복합재료레저선박건조,51-2051.00,Fiberglass Laminators and Fabricators,좁음,핵심,,occ2,2,,,4
+15080804,기계,조선,레저선박,레저선박도장,51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,,,3,
+15080805,기계,조선,레저선박,레저선박기장설치수리,49-3051.00,Motorboat Mechanics and Service Technicians,좁음,핵심,,occ2,1,2,,5
+15090101,기계,항공기제작,항공기설계,항공기기체설계,17-2011.00,Aerospace Engineers,좁음,핵심,,occ2,1,3,4,1
+15090102,기계,항공기제작,항공기설계,항공기엔진·프로펠러설계,17-2011.00,Aerospace Engineers,좁음,핵심,,occ2,1,4,5,2
+15090102,기계,항공기제작,항공기설계,항공기엔진·프로펠러설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,5,7,4,
+15090103,기계,항공기제작,항공기설계,항공기전기·전자장비설계,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,,1,,1
+15090103,기계,항공기제작,항공기설계,항공기전기·전자장비설계,17-2072.00,"Electronics Engineers, Except Computer",좁음,핵심,,occ2,,2,,6
+15090104,기계,항공기제작,항공기설계,항공기시스템설계,17-2011.00,Aerospace Engineers,좁음,핵심,,occ2,2,3,,3
+15090105,기계,항공기제작,항공기설계,소형무인기비행체개발,17-2011.00,Aerospace Engineers,좁음,핵심,,occ2,1,1,9,4
+15090201,기계,항공기제작,항공기제작,항공기기체제작,51-2011.00,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",근접,재판정 합의,근접,occ2,3,1,,4
+15090201,기계,항공기제작,항공기제작,항공기기체제작,51-4061.00,"Model Makers, Metal and Plastic",근접,재판정 합의,근접,occ2,5,2,,6
+15090201,기계,항공기제작,항공기제작,항공기기체제작,51-4111.00,Tool and Die Makers,근접,재판정 합의,근접,occ2,4,,,
+15090202,기계,항공기제작,항공기제작,항공기엔진·프로펠러제작,51-2031.00,Engine and Other Machine Assemblers,좁음,핵심,,occ2,6,1,,5
+15090203,기계,항공기제작,항공기제작,항공기전기·전자장비제작,51-2022.00,Electrical and Electronic Equipment Assemblers,좁음,핵심,,occ2,4,2,,3
+15090301,기계,항공기제작,항공기정비,항공기기체정비,49-3011.00,Aircraft Mechanics and Service Technicians,좁음,핵심,,occ2,1,1,10,1
+15090302,기계,항공기제작,항공기정비,항공기가스터빈엔진정비,49-3011.00,Aircraft Mechanics and Service Technicians,좁음,핵심,,occ2,1,1,2,1
+15090303,기계,항공기제작,항공기정비,항공기왕복엔진정비,49-3011.00,Aircraft Mechanics and Service Technicians,좁음,핵심,,occ2,1,1,5,1
+15090304,기계,항공기제작,항공기정비,항공기프로펠러정비,49-3011.00,Aircraft Mechanics and Service Technicians,좁음,핵심,,occ2,1,1,1,1
+15090305,기계,항공기제작,항공기정비,항공기계통정비,49-3011.00,Aircraft Mechanics and Service Technicians,좁음,핵심,,occ2,2,1,6,1
+15090306,기계,항공기제작,항공기정비,항공기전기·전자장비정비,49-2091.00,Avionics Technicians,일치,핵심,,occ2,3,6,2,1
+15090306,기계,항공기제작,항공기정비,항공기전기·전자장비정비,49-2093.00,"Electrical and Electronics Installers and Repairers, Transportation Equipment",좁음,핵심,,occ2,,1,,5
+15090306,기계,항공기제작,항공기정비,항공기전기·전자장비정비,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",좁음,핵심,,occ2,,2,,3
+15090306,기계,항공기제작,항공기정비,항공기전기·전자장비정비,49-3011.00,Aircraft Mechanics and Service Technicians,좁음,핵심,,occ2,1,4,1,2
+15090307,기계,항공기제작,항공기정비,헬리콥터정비,49-3011.00,Aircraft Mechanics and Service Technicians,좁음,핵심,,occ2,1,1,6,1
+15090308,기계,항공기제작,항공기정비,소형무인기정비,49-3011.00,Aircraft Mechanics and Service Technicians,좁음,핵심,,occ2,1,1,1,3
+15090401,기계,항공기제작,항공장비관리,항공기정비관리,49-3011.00,Aircraft Mechanics and Service Technicians,근접,재판정 합의,근접,occ2,2,1,2,1
+15090401,기계,항공기제작,항공장비관리,항공기정비관리,53-6051.01,Aviation Inspectors,근접,재판정 합의,근접,occ2,1,8,,3
+15090402,기계,항공기제작,항공장비관리,항공장비보급관리,41-2022.00,Parts Salespersons,근접,재판정 합의,근접,occ2,1,,1,9
+15090402,기계,항공기제작,항공장비관리,항공장비보급관리,53-7065.00,Stockers and Order Fillers,근접,재판정 합의,근접,occ2,,,2,
+15090403,기계,항공기제작,항공장비관리,항공장구관리,49-3011.00,Aircraft Mechanics and Service Technicians,좁음,핵심,,occ2,1,1,1,9
+15100102,기계,금형,사출금형,사출금형제작,51-4111.00,Tool and Die Makers,좁음,핵심,,occ2,4,,,
+15100103,기계,금형,사출금형,사출금형품질관리,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,5,,2,9
+15100202,기계,금형,프레스금형,프레스금형제작,51-4111.00,Tool and Die Makers,좁음,핵심,,occ2,3,,,
+15100203,기계,금형,프레스금형,프레스금형품질관리,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,,,1,
+15100301,기계,금형,다이캐스팅금형,다이캐스팅금형설계,17-3013.00,Mechanical Drafters,근접,재판정 합의,근접,occ2,5,,,
+15100302,기계,금형,다이캐스팅금형,다이캐스팅금형제작,51-4111.00,Tool and Die Makers,좁음,핵심,,occ2,1,5,,
+15100303,기계,금형,다이캐스팅금형,다이캐스팅금형조립,51-4111.00,Tool and Die Makers,좁음,핵심,,occ2,1,9,,3
+15100304,기계,금형,다이캐스팅금형,다이캐스팅금형품질관리,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,2,,3,4
+15100304,기계,금형,다이캐스팅금형,다이캐스팅금형품질관리,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,,,1,7
+15110101,기계,스마트공장(smart factory),스마트공장(smart factory)설계,스마트설비설계,17-2199.05,Mechatronics Engineers,좁음,핵심,,occ2,1,5,1,1
+15110201,기계,스마트공장(smart factory),스마트공장(smart factory)설치,스마트공장(smart factory)시스템설치,15-1241.01,Telecommunications Engineering Specialists,근접,재판정 합의,근접,occ2,6,,2,
+15110201,기계,스마트공장(smart factory),스마트공장(smart factory)설치,스마트공장(smart factory)시스템설치,15-1252.00,Software Developers,근접,재판정 합의,근접,occ2,,,3,
+15110201,기계,스마트공장(smart factory),스마트공장(smart factory)설치,스마트공장(smart factory)시스템설치,15-1299.08,Computer Systems Engineers/Architects,근접,재판정 합의,근접,occ2,,,1,
+15110302,기계,스마트공장(smart factory),스마트공장(smart factory)운영관리,스마트공장(smart factory)기계설비유지관리,49-9043.00,"Maintenance Workers, Machinery",근접,재판정 합의,넓음,occ1,7,3,,
+16010101,재료,금속재료,금속엔지니어링,재료설계,17-2131.00,Materials Engineers,좁음,핵심,,occ2,1,1,3,1
+16010102,재료,금속재료,금속엔지니어링,재료시험,17-2131.00,Materials Engineers,좁음,핵심,,occ2,,1,,2
+16010102,재료,금속재료,금속엔지니어링,재료시험,19-2032.00,Materials Scientists,좁음,핵심,,occ2,1,2,,1
+16010102,재료,금속재료,금속엔지니어링,재료시험,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,10,,1,3
+16010103,재료,금속재료,금속엔지니어링,재료조직평가,17-2131.00,Materials Engineers,좁음,핵심,,occ2,,1,,2
+16010103,재료,금속재료,금속엔지니어링,재료조직평가,19-2032.00,Materials Scientists,좁음,핵심,,occ2,,2,,3
+16010103,재료,금속재료,금속엔지니어링,재료조직평가,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,4,,2,
+16010200,재료,금속재료,금속재료제조,금속재료제조공통,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,10,2,,3
+16010207,재료,금속재료,금속재료제조,금속재료제조설비정비,49-9041.00,Industrial Machinery Mechanics,좁음,핵심,,occ2,1,,,10
+16010210,재료,금속재료,금속재료제조,2차정련,51-4051.00,Metal-Refining Furnace Operators and Tenders,좁음,핵심,,occ2,,3,,5
+16010211,재료,금속재료,금속재료제조,연속주조,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",좁음,핵심,,occ2,,1,,
+16010301,재료,금속재료,금속가공,주조,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,2,6,,7
+16010301,재료,금속재료,금속가공,주조,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",근접,재판정 합의,근접,occ2,,1,,
+16010301,재료,금속재료,금속가공,주조,51-7031.00,"Model Makers, Wood",근접,재판정 합의,근접,occ2,3,,,
+16010302,재료,금속재료,금속가공,단조·압출·인발,51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",근접,재판정 합의,근접,occ2,,6,1,
+16010303,재료,금속재료,금속가공,열처리,51-4191.00,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",일치,핵심,,occ1,1,1,,5
+16010305,재료,금속재료,금속가공,판금제관,51-2041.00,Structural Metal Fabricators and Fitters,좁음,핵심,,occ2,4,5,,
+16010306,재료,금속재료,금속가공,강관제조,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,4,,,8
+16010307,재료,금속재료,금속가공,분말야금,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,4,7,,4
+16010307,재료,금속재료,금속가공,분말야금,51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders",근접,재판정 합의,근접,occ2,2,,,
+16010308,재료,금속재료,금속가공,특수주조,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",좁음,핵심,,occ2,,2,,
+16010401,재료,금속재료,표면처리,도금,51-4193.00,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",일치,핵심,,occ2,5,1,7,
+16010402,재료,금속재료,표면처리,금속도장,51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,3,9,6,4
+16010500,재료,금속재료,용접,용접공통직무,51-4121.00,"Welders, Cutters, Solderers, and Brazers",좁음,핵심,,occ2,1,,3,
+16010501,재료,금속재료,용접,피복아크용접,51-4121.00,"Welders, Cutters, Solderers, and Brazers",좁음,핵심,,occ2,3,,2,
+16010502,재료,금속재료,용접,CO₂용접,51-4121.00,"Welders, Cutters, Solderers, and Brazers",좁음,핵심,,occ2,1,4,2,
+16010503,재료,금속재료,용접,가스텅스텐아크용접,51-4121.00,"Welders, Cutters, Solderers, and Brazers",좁음,핵심,,occ2,2,,1,
+16010504,재료,금속재료,용접,가스메탈아크용접,51-4121.00,"Welders, Cutters, Solderers, and Brazers",좁음,핵심,,occ2,1,,2,
+16010505,재료,금속재료,용접,서브머지드아크용접,51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,1,9,3,
+16010506,재료,금속재료,용접,로봇용접,51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,3,5,2,4
+16010507,재료,금속재료,용접,저항용접,51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,1,,1,10
+16010601,재료,금속재료,비철금속재료제조,마그네슘제조,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",근접,재판정 합의,근접,occ2,,1,,7
+16010603,재료,금속재료,비철금속재료제조,알루미늄가공,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",근접,재판정 합의,근접,occ2,,3,,9
+16010605,재료,금속재료,비철금속재료제조,비철금속습식제련,51-8091.00,Chemical Plant and System Operators,좁음,핵심,,occ2,,,2,
+16010605,재료,금속재료,비철금속재료제조,비철금속습식제련,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,6,,1,
+16010605,재료,금속재료,비철금속재료제조,비철금속습식제련,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,2,,6,8
+16020001,재료,세라믹재료,세라믹재료공통,세라믹재료품질관리,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,10,,2,2
+16020001,재료,세라믹재료,세라믹재료공통,세라믹재료품질관리,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,6,,3,6
+16020002,재료,세라믹재료,세라믹재료공통,세라믹재료환경안전관리,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",근접,재판정 합의,근접,occ2,,3,8,
+16020002,재료,세라믹재료,세라믹재료공통,세라믹재료환경안전관리,17-3025.00,Environmental Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,1,
+16020002,재료,세라믹재료,세라믹재료공통,세라믹재료환경안전관리,19-4042.00,"Environmental Science and Protection Technicians, Including Health",근접,재판정 합의,근접,occ2,,,2,
+16020002,재료,세라믹재료,세라믹재료공통,세라믹재료환경안전관리,19-5011.00,Occupational Health and Safety Specialists,근접,재판정 합의,근접,occ2,3,6,4,7
+16020002,재료,세라믹재료,세라믹재료공통,세라믹재료환경안전관리,47-4041.00,Hazardous Materials Removal Workers,근접,재판정 합의,근접,occ2,1,1,5,9
+16020301,재료,세라믹재료,소성·소결세라믹제조,소성·소결세라믹원료합성처리,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,2,3,10,1
+16020301,재료,세라믹재료,소성·소결세라믹제조,소성·소결세라믹원료합성처리,19-4031.00,Chemical Technicians,근접,재판정 합의,근접,occ2,4,,,
+16020301,재료,세라믹재료,소성·소결세라믹제조,소성·소결세라믹원료합성처리,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",근접,재판정 합의,근접,occ2,,,3,
+16020302,재료,세라믹재료,소성·소결세라믹제조,소성·소결세라믹성형,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,8,3,2,3
+16020302,재료,세라믹재료,소성·소결세라믹제조,소성·소결세라믹성형,51-9195.00,"Molders, Shapers, and Casters, Except Metal and Plastic",좁음,핵심,,occ2,1,2,,8
+16020401,재료,세라믹재료,용융세라믹제조,용융세라믹원료배합,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,3,,2,
+16020401,재료,세라믹재료,용융세라믹제조,용융세라믹원료배합,51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,2,8,1,1
+16020402,재료,세라믹재료,용융세라믹제조,용융세라믹용융,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,5,,2,
+16020402,재료,세라믹재료,용융세라믹제조,용융세라믹용융,51-9011.00,Chemical Equipment Operators and Tenders,근접,재판정 합의,근접,occ2,,,3,
+16020403,재료,세라믹재료,용융세라믹제조,용융세라믹성형,51-6091.00,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",근접,재판정 합의,근접,occ2,1,1,,2
+16020403,재료,세라믹재료,용융세라믹제조,용융세라믹성형,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",근접,재판정 합의,근접,occ2,3,2,2,3
+16020403,재료,세라믹재료,용융세라믹제조,용융세라믹성형,51-9195.04,"Glass Blowers, Molders, Benders, and Finishers",근접,재판정 합의,근접,occ2,2,,,1
+16020502,재료,세라믹재료,탄소재료제조,탄소재료품질관리,17-2131.00,Materials Engineers,좁음,재판정 합의,좁음,occ1,3,2,2,6
+16020502,재료,세라믹재료,탄소재료제조,탄소재료품질관리,19-4099.01,Quality Control Analysts,좁음,핵심,,occ1,,,,1
+16020502,재료,세라믹재료,탄소재료제조,탄소재료품질관리,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ1,,,3,
+16020502,재료,세라믹재료,탄소재료제조,탄소재료품질관리,19-2032.00,Materials Scientists,근접,재판정 합의,근접,occ1,1,,1,7
+17010101,화학·바이오,화학·바이오공통,화학물질·품질관리,화학물질분석,19-4031.00,Chemical Technicians,일치,핵심,,occ1,1,3,,4
+17010101,화학·바이오,화학·바이오공통,화학물질·품질관리,화학물질분석,19-2031.00,Chemists,좁음,핵심,,occ1,2,1,6,2
+17010102,화학·바이오,화학·바이오공통,화학물질·품질관리,화학물질검사·평가,19-2031.00,Chemists,근접,재판정 합의,근접,occ2,5,1,,1
+17010102,화학·바이오,화학·바이오공통,화학물질·품질관리,화학물질검사·평가,19-4031.00,Chemical Technicians,근접,재판정 합의,근접,occ2,4,3,,3
+17010103,화학·바이오,화학·바이오공통,화학물질·품질관리,화학물질취급관리,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,3,,2,6
+17010103,화학·바이오,화학·바이오공통,화학물질·품질관리,화학물질취급관리,19-5012.00,Occupational Health and Safety Technicians,좁음,핵심,,occ2,9,,3,
+17010104,화학·바이오,화학·바이오공통,화학물질·품질관리,화학제품품질관리,19-4099.01,Quality Control Analysts,일치,핵심,,occ1,4,,2,3
+17010201,화학·바이오,화학·바이오공통,화학공정관리,화학공정설계,17-2041.00,Chemical Engineers,좁음,핵심,,occ1,1,2,,1
+17010202,화학·바이오,화학·바이오공통,화학공정관리,화학반응공정개발운전,17-2041.00,Chemical Engineers,좁음,핵심,,occ2,1,5,1,6
+17010203,화학·바이오,화학·바이오공통,화학공정관리,화학공정유지운영,51-8091.00,Chemical Plant and System Operators,좁음,핵심,,occ2,3,1,3,4
+17010203,화학·바이오,화학·바이오공통,화학공정관리,화학공정유지운영,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,1,3,,
+17010301,화학·바이오,화학·바이오공통,화학제품연구개발,화학제품연구개발,19-2031.00,Chemists,좁음,핵심,,occ2,3,1,,5
+17010302,화학·바이오,화학·바이오공통,화학제품연구개발,화학신소재개발,19-2032.00,Materials Scientists,좁음,핵심,,occ2,8,1,4,2
+17010303,화학·바이오,화학·바이오공통,화학제품연구개발,화학제품기술사업화관리,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,2,9,7,2
+17010303,화학·바이오,화학·바이오공통,화학제품연구개발,화학제품기술사업화관리,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ2,6,,2,
+17010303,화학·바이오,화학·바이오공통,화학제품연구개발,화학제품기술사업화관리,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,1,,1,
+17010303,화학·바이오,화학·바이오공통,화학제품연구개발,화학제품기술사업화관리,19-2031.00,Chemists,근접,재판정 합의,근접,occ2,5,2,,
+17020001,화학·바이오,석유·기초화학물,석유화학공통,석유화학공정운전,51-8091.00,Chemical Plant and System Operators,좁음,핵심,,occ2,,5,2,3
+17020101,화학·바이오,석유·기초화학물,석유·천연가스,석유제품제조,11-3051.00,Industrial Production Managers,근접,재판정 합의,근접,occ2,4,,9,1
+17020101,화학·바이오,석유·기초화학물,석유·천연가스,석유제품제조,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,7,2,,3
+17020101,화학·바이오,석유·기초화학물,석유·천연가스,석유제품제조,51-9011.00,Chemical Equipment Operators and Tenders,근접,재판정 합의,근접,occ2,5,,5,
+17020201,화학·바이오,석유·기초화학물,기초유기화학물,석유화학제품제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,5,,2,
+17020202,화학·바이오,석유·기초화학물,기초유기화학물,합성수지제조,11-3051.00,Industrial Production Managers,근접,재판정 합의,근접,occ2,8,,3,1
+17020202,화학·바이오,석유·기초화학물,기초유기화학물,합성수지제조,11-3051.01,Quality Control Systems Managers,근접,재판정 합의,근접,occ2,1,,2,
+17020202,화학·바이오,석유·기초화학물,기초유기화학물,합성수지제조,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,,3,,7
+17020202,화학·바이오,석유·기초화학물,기초유기화학물,합성수지제조,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ2,2,,8,
+17020202,화학·바이오,석유·기초화학물,기초유기화학물,합성수지제조,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,3,,1,
+17020203,화학·바이오,석유·기초화학물,기초유기화학물,합섬원료제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,1,,3,
+17020204,화학·바이오,석유·기초화학물,기초유기화학물,합성고무제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ1,4,,3,
+17020204,화학·바이오,석유·기초화학물,기초유기화학물,합성고무제조,11-3051.00,Industrial Production Managers,근접,재판정 합의,근접,occ1,5,,4,1
+17020204,화학·바이오,석유·기초화학물,기초유기화학물,합성고무제조,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ1,,2,,8
+17020204,화학·바이오,석유·기초화학물,기초유기화학물,합성고무제조,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ1,3,,6,
+17020204,화학·바이오,석유·기초화학물,기초유기화학물,합성고무제조,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ1,2,,1,
+17020205,화학·바이오,석유·기초화학물,기초유기화학물,고분자복합재료제조,11-3051.01,Quality Control Systems Managers,근접,재판정 합의,근접,occ2,4,,,
+17020205,화학·바이오,석유·기초화학물,기초유기화학물,고분자복합재료제조,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,3,2,8,9
+17020205,화학·바이오,석유·기초화학물,기초유기화학물,고분자복합재료제조,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,1,1,1,2
+17020205,화학·바이오,석유·기초화학물,기초유기화학물,고분자복합재료제조,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,5,,3,
+17020205,화학·바이오,석유·기초화학물,기초유기화학물,고분자복합재료제조,19-2032.00,Materials Scientists,근접,재판정 합의,근접,occ2,2,3,2,6
+17020206,화학·바이오,석유·기초화학물,기초유기화학물,기능성고분자제조,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,1,4,3,
+17020206,화학·바이오,석유·기초화학물,기초유기화학물,기능성고분자제조,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,4,,2,4
+17020206,화학·바이오,석유·기초화학물,기초유기화학물,기능성고분자제조,19-2031.00,Chemists,근접,재판정 합의,근접,occ2,3,10,,8
+17020206,화학·바이오,석유·기초화학물,기초유기화학물,기능성고분자제조,19-2032.00,Materials Scientists,근접,재판정 합의,근접,occ2,2,,1,2
+17020302,화학·바이오,석유·기초화학물,기초무기화학물,산·알카리제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,2,,2,
+17020302,화학·바이오,석유·기초화학물,기초무기화학물,산·알카리제조,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,8,1,,9
+17020302,화학·바이오,석유·기초화학물,기초무기화학물,산·알카리제조,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,1,
+17030001,화학·바이오,정밀화학,정밀화학(공통),정밀화학생산,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,3,,3,
+17030102,화학·바이오,정밀화학,비료·농약,농약제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,6,,1,
+17030104,화학·바이오,정밀화학,비료·농약,무기질비료제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,9,,1,
+17030201,화학·바이오,정밀화학,기능성정밀화학,계면활성제제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,1,,2,
+17030202,화학·바이오,정밀화학,기능성정밀화학,첨가제제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,2,,2,
+17030203,화학·바이오,정밀화학,기능성정밀화학,색소(염·안료)제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,1,,1,
+17030204,화학·바이오,정밀화학,기능성정밀화학,도료제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ1,2,,4,
+17030205,화학·바이오,정밀화학,기능성정밀화학,접착제제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,2,,1,
+17030206,화학·바이오,정밀화학,기능성정밀화학,화약류제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,5,9,1,
+17030601,화학·바이오,정밀화학,의약품,의약품생산,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,2,,1,
+17030602,화학·바이오,정밀화학,의약품,의약품품질관리,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,3,,2,5
+17030603,화학·바이오,정밀화학,의약품,의약품연구개발,19-2031.00,Chemists,근접,재판정 합의,근접,occ2,5,2,,4
+17030603,화학·바이오,정밀화학,의약품,의약품연구개발,19-4031.00,Chemical Technicians,근접,재판정 합의,근접,occ2,4,,,
+17030604,화학·바이오,정밀화학,의약품,의약품비임상시험,19-4021.00,Biological Technicians,근접,재판정 합의,근접,occ2,2,6,2,1
+17030604,화학·바이오,정밀화학,의약품,의약품비임상시험,29-2011.00,Medical and Clinical Laboratory Technologists,근접,재판정 합의,근접,occ2,5,5,4,
+17030604,화학·바이오,정밀화학,의약품,의약품비임상시험,29-2012.00,Medical and Clinical Laboratory Technicians,근접,재판정 합의,근접,occ2,10,2,3,
+17030605,화학·바이오,정밀화학,의약품,의약품임상시험,11-9121.01,Clinical Research Coordinators,근접,재판정 합의,넓음,occ2,2,,1,3
+17030605,화학·바이오,정밀화학,의약품,의약품임상시험,15-2041.01,Biostatisticians,근접,재판정 합의,넓음,occ2,1,,4,
+17030605,화학·바이오,정밀화학,의약품,의약품임상시험,15-2051.02,Clinical Data Managers,근접,재판정 합의,넓음,occ2,5,,9,
+17030701,화학·바이오,정밀화학,화장품,화장품생산,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,4,,2,
+17030702,화학·바이오,정밀화학,화장품,화장품품질관리,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,6,5,3,2
+17030703,화학·바이오,정밀화학,화장품,화장품연구개발,19-2031.00,Chemists,좁음,핵심,,occ2,2,2,,4
+17040101,화학·바이오,플라스틱·고무,플라스틱,압출성형,51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",좁음,핵심,,occ2,,5,2,
+17040102,화학·바이오,플라스틱·고무,플라스틱,코팅,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,1,,2,8
+17040102,화학·바이오,플라스틱·고무,플라스틱,코팅,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,6,,1,
+17040102,화학·바이오,플라스틱·고무,플라스틱,코팅,51-4193.00,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",근접,재판정 합의,근접,occ2,10,1,,1
+17040102,화학·바이오,플라스틱·고무,플라스틱,코팅,51-9123.00,"Painting, Coating, and Decorating Workers",근접,재판정 합의,근접,occ2,3,,,
+17040102,화학·바이오,플라스틱·고무,플라스틱,코팅,51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",근접,재판정 합의,근접,occ2,2,3,,3
+17040103,화학·바이오,플라스틱·고무,플라스틱,중공·진공성형,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ2,4,,8,
+17040103,화학·바이오,플라스틱·고무,플라스틱,중공·진공성형,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",근접,재판정 합의,근접,occ2,,,2,
+17040104,화학·바이오,플라스틱·고무,플라스틱,컴파운딩,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,,1,,
+17040104,화학·바이오,플라스틱·고무,플라스틱,컴파운딩,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ2,1,,2,10
+17040104,화학·바이오,플라스틱·고무,플라스틱,컴파운딩,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,2,3,3,1
+17040104,화학·바이오,플라스틱·고무,플라스틱,컴파운딩,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",근접,재판정 합의,근접,occ2,7,2,6,
+17040106,화학·바이오,플라스틱·고무,플라스틱,플라스틱재활용,53-7062.04,Recycling and Reclamation Workers,좁음,핵심,,occ2,2,2,,1
+17040201,화학·바이오,플라스틱·고무,고무,고무배합,51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,2,10,,2
+17040202,화학·바이오,플라스틱·고무,고무,고무제품제조,11-3051.01,Quality Control Systems Managers,근접,재판정 합의,근접,occ2,2,,3,
+17040202,화학·바이오,플라스틱·고무,고무,고무제품제조,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ2,1,,8,
+17040202,화학·바이오,플라스틱·고무,고무,고무제품제조,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,3,5,5,5
+17040202,화학·바이오,플라스틱·고무,고무,고무제품제조,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,7,,1,
+17040202,화학·바이오,플라스틱·고무,고무,고무제품제조,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",근접,재판정 합의,근접,occ2,,2,,
+17040202,화학·바이오,플라스틱·고무,고무,고무제품제조,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",근접,재판정 합의,근접,occ2,,,2,
+17050101,화학·바이오,바이오,바이오의약,바이오의약품생산,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,,,1,
+17050102,화학·바이오,바이오,바이오의약,바이오의약품개발,19-1021.00,Biochemists and Biophysicists,좁음,핵심,,occ2,1,2,6,2
+17050102,화학·바이오,바이오,바이오의약,바이오의약품개발,19-1029.02,Molecular and Cellular Biologists,좁음,핵심,,occ2,8,,3,10
+17050103,화학·바이오,바이오,바이오의약,바이오진단제품개발·서비스,19-1029.02,Molecular and Cellular Biologists,근접,재판정 합의,근접,occ2,2,,2,
+17050103,화학·바이오,바이오,바이오의약,바이오진단제품개발·서비스,19-4021.00,Biological Technicians,근접,재판정 합의,근접,occ2,4,4,4,5
+17050105,화학·바이오,바이오,바이오의약,생물학적제제개발,19-1021.00,Biochemists and Biophysicists,좁음,핵심,,occ2,1,1,5,7
+17050105,화학·바이오,바이오,바이오의약,생물학적제제개발,19-1029.02,Molecular and Cellular Biologists,좁음,핵심,,occ2,2,8,2,
+17050106,화학·바이오,바이오,바이오의약,첨단바이오의약품개발,19-1021.00,Biochemists and Biophysicists,좁음,핵심,,occ2,1,2,3,5
+17050106,화학·바이오,바이오,바이오의약,첨단바이오의약품개발,19-1029.02,Molecular and Cellular Biologists,좁음,핵심,,occ2,3,,2,8
+17050107,화학·바이오,바이오,바이오의약,바이오의약품품질관리,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,1,,1,2
+17050201,화학·바이오,바이오,바이오화학,바이오화학제품제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,,,1,
+17050202,화학·바이오,바이오,바이오화학,바이오플라스틱제품제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,,,3,
+17050203,화학·바이오,바이오,바이오화학,특수바이오화학제품제조,51-9011.00,Chemical Equipment Operators and Tenders,좁음,핵심,,occ2,9,,1,
+17050301,화학·바이오,바이오,바이오기술,유전체정보분석,15-2099.01,Bioinformatics Technicians,좁음,핵심,,occ2,5,1,9,1
+17050301,화학·바이오,바이오,바이오기술,유전체정보분석,19-1029.01,Bioinformatics Scientists,좁음,핵심,,occ2,2,2,4,2
+17050301,화학·바이오,바이오,바이오기술,유전체정보분석,19-1029.03,Geneticists,좁음,핵심,,occ2,3,4,5,3
+17050302,화학·바이오,바이오,바이오기술,유전자변형,19-1021.00,Biochemists and Biophysicists,좁음,핵심,,occ2,2,1,2,10
+17050302,화학·바이오,바이오,바이오기술,유전자변형,19-1029.02,Molecular and Cellular Biologists,좁음,핵심,,occ2,5,6,3,
+17050302,화학·바이오,바이오,바이오기술,유전자변형,19-1029.03,Geneticists,좁음,핵심,,occ2,3,3,4,9
+18010101,섬유·의복,섬유제조,섬유생산,방사,51-6091.00,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",일치,핵심,,occ1,,2,,
+18010103,섬유·의복,섬유제조,섬유생산,제직,51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,3,7,1,8
+18010104,섬유·의복,섬유제조,섬유생산,편직,51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",좁음,핵심,,occ2,,4,2,
+18010105,섬유·의복,섬유제조,섬유생산,부직포,51-6091.00,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",근접,재판정 합의,근접,occ2,,2,,9
+18010106,섬유·의복,섬유제조,섬유생산,사가공,51-6064.00,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",일치,핵심,,occ1,,4,,
+18010202,섬유·의복,섬유제조,섬유가공,염색가공,51-6061.00,Textile Bleaching and Dyeing Machine Operators and Tenders,일치,핵심,,occ2,1,3,2,
+18010302,섬유·의복,섬유제조,섬유생산관리,생산현장관리,11-3051.00,Industrial Production Managers,좁음,핵심,,occ2,1,3,9,1
+18020101,섬유·의복,패션,패션제품기획,패션기획,11-2022.00,Sales Managers,근접,재판정 합의,근접,occ2,5,,5,
+18020101,섬유·의복,패션,패션제품기획,패션기획,13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",근접,재판정 합의,근접,occ2,,,1,5
+18020101,섬유·의복,패션,패션제품기획,패션기획,27-1022.00,Fashion Designers,근접,재판정 합의,근접,occ2,1,3,,1
+18020101,섬유·의복,패션,패션제품기획,패션기획,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,근접,재판정 합의,근접,occ2,,,2,
+18020102,섬유·의복,패션,패션제품기획,패션디자인,27-1022.00,Fashion Designers,일치,핵심,,occ2,1,1,2,1
+18020103,섬유·의복,패션,패션제품기획,패턴,51-6092.00,Fabric and Apparel Patternmakers,일치,핵심,,occ2,1,1,2,1
+18020103,섬유·의복,패션,패션제품기획,패턴,51-6062.00,"Textile Cutting Machine Setters, Operators, and Tenders",넓음,핵심,,occ2,,,3,
+18020104,섬유·의복,패션,패션제품기획,비주얼머천다이징,27-1026.00,Merchandise Displayers and Window Trimmers,일치,핵심,,occ2,1,,2,
+18020201,섬유·의복,패션,패션제품생산,제직의류생산,51-6021.00,"Pressers, Textile, Garment, and Related Materials",넓음,핵심,,occ2,4,1,,7
+18020202,섬유·의복,패션,패션제품생산,편직의류생산,51-6021.00,"Pressers, Textile, Garment, and Related Materials",넓음,핵심,,occ2,3,1,,4
+18020203,섬유·의복,패션,패션제품생산,가죽·모피생산,51-6052.00,"Tailors, Dressmakers, and Custom Sewers",근접,재판정 합의,근접,occ2,3,,,7
+18020204,섬유·의복,패션,패션제품생산,패션소품생산,51-6021.00,"Pressers, Textile, Garment, and Related Materials",넓음,핵심,,occ2,,1,,4
+18020205,섬유·의복,패션,패션제품생산,한복생산,51-6052.00,"Tailors, Dressmakers, and Custom Sewers",좁음,핵심,,occ2,2,10,1,7
+18020205,섬유·의복,패션,패션제품생산,한복생산,51-6021.00,"Pressers, Textile, Garment, and Related Materials",넓음,핵심,,occ2,4,1,5,8
+18020301,섬유·의복,패션,패션제품유통,의류유통관리,11-2011.00,Advertising and Promotions Managers,근접,재판정 합의,근접,occ2,2,,,
+18020301,섬유·의복,패션,패션제품유통,의류유통관리,11-2022.00,Sales Managers,근접,재판정 합의,근접,occ2,5,,4,8
+18020301,섬유·의복,패션,패션제품유통,의류유통관리,13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",근접,재판정 합의,근접,occ2,,7,1,2
+18020301,섬유·의복,패션,패션제품유통,의류유통관리,13-1199.06,Online Merchants,근접,재판정 합의,근접,occ2,1,,2,5
+18020301,섬유·의복,패션,패션제품유통,의류유통관리,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,근접,재판정 합의,근접,occ2,,,3,
+18020303,섬유·의복,패션,패션제품유통,신발유통관리,11-2022.00,Sales Managers,근접,재판정 합의,근접,occ2,3,9,4,9
+18020303,섬유·의복,패션,패션제품유통,신발유통관리,11-3071.04,Supply Chain Managers,근접,재판정 합의,근접,occ2,1,3,,7
+18020303,섬유·의복,패션,패션제품유통,신발유통관리,13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",근접,재판정 합의,근접,occ2,,4,1,2
+18020303,섬유·의복,패션,패션제품유통,신발유통관리,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,근접,재판정 합의,근접,occ2,10,,2,
+18020304,섬유·의복,패션,패션제품유통,패션소품유통관리,11-2022.00,Sales Managers,근접,재판정 합의,근접,occ2,6,,3,
+18020304,섬유·의복,패션,패션제품유통,패션소품유통관리,13-1022.00,"Wholesale and Retail Buyers, Except Farm Products",근접,재판정 합의,근접,occ2,,7,1,2
+18020304,섬유·의복,패션,패션제품유통,패션소품유통관리,41-1011.00,First-Line Supervisors of Retail Sales Workers,근접,재판정 합의,넓음,occ2,3,,5,
+18020304,섬유·의복,패션,패션제품유통,패션소품유통관리,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers,근접,재판정 합의,근접,occ2,10,,2,
+18020401,섬유·의복,패션,신발개발·생산,신발생산,51-6021.00,"Pressers, Textile, Garment, and Related Materials",넓음,핵심,,occ2,9,2,,7
+18020402,섬유·의복,패션,신발개발·생산,신발개발,27-1021.00,Commercial and Industrial Designers,근접,재판정 합의,근접,occ1,7,,1,
+18030101,섬유·의복,의복관리,세탁·수선,세탁,51-6011.00,Laundry and Dry-Cleaning Workers,일치,핵심,,occ2,2,1,3,1
+18030101,섬유·의복,의복관리,세탁·수선,세탁,51-6021.00,"Pressers, Textile, Garment, and Related Materials",넓음,핵심,,occ2,1,2,7,
+18030102,섬유·의복,의복관리,세탁·수선,수선,51-6052.00,"Tailors, Dressmakers, and Custom Sewers",좁음,핵심,,occ2,1,9,1,1
+19010101,전기·전자,전기,발전설비설계,수력발전설비설계,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,4,3,1,4
+19010101,전기·전자,전기,발전설비설계,수력발전설비설계,17-2199.03,"Energy Engineers, Except Wind and Solar",좁음,핵심,,occ2,,2,,
+19010102,전기·전자,전기,발전설비설계,화력발전설비설계,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,4,3,1,1
+19010102,전기·전자,전기,발전설비설계,화력발전설비설계,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,,,2,3
+19010103,전기·전자,전기,발전설비설계,원자력발전설비설계,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,10,3,2,1
+19010103,전기·전자,전기,발전설비설계,원자력발전설비설계,17-2161.00,Nuclear Engineers,좁음,핵심,,occ2,1,1,,8
+19010201,전기·전자,전기,발전설비운영,수력발전설비운영,51-8013.00,Power Plant Operators,좁음,핵심,,occ2,2,2,3,2
+19010202,전기·전자,전기,발전설비운영,화력발전설비운영,51-8013.00,Power Plant Operators,좁음,핵심,,occ2,1,3,3,2
+19010203,전기·전자,전기,발전설비운영,원자력발전설비운영,19-4051.02,Nuclear Monitoring Technicians,넓음,재판정 합의,넓음,occ2,5,,,
+19010203,전기·전자,전기,발전설비운영,원자력발전설비운영,51-8011.00,Nuclear Power Reactor Operators,넓음,재판정 합의,넓음,occ2,3,2,4,4
+19010203,전기·전자,전기,발전설비운영,원자력발전설비운영,17-2161.00,Nuclear Engineers,근접,재판정 합의,근접,occ2,2,3,,
+19010203,전기·전자,전기,발전설비운영,원자력발전설비운영,19-4051.00,Nuclear Technicians,근접,재판정 합의,근접,occ2,1,1,10,1
+19010203,전기·전자,전기,발전설비운영,원자력발전설비운영,51-8013.00,Power Plant Operators,근접,재판정 합의,근접,occ2,4,4,5,2
+19010204,전기·전자,전기,발전설비운영,원자력발전전기설비정비,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",좁음,핵심,,occ2,,6,2,
+19010206,전기·전자,전기,발전설비운영,원자력발전계측제어설비정비,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",좁음,핵심,,occ2,,5,3,
+19010301,전기·전자,전기,송배전설비,송변전배전설비설계,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,,3,2,
+19010302,전기·전자,전기,송배전설비,송변전배전설비운영,51-8012.00,Power Distributors and Dispatchers,넓음,재판정 합의,넓음,occ2,4,6,7,
+19010302,전기·전자,전기,송배전설비,송변전배전설비운영,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",근접,재판정 합의,근접,occ2,,10,1,
+19010303,전기·전자,전기,송배전설비,송변전배전설비공사감리,47-4011.00,Construction and Building Inspectors,근접,재판정 합의,근접,occ2,2,,1,
+19010304,전기·전자,전기,송배전설비,직류송배전전력변환설비제작,51-2023.00,Electromechanical Equipment Assemblers,좁음,핵심,,occ2,3,,,
+19010305,전기·전자,전기,송배전설비,직류송배전제어·보호시스템설비제작,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,1,
+19010305,전기·전자,전기,송배전설비,직류송배전제어·보호시스템설비제작,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",근접,재판정 합의,근접,occ2,3,,2,
+19010306,전기·전자,전기,송배전설비,직류송배전시험평가,17-2112.02,Validation Engineers,근접,재판정 합의,근접,occ2,3,,,1
+19010306,전기·전자,전기,송배전설비,직류송배전시험평가,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",근접,재판정 합의,근접,occ2,,,1,
+19010308,전기·전자,전기,송배전설비,직류송배전제어·보호시스템설비설계,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,,,2,
+19010401,전기·전자,전기,지능형전력망설비,지능형전력망설비,17-2071.00,Electrical Engineers,근접,재판정 합의,근접,occ2,3,4,4,3
+19010401,전기·전자,전기,지능형전력망설비,지능형전력망설비,49-9051.00,Electrical Power-Line Installers and Repairers,근접,재판정 합의,근접,occ2,,3,,
+19010501,전기·전자,전기,전기기기제작,전기기기설계,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,9,1,5,1
+19010502,전기·전자,전기,전기기기제작,전기기기제작,51-2022.00,Electrical and Electronic Equipment Assemblers,근접,재판정 합의,근접,occ2,3,3,,3
+19010502,전기·전자,전기,전기기기제작,전기기기제작,51-2023.00,Electromechanical Equipment Assemblers,근접,재판정 합의,근접,occ2,1,10,,
+19010502,전기·전자,전기,전기기기제작,전기기기제작,51-2092.00,Team Assemblers,근접,재판정 합의,근접,occ2,4,,,
+19010503,전기·전자,전기,전기기기제작,전기기기유지보수,47-2111.00,Electricians,근접,재판정 합의,근접,occ2,4,7,,8
+19010503,전기·전자,전기,전기기기제작,전기기기유지보수,49-2092.00,"Electric Motor, Power Tool, and Related Repairers",근접,재판정 합의,근접,occ2,6,2,,5
+19010503,전기·전자,전기,전기기기제작,전기기기유지보수,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",근접,재판정 합의,근접,occ2,3,3,7,
+19010503,전기·전자,전기,전기기기제작,전기기기유지보수,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",근접,재판정 합의,근접,occ2,2,1,1,
+19010504,전기·전자,전기,전기기기제작,전기전선제조,17-2071.00,Electrical Engineers,근접,재판정 합의,근접,occ2,9,2,,2
+19010504,전기·전자,전기,전기기기제작,전기전선제조,51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",근접,재판정 합의,근접,occ2,4,,1,
+19010601,전기·전자,전기,전기설비설계·감리,전기설비설계,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,5,1,3,1
+19010602,전기·전자,전기,전기설비설계·감리,전기설비감리,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,2,2,8,1
+19010603,전기·전자,전기,전기설비설계·감리,전기설비운영,47-2111.00,Electricians,근접,재판정 합의,근접,occ2,3,1,,6
+19010603,전기·전자,전기,전기설비설계·감리,전기설비운영,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",근접,재판정 합의,근접,occ2,,5,2,10
+19010701,전기·전자,전기,전기공사,내선공사,47-2111.00,Electricians,좁음,핵심,,occ2,3,1,7,6
+19010702,전기·전자,전기,전기공사,외선공사,49-9051.00,Electrical Power-Line Installers and Repairers,일치,핵심,,occ2,4,2,,
+19010703,전기·전자,전기,전기공사,변전설비공사,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",좁음,핵심,,occ2,9,4,2,
+19010704,전기·전자,전기,전기공사,전기공사관리,11-9021.00,Construction Managers,좁음,핵심,,occ2,4,7,1,7
+19010801,전기·전자,전기,전기자동제어,자동제어시스템설계,17-2071.00,Electrical Engineers,좁음,핵심,,occ1,,2,,6
+19010801,전기·전자,전기,전기자동제어,자동제어시스템설계,17-3012.00,Electrical and Electronics Drafters,근접,재판정 합의,근접,occ1,7,3,,
+19010802,전기·전자,전기,전기자동제어,자동제어기기제작,17-2112.00,Industrial Engineers,근접,재판정 합의,근접,occ2,3,,,
+19010802,전기·전자,전기,전기자동제어,자동제어기기제작,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,5,,1,
+19010802,전기·전자,전기,전기자동제어,자동제어기기제작,51-2022.00,Electrical and Electronic Equipment Assemblers,근접,재판정 합의,근접,occ2,,3,,
+19010802,전기·전자,전기,전기자동제어,자동제어기기제작,51-2023.00,Electromechanical Equipment Assemblers,근접,재판정 합의,근접,occ2,2,6,,
+19010802,전기·전자,전기,전기자동제어,자동제어기기제작,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",근접,재판정 합의,근접,occ2,,,2,
+19010803,전기·전자,전기,전기자동제어,자동제어시스템유지정비,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",좁음,핵심,,occ2,1,1,8,
+19010804,전기·전자,전기,전기자동제어,자동제어시스템운영,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",근접,재판정 합의,근접,occ2,,3,,
+19010901,전기·전자,전기,전기철도,전기철도설계·감리,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,6,2,1,1
+19010902,전기·전자,전기,전기철도,전기철도시공,47-2111.00,Electricians,근접,재판정 합의,근접,occ2,5,3,,5
+19010903,전기·전자,전기,전기철도,전기철도시설물유지보수,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",근접,재판정 합의,근접,occ2,,2,1,
+19011001,전기·전자,전기,철도신호제어,철도신호제어설계·감리,11-9021.00,Construction Managers,근접,재판정 합의,근접,occ2,4,,2,
+19011001,전기·전자,전기,철도신호제어,철도신호제어설계·감리,17-3012.00,Electrical and Electronics Drafters,근접,재판정 합의,근접,occ2,3,8,10,
+19011001,전기·전자,전기,철도신호제어,철도신호제어설계·감리,47-4011.00,Construction and Building Inspectors,근접,재판정 합의,근접,occ2,9,,3,
+19011002,전기·전자,전기,철도신호제어,철도신호제어시공,49-9097.00,Signal and Track Switch Repairers,좁음,핵심,,occ2,1,1,,1
+19011003,전기·전자,전기,철도신호제어,철도신호제어시설물유지보수,49-9097.00,Signal and Track Switch Repairers,일치,핵심,,occ2,1,1,7,1
+19011101,전기·전자,전기,초임계CO₂발전,초임계CO₂발전열원설계·제작,17-2141.00,Mechanical Engineers,좁음,핵심,,occ1,,,1,
+19011102,전기·전자,전기,초임계CO₂발전,초임계CO₂열교환기설계·제작,17-2141.00,Mechanical Engineers,좁음,핵심,,occ1,3,,4,
+19011103,전기·전자,전기,초임계CO₂발전,초임계CO₂회전기기설계·제작,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,2,,2,
+19011103,전기·전자,전기,초임계CO₂발전,초임계CO₂회전기기설계·제작,17-2199.05,Mechatronics Engineers,근접,재판정 합의,근접,occ2,1,,,
+19011103,전기·전자,전기,초임계CO₂발전,초임계CO₂회전기기설계·제작,17-3027.00,Mechanical Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,1,
+19011201,전기·전자,전기,전기저장장치,전기저장장치개발,17-2071.00,Electrical Engineers,좁음,핵심,,occ2,4,1,6,2
+19011301,전기·전자,전기,미래형전기시스템,스마트유지보수운영,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",근접,재판정 합의,근접,occ2,,1,2,
+19011401,전기·전자,전기,전지,리튬이온전지셀제조,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,1,
+19011402,전기·전자,전기,전지,리튬이온전지셀개발,17-2131.00,Materials Engineers,좁음,핵심,,occ2,9,,3,6
+19020101,전기·전자,전자기기일반,전자제품개발기획·생산,전자제품기획,11-2021.00,Marketing Managers,근접,재판정 합의,근접,occ2,5,,,1
+19020101,전기·전자,전자기기일반,전자제품개발기획·생산,전자제품기획,13-1161.00,Market Research Analysts and Marketing Specialists,근접,재판정 합의,근접,occ2,1,,1,3
+19020102,전기·전자,전자기기일반,전자제품개발기획·생산,전자제품생산,11-3051.00,Industrial Production Managers,근접,재판정 합의,근접,occ2,5,,4,1
+19020102,전기·전자,전자기기일반,전자제품개발기획·생산,전자제품생산,11-3051.01,Quality Control Systems Managers,근접,재판정 합의,근접,occ2,6,,3,
+19020102,전기·전자,전자기기일반,전자제품개발기획·생산,전자제품생산,11-3071.04,Supply Chain Managers,근접,재판정 합의,근접,occ2,4,,,
+19020102,전기·전자,전자기기일반,전자제품개발기획·생산,전자제품생산,17-2112.00,Industrial Engineers,근접,재판정 합의,근접,occ2,3,,,
+19020102,전기·전자,전자기기일반,전자제품개발기획·생산,전자제품생산,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ2,1,3,2,
+19020102,전기·전자,전자기기일반,전자제품개발기획·생산,전자제품생산,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,2,,1,
+19020201,전기·전자,전자기기일반,전자부품기획·생산,전자부품기획,13-1161.00,Market Research Analysts and Marketing Specialists,근접,재판정 합의,근접,occ2,3,,1,
+19020202,전기·전자,전자기기일반,전자부품기획·생산,전자부품생산,17-2112.00,Industrial Engineers,근접,재판정 합의,근접,occ2,3,,,
+19020202,전기·전자,전자기기일반,전자부품기획·생산,전자부품생산,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ2,2,5,2,9
+19020202,전기·전자,전자기기일반,전자부품기획·생산,전자부품생산,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,4,8,,
+19020202,전기·전자,전자기기일반,전자부품기획·생산,전자부품생산,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,1,,1,
+19020202,전기·전자,전자기기일반,전자부품기획·생산,전자부품생산,51-1011.00,First-Line Supervisors of Production and Operating Workers,근접,재판정 합의,근접,occ2,,,3,
+19020301,전기·전자,전자기기일반,전자제품고객지원,전자제품설치·정비,41-2021.00,Counter and Rental Clerks,근접,재판정 합의,근접,occ2,5,,,
+19020301,전기·전자,전자기기일반,전자제품고객지원,전자제품설치·정비,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",근접,재판정 합의,근접,occ2,3,2,,4
+19020301,전기·전자,전자기기일반,전자제품고객지원,전자제품설치·정비,49-2097.00,Audiovisual Equipment Installers and Repairers,근접,재판정 합의,근접,occ2,4,4,10,3
+19020301,전기·전자,전자기기일반,전자제품고객지원,전자제품설치·정비,49-9031.00,Home Appliance Repairers,근접,재판정 합의,근접,occ2,1,9,,2
+19020302,전기·전자,전자기기일반,전자제품고객지원,전자제품영업,11-2021.00,Marketing Managers,근접,재판정 합의,근접,occ2,2,,7,1
+19020302,전기·전자,전자기기일반,전자제품고객지원,전자제품영업,11-2022.00,Sales Managers,근접,재판정 합의,근접,occ2,5,,4,
+19020302,전기·전자,전자기기일반,전자제품고객지원,전자제품영업,13-1199.06,Online Merchants,근접,재판정 합의,근접,occ2,4,,6,4
+19020302,전기·전자,전자기기일반,전자제품고객지원,전자제품영업,41-2022.00,Parts Salespersons,근접,재판정 합의,근접,occ2,,2,,
+19020302,전기·전자,전자기기일반,전자제품고객지원,전자제품영업,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",근접,재판정 합의,근접,occ2,,4,1,
+19020302,전기·전자,전자기기일반,전자제품고객지원,전자제품영업,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",근접,재판정 합의,근접,occ2,,,3,
+19020302,전기·전자,전자기기일반,전자제품고객지원,전자제품영업,41-9031.00,Sales Engineers,근접,재판정 합의,근접,occ2,1,9,5,8
+19030101,전기·전자,전자기기개발,가전기기개발,가전기기시스템소프트웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,1,1,3,1
+19030101,전기·전자,전자기기개발,가전기기개발,가전기기시스템소프트웨어개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,2,2,2,7
+19030102,전기·전자,전자기기개발,가전기기개발,가전기기응용소프트웨어개발,15-1251.00,Computer Programmers,좁음,핵심,,occ2,9,2,,5
+19030102,전기·전자,전자기기개발,가전기기개발,가전기기응용소프트웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,2,1,4,1
+19030102,전기·전자,전자기기개발,가전기기개발,가전기기응용소프트웨어개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,1,5,1,8
+19030103,전기·전자,전자기기개발,가전기기개발,가전기기하드웨어개발,17-2061.00,Computer Hardware Engineers,근접,재판정 합의,근접,occ2,1,1,7,1
+19030104,전기·전자,전자기기개발,가전기기개발,가전기기기구개발,17-2199.05,Mechatronics Engineers,근접,재판정 합의,근접,occ2,2,5,,6
+19030104,전기·전자,전자기기개발,가전기기개발,가전기기기구개발,27-1021.00,Commercial and Industrial Designers,근접,재판정 합의,근접,occ2,,,3,
+19030201,전기·전자,전자기기개발,산업용전자기기개발,산업용전자기기하드웨어개발,17-2061.00,Computer Hardware Engineers,근접,재판정 합의,근접,occ2,6,1,,1
+19030201,전기·전자,전자기기개발,산업용전자기기개발,산업용전자기기하드웨어개발,17-2071.00,Electrical Engineers,근접,재판정 합의,근접,occ2,,3,,2
+19030201,전기·전자,전자기기개발,산업용전자기기개발,산업용전자기기하드웨어개발,17-2112.02,Validation Engineers,근접,재판정 합의,근접,occ2,5,,,5
+19030202,전기·전자,전자기기개발,산업용전자기기개발,산업용전자기기기구개발,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,,,2,
+19030203,전기·전자,전자기기개발,산업용전자기기개발,산업용전자기기소프트웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,2,1,3,4
+19030203,전기·전자,전자기기개발,산업용전자기기개발,산업용전자기기소프트웨어개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,1,,1,
+19030301,전기·전자,전자기기개발,정보통신기기개발,정보통신기기하드웨어개발,17-2072.00,"Electronics Engineers, Except Computer",좁음,핵심,,occ2,,3,,
+19030302,전기·전자,전자기기개발,정보통신기기개발,정보통신기기기구개발,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,,,1,
+19030303,전기·전자,전자기기개발,정보통신기기개발,정보통신기기소프트웨어개발,15-1251.00,Computer Programmers,좁음,핵심,,occ2,,2,,6
+19030303,전기·전자,전자기기개발,정보통신기기개발,정보통신기기소프트웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,4,1,5,2
+19030303,전기·전자,전자기기개발,정보통신기기개발,정보통신기기소프트웨어개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,1,6,1,
+19030401,전기·전자,전자기기개발,전자응용기기개발,전자응용기기하드웨어개발,17-2072.00,"Electronics Engineers, Except Computer",좁음,핵심,,occ2,,3,,
+19030402,전기·전자,전자기기개발,전자응용기기개발,전자응용기기기구개발,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,,,1,
+19030403,전기·전자,전자기기개발,전자응용기기개발,전자응용기기소프트웨어개발,15-1251.00,Computer Programmers,좁음,핵심,,occ2,4,4,,6
+19030403,전기·전자,전자기기개발,전자응용기기개발,전자응용기기소프트웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,3,1,3,1
+19030403,전기·전자,전자기기개발,전자응용기기개발,전자응용기기소프트웨어개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,1,7,1,7
+19030501,전기·전자,전자기기개발,전자부품개발,전자부품하드웨어개발,17-2072.00,"Electronics Engineers, Except Computer",좁음,핵심,,occ2,,3,,9
+19030502,전기·전자,전자기기개발,전자부품개발,전자부품기구개발,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,,,3,
+19030503,전기·전자,전자기기개발,전자부품개발,전자부품소프트웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,3,1,3,1
+19030503,전기·전자,전자기기개발,전자부품개발,전자부품소프트웨어개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,1,4,1,5
+19030601,전기·전자,전자기기개발,반도체개발,반도체개발,17-2061.00,Computer Hardware Engineers,근접,재판정 합의,근접,occ2,3,8,,7
+19030601,전기·전자,전자기기개발,반도체개발,반도체개발,17-2199.06,Microsystems Engineers,근접,재판정 합의,근접,occ2,4,6,,
+19030602,전기·전자,전자기기개발,반도체개발,반도체제조,51-9141.00,Semiconductor Processing Technicians,일치,핵심,,occ2,1,1,1,2
+19030603,전기·전자,전자기기개발,반도체개발,반도체장비,17-2061.00,Computer Hardware Engineers,근접,재판정 합의,근접,occ2,1,3,7,6
+19030603,전기·전자,전자기기개발,반도체개발,반도체장비,17-2199.05,Mechatronics Engineers,근접,재판정 합의,근접,occ2,3,,,
+19030603,전기·전자,전자기기개발,반도체개발,반도체장비,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,2,,3,
+19030603,전기·전자,전자기기개발,반도체개발,반도체장비,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,근접,재판정 합의,근접,occ2,5,8,2,
+19030603,전기·전자,전자기기개발,반도체개발,반도체장비,51-2022.00,Electrical and Electronic Equipment Assemblers,근접,재판정 합의,근접,occ2,,2,,
+19030604,전기·전자,전자기기개발,반도체개발,반도체재료,17-2041.00,Chemical Engineers,근접,재판정 합의,근접,occ2,3,4,4,9
+19030604,전기·전자,전자기기개발,반도체개발,반도체재료,17-2131.00,Materials Engineers,근접,재판정 합의,근접,occ2,1,1,2,3
+19030604,전기·전자,전자기기개발,반도체개발,반도체재료,51-9011.00,Chemical Equipment Operators and Tenders,근접,재판정 합의,근접,occ2,4,,8,
+19030701,전기·전자,전자기기개발,디스플레이개발,디스플레이개발,17-2112.02,Validation Engineers,근접,재판정 합의,근접,occ2,5,,,
+19030702,전기·전자,전자기기개발,디스플레이개발,디스플레이생산,11-3051.00,Industrial Production Managers,근접,재판정 합의,근접,occ2,1,10,3,1
+19030702,전기·전자,전자기기개발,디스플레이개발,디스플레이생산,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ2,4,8,4,
+19030702,전기·전자,전자기기개발,디스플레이개발,디스플레이생산,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,8,,1,
+19030702,전기·전자,전자기기개발,디스플레이개발,디스플레이생산,51-1011.00,First-Line Supervisors of Production and Operating Workers,근접,재판정 합의,근접,occ2,2,,2,
+19030702,전기·전자,전자기기개발,디스플레이개발,디스플레이생산,51-9141.00,Semiconductor Processing Technicians,근접,재판정 합의,근접,occ2,,3,,
+19030703,전기·전자,전자기기개발,디스플레이개발,디스플레이장비부품개발,17-2141.00,Mechanical Engineers,좁음,핵심,,occ2,5,,10,
+19030703,전기·전자,전자기기개발,디스플레이개발,디스플레이장비부품개발,17-2199.05,Mechatronics Engineers,좁음,핵심,,occ2,1,,,4
+19030703,전기·전자,전자기기개발,디스플레이개발,디스플레이장비부품개발,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,4,,1,
+19030801,전기·전자,전자기기개발,로봇개발,로봇하드웨어설계,17-2199.08,Robotics Engineers,좁음,핵심,,occ2,1,1,1,1
+19030802,전기·전자,전자기기개발,로봇개발,로봇기구개발,17-2199.08,Robotics Engineers,좁음,핵심,,occ2,1,1,1,1
+19030803,전기·전자,전자기기개발,로봇개발,로봇소프트웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,5,3,7,5
+19030803,전기·전자,전자기기개발,로봇개발,로봇소프트웨어개발,17-2199.08,Robotics Engineers,좁음,핵심,,occ2,1,1,1,1
+19030803,전기·전자,전자기기개발,로봇개발,로봇소프트웨어개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,4,,4,
+19030804,전기·전자,전자기기개발,로봇개발,로봇지능개발,17-2199.08,Robotics Engineers,좁음,핵심,,occ2,1,1,1,1
+19030805,전기·전자,전자기기개발,로봇개발,로봇유지보수,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,좁음,핵심,,occ2,,3,8,
+19030805,전기·전자,전자기기개발,로봇개발,로봇유지보수,17-3024.01,Robotics Technicians,좁음,핵심,,occ2,1,2,1,1
+19030805,전기·전자,전자기기개발,로봇개발,로봇유지보수,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",좁음,핵심,,occ2,,,3,
+19030805,전기·전자,전자기기개발,로봇개발,로봇유지보수,49-9041.00,Industrial Machinery Mechanics,좁음,핵심,,occ2,3,,5,8
+19030806,전기·전자,전자기기개발,로봇개발,로봇안전인증,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",근접,재판정 합의,근접,occ2,,,1,
+19030901,전기·전자,전자기기개발,의료장비제조,의료기기품질관리,11-3051.01,Quality Control Systems Managers,좁음,핵심,,occ2,1,,1,
+19030902,전기·전자,전자기기개발,의료장비제조,의료기기인·허가,13-1041.07,Regulatory Affairs Specialists,좁음,핵심,,occ2,4,,1,
+19030903,전기·전자,전자기기개발,의료장비제조,의료기기생산,11-3051.00,Industrial Production Managers,근접,재판정 합의,근접,occ2,3,,5,2
+19030903,전기·전자,전자기기개발,의료장비제조,의료기기생산,17-2112.00,Industrial Engineers,근접,재판정 합의,근접,occ2,2,,,
+19030903,전기·전자,전자기기개발,의료장비제조,의료기기생산,17-2112.03,Manufacturing Engineers,근접,재판정 합의,근접,occ2,1,,4,
+19030903,전기·전자,전자기기개발,의료장비제조,의료기기생산,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,9,,1,
+19030903,전기·전자,전자기기개발,의료장비제조,의료기기생산,51-1011.00,First-Line Supervisors of Production and Operating Workers,근접,재판정 합의,근접,occ2,,,3,
+19030904,전기·전자,전자기기개발,의료장비제조,의료기기연구개발,17-2031.00,Bioengineers and Biomedical Engineers,좁음,핵심,,occ2,1,5,6,10
+19030904,전기·전자,전자기기개발,의료장비제조,의료기기연구개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,5,,1,
+19031001,전기·전자,전자기기개발,광기술개발,광부품개발,17-2199.07,Photonics Engineers,좁음,핵심,,occ2,1,1,,
+19031002,전기·전자,전자기기개발,광기술개발,레이저개발,17-2199.07,Photonics Engineers,좁음,핵심,,occ1,1,1,,2
+19031003,전기·전자,전자기기개발,광기술개발,LED기술개발,17-2199.07,Photonics Engineers,좁음,핵심,,occ2,1,1,,1
+19031004,전기·전자,전자기기개발,광기술개발,광학시스템제조,17-2199.07,Photonics Engineers,좁음,핵심,,occ2,1,1,,7
+19031005,전기·전자,전자기기개발,광기술개발,광학소프트웨어응용,17-2199.07,Photonics Engineers,좁음,핵심,,occ2,1,1,6,
+19031006,전기·전자,전자기기개발,광기술개발,광센서기기개발,17-2199.07,Photonics Engineers,좁음,핵심,,occ1,1,1,,5
+19031007,전기·전자,전자기기개발,광기술개발,광의료기기개발,17-2031.00,Bioengineers and Biomedical Engineers,좁음,핵심,,occ2,2,6,1,
+19031007,전기·전자,전자기기개발,광기술개발,광의료기기개발,17-2199.07,Photonics Engineers,좁음,핵심,,occ2,1,1,,2
+19031007,전기·전자,전자기기개발,광기술개발,광의료기기개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,9,,2,
+19031008,전기·전자,전자기기개발,광기술개발,라이다(LiDAR)기기개발,17-2199.07,Photonics Engineers,좁음,핵심,,occ2,1,1,,1
+19031101,전기·전자,전자기기개발,3D프린터개발,3D프린터개발,17-2199.05,Mechatronics Engineers,좁음,핵심,,occ2,1,4,8,8
+19031101,전기·전자,전자기기개발,3D프린터개발,3D프린터개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,4,,7,
+19031103,전기·전자,전자기기개발,3D프린터개발,3D프린팅 소재개발,17-2131.00,Materials Engineers,좁음,핵심,,occ2,1,1,2,1
+19031103,전기·전자,전자기기개발,3D프린터개발,3D프린팅 소재개발,19-2032.00,Materials Scientists,좁음,핵심,,occ2,2,2,1,2
+19031201,전기·전자,전자기기개발,가상훈련시스템개발,가상훈련시스템설계·검증,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,5,,1,
+19031202,전기·전자,전자기기개발,가상훈련시스템개발,가상훈련구동엔지니어링,17-2199.05,Mechatronics Engineers,좁음,핵심,,occ2,1,2,10,6
+19031202,전기·전자,전자기기개발,가상훈련시스템개발,가상훈련구동엔지니어링,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,,,3,
+19031202,전기·전자,전자기기개발,가상훈련시스템개발,가상훈련구동엔지니어링,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,,,1,
+19031203,전기·전자,전자기기개발,가상훈련시스템개발,가상훈련콘텐츠개발,15-1255.01,Video Game Designers,근접,재판정 합의,근접,occ2,6,,2,7
+19031203,전기·전자,전자기기개발,가상훈련시스템개발,가상훈련콘텐츠개발,27-1014.00,Special Effects Artists and Animators,근접,재판정 합의,근접,occ2,3,,,
+19031204,전기·전자,전자기기개발,가상훈련시스템개발,실감형콘텐츠하드웨어(디바이스)개발,17-2061.00,Computer Hardware Engineers,근접,재판정 합의,근접,occ2,1,2,3,2
+19031204,전기·전자,전자기기개발,가상훈련시스템개발,실감형콘텐츠하드웨어(디바이스)개발,17-2199.05,Mechatronics Engineers,근접,재판정 합의,근접,occ2,5,3,7,
+19031301,전기·전자,전자기기개발,착용형스마트기기,착용형스마트기기설계,17-2061.00,Computer Hardware Engineers,좁음,핵심,,occ2,4,8,3,8
+19031302,전기·전자,전자기기개발,착용형스마트기기,착용형스마트기기서비스,13-1041.07,Regulatory Affairs Specialists,근접,재판정 합의,근접,occ2,5,,2,
+19031302,전기·전자,전자기기개발,착용형스마트기기,착용형스마트기기서비스,17-2112.02,Validation Engineers,근접,재판정 합의,근접,occ2,4,,7,
+19031303,전기·전자,전자기기개발,착용형스마트기기,착용형스마트기기개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,,,1,
+19031402,전기·전자,전자기기개발,플렉시블디스플레이개발,플렉시블디스플레이검사,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,,,3,
+19031402,전기·전자,전자기기개발,플렉시블디스플레이개발,플렉시블디스플레이검사,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,,,2,
+19031403,전기·전자,전자기기개발,플렉시블디스플레이개발,플렉시블디스플레이재료개발,17-2131.00,Materials Engineers,좁음,핵심,,occ2,2,2,2,2
+19031403,전기·전자,전자기기개발,플렉시블디스플레이개발,플렉시블디스플레이재료개발,19-2032.00,Materials Scientists,좁음,핵심,,occ2,5,3,1,3
+19031501,전기·전자,전자기기개발,스마트팜개발,스마트팜기술개발,17-2021.00,Agricultural Engineers,좁음,핵심,,occ2,,1,,4
+19031502,전기·전자,전자기기개발,스마트팜개발,스마트팜계측,19-4012.00,Agricultural Technicians,근접,재판정 합의,근접,occ2,2,,5,3
+19031502,전기·전자,전자기기개발,스마트팜개발,스마트팜계측,19-4012.01,Precision Agriculture Technicians,근접,재판정 합의,근접,occ2,3,5,,2
+19031601,전기·전자,전자기기개발,OLED개발,OLED조명개발,17-2199.07,Photonics Engineers,좁음,핵심,,occ2,1,1,3,5
+19031701,전기·전자,전자기기개발,커넥티드카개발,커넥티드카소프트웨어기술개발,15-1252.00,Software Developers,좁음,핵심,,occ2,6,2,5,1
+19031701,전기·전자,전자기기개발,커넥티드카개발,커넥티드카소프트웨어기술개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,4,,4,
+19031702,전기·전자,전자기기개발,커넥티드카개발,커넥티드카콘텐츠서비스,15-1299.08,Computer Systems Engineers/Architects,근접,재판정 합의,근접,occ2,6,,3,
+19031801,전기·전자,전자기기개발,자율주행개발,자율주행하드웨어개발,17-2141.02,Automotive Engineers,좁음,핵심,,occ2,1,3,1,1
+19031802,전기·전자,전자기기개발,자율주행개발,자율주행소프트웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,8,1,8,1
+19031802,전기·전자,전자기기개발,자율주행개발,자율주행소프트웨어개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,3,8,3,6
+19031901,전기·전자,전자기기개발,원격시스템개발,혼합현실(MR)기반협업시스템개발,15-1252.00,Software Developers,좁음,핵심,,occ2,3,,4,6
+19031901,전기·전자,전자기기개발,원격시스템개발,혼합현실(MR)기반협업시스템개발,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,4,,1,
+19031901,전기·전자,전자기기개발,원격시스템개발,혼합현실(MR)기반협업시스템개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,5,,2,
+19032001,전기·전자,전자기기개발,전자기기개발,전자기기하드웨어개발,17-2061.00,Computer Hardware Engineers,근접,재판정 합의,근접,occ2,1,1,,1
+19032001,전기·전자,전자기기개발,전자기기개발,전자기기하드웨어개발,17-2071.00,Electrical Engineers,근접,재판정 합의,근접,occ2,,3,,3
+19032001,전기·전자,전자기기개발,전자기기개발,전자기기하드웨어개발,17-2112.02,Validation Engineers,근접,재판정 합의,근접,occ2,4,,,
+19032002,전기·전자,전자기기개발,전자기기개발,전자기기소프트웨어개발,15-1251.00,Computer Programmers,좁음,핵심,,occ2,9,3,,6
+19032002,전기·전자,전자기기개발,전자기기개발,전자기기소프트웨어개발,15-1252.00,Software Developers,좁음,핵심,,occ2,2,1,5,1
+19032002,전기·전자,전자기기개발,전자기기개발,전자기기소프트웨어개발,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,1,6,1,9
+19032003,전기·전자,전자기기개발,전자기기개발,전자기기기구개발,17-3027.00,Mechanical Engineering Technologists and Technicians,좁음,핵심,,occ2,,,3,
+20010101,정보통신,정보기술,정보기술전략·계획,정보기술전략,11-3021.00,Computer and Information Systems Managers,좁음,핵심,,occ2,2,2,1,3
+20010102,정보통신,정보기술,정보기술전략·계획,정보기술컨설팅,15-1299.09,Information Technology Project Managers,근접,재판정 합의,근접,occ2,1,1,,1
+20010102,정보통신,정보기술,정보기술전략·계획,정보기술컨설팅,15-2031.00,Operations Research Analysts,근접,재판정 합의,근접,occ2,3,,6,
+20010103,정보통신,정보기술,정보기술전략·계획,정보기술기획,11-3021.00,Computer and Information Systems Managers,좁음,핵심,,occ2,3,3,1,5
+20010104,정보통신,정보기술,정보기술전략·계획,SW제품기획,15-1299.08,Computer Systems Engineers/Architects,근접,재판정 합의,근접,occ2,,6,1,
+20010105,정보통신,정보기술,정보기술전략·계획,빅데이터분석,15-2051.00,Data Scientists,좁음,핵심,,occ2,2,3,1,1
+20010105,정보통신,정보기술,정보기술전략·계획,빅데이터분석,43-9111.00,Statistical Assistants,넓음,핵심,,occ2,5,,5,
+20010106,정보통신,정보기술,정보기술전략·계획,IoT융합서비스기획,15-1299.08,Computer Systems Engineers/Architects,근접,재판정 합의,근접,occ2,10,3,2,
+20010106,정보통신,정보기술,정보기술전략·계획,IoT융합서비스기획,17-2072.01,Radio Frequency Identification Device Specialists,근접,재판정 합의,근접,occ2,1,4,,7
+20010107,정보통신,정보기술,정보기술전략·계획,빅데이터기획,15-2051.00,Data Scientists,좁음,핵심,,occ2,1,2,1,1
+20010108,정보통신,정보기술,정보기술전략·계획,핀테크기술기획,15-1299.07,Blockchain Engineers,근접,재판정 합의,근접,occ2,1,2,1,1
+20010201,정보통신,정보기술,정보기술개발,SW아키텍처,15-1252.00,Software Developers,좁음,핵심,,occ2,3,1,3,4
+20010201,정보통신,정보기술,정보기술개발,SW아키텍처,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,1,3,1,
+20010202,정보통신,정보기술,정보기술개발,응용SW엔지니어링,15-1252.00,Software Developers,좁음,핵심,,occ2,3,1,4,2
+20010202,정보통신,정보기술,정보기술개발,응용SW엔지니어링,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,1,7,1,9
+20010203,정보통신,정보기술,정보기술개발,임베디드SW엔지니어링,15-1252.00,Software Developers,좁음,핵심,,occ2,3,1,3,2
+20010203,정보통신,정보기술,정보기술개발,임베디드SW엔지니어링,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,6,,2,
+20010204,정보통신,정보기술,정보기술개발,DB엔지니어링,15-1243.00,Database Architects,좁음,재판정 합의,일치,occ2,1,2,1,1
+20010204,정보통신,정보기술,정보기술개발,DB엔지니어링,15-1242.00,Database Administrators,근접,재판정 합의,근접,occ2,2,4,2,8
+20010204,정보통신,정보기술,정보기술개발,DB엔지니어링,15-1243.01,Data Warehousing Specialists,근접,재판정 합의,근접,occ2,3,7,5,10
+20010205,정보통신,정보기술,정보기술개발,NW엔지니어링,15-1241.00,Computer Network Architects,근접,재판정 합의,근접,occ2,1,6,1,2
+20010205,정보통신,정보기술,정보기술개발,NW엔지니어링,15-1241.01,Telecommunications Engineering Specialists,근접,재판정 합의,근접,occ2,5,,,
+20010205,정보통신,정보기술,정보기술개발,NW엔지니어링,15-1252.00,Software Developers,근접,재판정 합의,근접,occ2,,1,,5
+20010206,정보통신,정보기술,정보기술개발,보안엔지니어링,15-1299.05,Information Security Engineers,일치,핵심,,occ2,1,1,2,1
+20010207,정보통신,정보기술,정보기술개발,UI/UX엔지니어링,15-1255.00,Web and Digital Interface Designers,일치,핵심,,occ2,1,1,2,1
+20010208,정보통신,정보기술,정보기술개발,시스템SW엔지니어링,15-1252.00,Software Developers,좁음,핵심,,occ2,3,1,3,2
+20010208,정보통신,정보기술,정보기술개발,시스템SW엔지니어링,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,4,,2,
+20010209,정보통신,정보기술,정보기술개발,빅데이터플랫폼구축,15-1243.00,Database Architects,좁음,핵심,,occ2,3,1,4,1
+20010210,정보통신,정보기술,정보기술개발,핀테크엔지니어링,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,10,5,2,
+20010210,정보통신,정보기술,정보기술개발,핀테크엔지니어링,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,,,3,
+20010211,정보통신,정보기술,정보기술개발,데이터아키텍처,15-1243.00,Database Architects,일치,핵심,,occ2,1,1,2,1
+20010212,정보통신,정보기술,정보기술개발,IoT시스템연동,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,4,10,2,
+20010212,정보통신,정보기술,정보기술개발,IoT시스템연동,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,,,3,
+20010213,정보통신,정보기술,정보기술개발,인프라스트럭쳐아키텍처구축,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,2,3,2,
+20010214,정보통신,정보기술,정보기술개발,클라우드솔루션아키텍처,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,2,1,2,2
+20010214,정보통신,정보기술,정보기술개발,클라우드솔루션아키텍처,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,5,,4,
+20010215,정보통신,정보기술,정보기술개발,클라우드인프라스트럭쳐엔지니어링,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,2,2,2,8
+20010215,정보통신,정보기술,정보기술개발,클라우드인프라스트럭쳐엔지니어링,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,4,,3,
+20010216,정보통신,정보기술,정보기술개발,PaaS엔지니어링,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,3,1,1,9
+20010216,정보통신,정보기술,정보기술개발,PaaS엔지니어링,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,4,,4,
+20010217,정보통신,정보기술,정보기술개발,AIoT운영플랫폼구축,15-1299.09,Information Technology Project Managers,근접,재판정 합의,근접,occ2,,1,,4
+20010217,정보통신,정보기술,정보기술개발,AIoT운영플랫폼구축,15-2051.00,Data Scientists,근접,재판정 합의,근접,occ2,2,,2,
+20010301,정보통신,정보기술,정보기술운영,IT시스템관리,15-1242.00,Database Administrators,넓음,재판정 합의,근접,occ2,3,6,,8
+20010301,정보통신,정보기술,정보기술운영,IT시스템관리,11-3021.00,Computer and Information Systems Managers,근접,재판정 합의,근접,occ2,5,2,1,2
+20010301,정보통신,정보기술,정보기술운영,IT시스템관리,15-1231.00,Computer Network Support Specialists,근접,재판정 합의,근접,occ2,4,10,,5
+20010301,정보통신,정보기술,정보기술운영,IT시스템관리,15-1244.00,Network and Computer Systems Administrators,근접,재판정 합의,일치,occ2,1,3,2,1
+20010301,정보통신,정보기술,정보기술운영,IT시스템관리,15-1299.01,Web Administrators,근접,재판정 합의,근접,occ2,2,7,3,6
+20010302,정보통신,정보기술,정보기술운영,IT기술교육,13-1151.00,Training and Development Specialists,좁음,핵심,,occ1,5,,3,
+20010302,정보통신,정보기술,정보기술운영,IT기술교육,25-1021.00,"Computer Science Teachers, Postsecondary",근접,재판정 합의,근접,occ1,6,3,,3
+20010302,정보통신,정보기술,정보기술운영,IT기술교육,25-1194.00,"Career/Technical Education Teachers, Postsecondary",근접,재판정 합의,근접,occ1,1,5,1,
+20010302,정보통신,정보기술,정보기술운영,IT기술교육,25-9031.00,Instructional Coordinators,근접,재판정 합의,근접,occ1,2,7,2,6
+20010303,정보통신,정보기술,정보기술운영,IT기술지원,15-1211.00,Computer Systems Analysts,근접,재판정 합의,근접,occ2,4,,8,9
+20010303,정보통신,정보기술,정보기술운영,IT기술지원,15-1231.00,Computer Network Support Specialists,근접,재판정 합의,근접,occ2,,3,,3
+20010303,정보통신,정보기술,정보기술운영,IT기술지원,15-1232.00,Computer User Support Specialists,근접,재판정 합의,일치,occ2,3,2,,2
+20010304,정보통신,정보기술,정보기술운영,빅데이터운영·관리,11-3021.00,Computer and Information Systems Managers,근접,재판정 합의,근접,occ2,,2,9,4
+20010304,정보통신,정보기술,정보기술운영,빅데이터운영·관리,15-1242.00,Database Administrators,근접,재판정 합의,근접,occ2,,1,6,
+20010304,정보통신,정보기술,정보기술운영,빅데이터운영·관리,15-1243.01,Data Warehousing Specialists,근접,재판정 합의,근접,occ2,4,8,7,
+20010304,정보통신,정보기술,정보기술운영,빅데이터운영·관리,15-2051.00,Data Scientists,근접,재판정 합의,근접,occ2,1,9,4,
+20010305,정보통신,정보기술,정보기술운영,IoT시스템운영·관리,11-3021.00,Computer and Information Systems Managers,근접,재판정 합의,근접,occ2,,3,,
+20010305,정보통신,정보기술,정보기술운영,IoT시스템운영·관리,15-1231.00,Computer Network Support Specialists,근접,재판정 합의,근접,occ2,1,,4,
+20010305,정보통신,정보기술,정보기술운영,IoT시스템운영·관리,15-1244.00,Network and Computer Systems Administrators,근접,재판정 합의,근접,occ2,3,2,8,1
+20010401,정보통신,정보기술,정보기술관리,IT프로젝트관리,15-1299.09,Information Technology Project Managers,일치,핵심,,occ2,1,1,1,1
+20010401,정보통신,정보기술,정보기술관리,IT프로젝트관리,13-1082.00,Project Management Specialists,좁음,핵심,,occ2,2,2,,3
+20010402,정보통신,정보기술,정보기술관리,IT품질보증,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,재판정 합의,근접,occ2,2,4,1,7
+20010403,정보통신,정보기술,정보기술관리,IT테스트,15-1253.00,Software Quality Assurance Analysts and Testers,일치,핵심,,occ2,1,4,1,2
+20010501,정보통신,정보기술,정보기술영업,IT기술영업,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",좁음,핵심,,occ2,,,2,
+20010501,정보통신,정보기술,정보기술영업,IT기술영업,41-9031.00,Sales Engineers,좁음,핵심,,occ2,1,,1,8
+20010502,정보통신,정보기술,정보기술영업,IT마케팅,11-2021.00,Marketing Managers,좁음,핵심,,occ2,1,2,2,1
+20010601,정보통신,정보기술,정보보호,정보보호관리·운영,15-1212.00,Information Security Analysts,일치,핵심,,occ2,5,3,6,3
+20010602,정보통신,정보기술,정보보호,정보보호진단·분석,15-1212.00,Information Security Analysts,좁음,핵심,,occ2,5,1,,1
+20010603,정보통신,정보기술,정보보호,보안사고분석대응,15-1212.00,Information Security Analysts,좁음,핵심,,occ2,,1,,1
+20010604,정보통신,정보기술,정보보호,정보보호암호·인증,15-1299.05,Information Security Engineers,좁음,핵심,,occ2,3,1,,2
+20010605,정보통신,정보기술,정보보호,영상정보처리,15-1252.00,Software Developers,좁음,핵심,,occ2,4,,2,
+20010605,정보통신,정보기술,정보보호,영상정보처리,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,,,3,
+20010608,정보통신,정보기술,정보보호,디지털포렌식,15-1299.06,Digital Forensics Analysts,일치,핵심,,occ2,1,1,1,1
+20010609,정보통신,정보기술,정보보호,영상정보보안·운영,11-3013.01,Security Managers,근접,재판정 합의,근접,occ2,5,10,5,4
+20010609,정보통신,정보기술,정보보호,영상정보보안·운영,13-1199.07,Security Management Specialists,근접,재판정 합의,근접,occ2,4,,2,
+20010609,정보통신,정보기술,정보보호,영상정보보안·운영,15-1299.05,Information Security Engineers,근접,재판정 합의,근접,occ2,6,2,,3
+20010609,정보통신,정보기술,정보보호,영상정보보안·운영,33-9031.00,Gambling Surveillance Officers and Gambling Investigators,근접,재판정 합의,근접,occ2,3,,,
+20010611,정보통신,정보기술,정보보호,OT보안,15-1212.00,Information Security Analysts,좁음,핵심,,occ2,6,2,,2
+20010611,정보통신,정보기술,정보보호,OT보안,15-1299.05,Information Security Engineers,좁음,핵심,,occ2,1,1,1,3
+20010612,정보통신,정보기술,정보보호,클라우드 보안 관리·운영,15-1212.00,Information Security Analysts,좁음,핵심,,occ1,6,3,,2
+20010612,정보통신,정보기술,정보보호,클라우드 보안 관리·운영,15-1299.05,Information Security Engineers,좁음,핵심,,occ1,1,1,2,3
+20010614,정보통신,정보기술,정보보호,정보보호제품 시험·평가,15-1212.00,Information Security Analysts,좁음,핵심,,occ2,3,3,,2
+20010615,정보통신,정보기술,정보보호,SW공급망보안,15-1212.00,Information Security Analysts,좁음,핵심,,occ2,,2,,3
+20010615,정보통신,정보기술,정보보호,SW공급망보안,15-1299.05,Information Security Engineers,좁음,핵심,,occ2,1,1,7,2
+20010616,정보통신,정보기술,정보보호,모빌리티보안,15-1212.00,Information Security Analysts,좁음,핵심,,occ2,7,3,,6
+20010616,정보통신,정보기술,정보보호,모빌리티보안,15-1299.05,Information Security Engineers,좁음,핵심,,occ2,3,1,2,3
+20010701,정보통신,정보기술,인공지능,인공지능플랫폼구축,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,,8,2,
+20010701,정보통신,정보기술,인공지능,인공지능플랫폼구축,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,,,3,
+20010702,정보통신,정보기술,인공지능,인공지능서비스기획,15-1299.09,Information Technology Project Managers,근접,재판정 합의,근접,occ2,,2,,
+20010703,정보통신,정보기술,인공지능,인공지능모델링,15-2051.00,Data Scientists,좁음,핵심,,occ2,2,10,1,3
+20010704,정보통신,정보기술,인공지능,인공지능서비스운영관리,11-3021.00,Computer and Information Systems Managers,근접,재판정 합의,근접,occ2,,5,2,
+20010704,정보통신,정보기술,인공지능,인공지능서비스운영관리,15-1244.00,Network and Computer Systems Administrators,근접,재판정 합의,근접,occ2,6,1,,1
+20010704,정보통신,정보기술,인공지능,인공지능서비스운영관리,15-1299.01,Web Administrators,근접,재판정 합의,근접,occ2,1,2,,2
+20010705,정보통신,정보기술,인공지능,인공지능서비스구현,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,5,4,2,
+20010706,정보통신,정보기술,인공지능,인공지능학습데이터구축,15-2051.00,Data Scientists,좁음,핵심,,occ2,4,1,2,1
+20010707,정보통신,정보기술,인공지능,생성형AI엔지니어링,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,7,,1,
+20010801,정보통신,정보기술,블록체인,블록체인분석·설계,15-1299.07,Blockchain Engineers,좁음,핵심,,occ2,1,1,1,1
+20010801,정보통신,정보기술,블록체인,블록체인분석·설계,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,4,,2,
+20010802,정보통신,정보기술,블록체인,블록체인구축·운영,15-1299.07,Blockchain Engineers,좁음,핵심,,occ2,1,1,1,1
+20010802,정보통신,정보기술,블록체인,블록체인구축·운영,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,2,,2,
+20010803,정보통신,정보기술,블록체인,블록체인서비스기획,15-1299.07,Blockchain Engineers,좁음,핵심,,occ2,1,1,1,1
+20010901,정보통신,정보기술,스마트물류,스마트물류체계기획,11-3071.00,"Transportation, Storage, and Distribution Managers",좁음,핵심,,occ2,4,3,4,6
+20010901,정보통신,정보기술,스마트물류,스마트물류체계기획,11-3071.04,Supply Chain Managers,좁음,핵심,,occ2,2,2,5,4
+20010901,정보통신,정보기술,스마트물류,스마트물류체계기획,13-1081.00,Logisticians,좁음,핵심,,occ2,5,5,3,1
+20010901,정보통신,정보기술,스마트물류,스마트물류체계기획,13-1081.01,Logistics Engineers,좁음,핵심,,occ2,1,1,2,2
+20010901,정보통신,정보기술,스마트물류,스마트물류체계기획,13-1081.02,Logistics Analysts,좁음,핵심,,occ2,3,7,1,7
+20010902,정보통신,정보기술,스마트물류,스마트물류플랫폼구축,13-1081.01,Logistics Engineers,근접,재판정 합의,근접,occ2,1,3,2,2
+20010903,정보통신,정보기술,스마트물류,스마트물류통합관리,11-3071.04,Supply Chain Managers,좁음,핵심,,occ2,3,1,6,2
+20011001,정보통신,정보기술,디지털트윈,디지털트윈기획,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,,,3,
+20011002,정보통신,정보기술,디지털트윈,디지털트윈설계,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,,,2,
+20011003,정보통신,정보기술,디지털트윈,디지털트윈구축,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,,,3,
+20011003,정보통신,정보기술,디지털트윈,디지털트윈구축,15-1253.00,Software Quality Assurance Analysts and Testers,넓음,핵심,,occ2,6,,1,
+20011101,정보통신,정보기술,개인정보보호,개인정보보호관리운영,15-1212.00,Information Security Analysts,좁음,핵심,,occ2,5,7,,2
+20011102,정보통신,정보기술,개인정보보호,개인정보가명익명처리,15-1299.05,Information Security Engineers,좁음,핵심,,occ2,,1,,
+20011103,정보통신,정보기술,개인정보보호,개인정보인증평가,13-1041.00,Compliance Officers,좁음,핵심,,occ2,4,,1,
+20011103,정보통신,정보기술,개인정보보호,개인정보인증평가,15-1212.00,Information Security Analysts,좁음,핵심,,occ2,5,2,,3
+20020101,정보통신,통신기술,유선통신구축,교환시스템구축,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,5,8,,9
+20020102,정보통신,통신기술,유선통신구축,구내통신구축,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,3,6,10,
+20020103,정보통신,통신기술,유선통신구축,네트워크구축,15-1231.00,Computer Network Support Specialists,근접,재판정 합의,근접,occ2,2,8,2,3
+20020103,정보통신,통신기술,유선통신구축,네트워크구축,15-1241.00,Computer Network Architects,근접,재판정 합의,근접,occ2,1,3,1,2
+20020103,정보통신,통신기술,유선통신구축,네트워크구축,15-1244.00,Network and Computer Systems Administrators,근접,재판정 합의,근접,occ2,3,5,7,1
+20020103,정보통신,통신기술,유선통신구축,네트워크구축,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",근접,재판정 합의,근접,occ2,9,2,3,10
+20020103,정보통신,통신기술,유선통신구축,네트워크구축,49-9052.00,Telecommunications Line Installers and Repairers,근접,재판정 합의,근접,occ2,,1,,4
+20020104,정보통신,통신기술,유선통신구축,구내통신설비공사,47-2111.00,Electricians,근접,재판정 합의,근접,occ2,2,10,,10
+20020104,정보통신,통신기술,유선통신구축,구내통신설비공사,49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers",근접,재판정 합의,근접,occ2,1,3,3,4
+20020104,정보통신,통신기술,유선통신구축,구내통신설비공사,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",근접,재판정 합의,근접,occ2,4,2,2,5
+20020104,정보통신,통신기술,유선통신구축,구내통신설비공사,49-2098.00,Security and Fire Alarm Systems Installers,근접,재판정 합의,근접,occ2,3,9,1,
+20020104,정보통신,통신기술,유선통신구축,구내통신설비공사,49-9052.00,Telecommunications Line Installers and Repairers,근접,재판정 합의,근접,occ2,9,1,,3
+20020106,정보통신,통신기술,유선통신구축,철도정보통신설비공사,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",좁음,핵심,,occ2,5,4,1,7
+20020108,정보통신,통신기술,유선통신구축,항해·항만정보통신설비공사,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",좁음,핵심,,occ2,,4,2,
+20020109,정보통신,통신기술,유선통신구축,항공·항행정보통신시설공사,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",좁음,핵심,,occ2,,4,2,
+20020110,정보통신,통신기술,유선통신구축,클라우드플랫폼구축,15-1299.08,Computer Systems Engineers/Architects,좁음,핵심,,occ2,2,7,2,
+20020201,정보통신,통신기술,무선통신구축,무선통신시스템구축,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,2,4,7,5
+20020202,정보통신,통신기술,무선통신구축,전송시스템구축,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,1,3,3,5
+20020203,정보통신,통신기술,무선통신구축,무선통신망구축,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ1,2,4,5,7
+20020203,정보통신,통신기술,무선통신구축,무선통신망구축,49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers",넓음,핵심,,occ1,1,1,3,3
+20020204,정보통신,통신기술,무선통신구축,위성통신망구축,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,2,3,5,2
+20020205,정보통신,통신기술,무선통신구축,IoT통신망구축,15-1241.00,Computer Network Architects,근접,재판정 합의,근접,occ2,2,6,2,2
+20020205,정보통신,통신기술,무선통신구축,IoT통신망구축,49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers",근접,재판정 합의,근접,occ2,,1,,
+20020206,정보통신,통신기술,무선통신구축,공공안전통신망구축,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,2,10,5,
+20020301,정보통신,통신기술,통신서비스,유선설비접속서비스,15-1241.01,Telecommunications Engineering Specialists,근접,재판정 합의,근접,occ2,5,4,,3
+20020301,정보통신,통신기술,통신서비스,유선설비접속서비스,43-4051.00,Customer Service Representatives,근접,재판정 합의,근접,occ2,4,,,
+20020301,정보통신,통신기술,통신서비스,유선설비접속서비스,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",근접,재판정 합의,근접,occ2,,3,5,5
+20020301,정보통신,통신기술,통신서비스,유선설비접속서비스,49-9052.00,Telecommunications Line Installers and Repairers,근접,재판정 합의,근접,occ2,,1,,1
+20020302,정보통신,통신기술,통신서비스,전용회선서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,2,4,,
+20020303,정보통신,통신기술,통신서비스,초고속망서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,2,2,9,4
+20020304,정보통신,통신기술,통신서비스,부가네트워크서비스,11-3021.00,Computer and Information Systems Managers,근접,재판정 합의,근접,occ2,,,1,
+20020304,정보통신,통신기술,통신서비스,부가네트워크서비스,15-1231.00,Computer Network Support Specialists,근접,재판정 합의,근접,occ2,1,1,,2
+20020304,정보통신,통신기술,통신서비스,부가네트워크서비스,15-1241.00,Computer Network Architects,근접,재판정 합의,근접,occ2,2,5,2,3
+20020304,정보통신,통신기술,통신서비스,부가네트워크서비스,15-1244.00,Network and Computer Systems Administrators,근접,재판정 합의,근접,occ2,3,8,,1
+20020304,정보통신,통신기술,통신서비스,부가네트워크서비스,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",근접,재판정 합의,근접,occ2,,3,10,
+20020304,정보통신,통신기술,통신서비스,부가네트워크서비스,49-9052.00,Telecommunications Line Installers and Repairers,근접,재판정 합의,근접,occ2,,2,,5
+20020306,정보통신,통신기술,통신서비스,이동통신서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,1,3,4,6
+20020307,정보통신,통신기술,통신서비스,콘텐츠사용자서비스,15-1232.00,Computer User Support Specialists,근접,재판정 합의,근접,occ2,,2,,8
+20020307,정보통신,통신기술,통신서비스,콘텐츠사용자서비스,15-1299.01,Web Administrators,근접,재판정 합의,근접,occ2,2,,5,4
+20020308,정보통신,통신기술,통신서비스,콘텐츠네트워크서비스,15-1231.00,Computer Network Support Specialists,근접,재판정 합의,근접,occ2,2,1,3,3
+20020308,정보통신,통신기술,통신서비스,콘텐츠네트워크서비스,15-1241.00,Computer Network Architects,근접,재판정 합의,근접,occ2,1,2,1,4
+20020308,정보통신,통신기술,통신서비스,콘텐츠네트워크서비스,15-1244.00,Network and Computer Systems Administrators,근접,재판정 합의,근접,occ2,3,10,4,1
+20020308,정보통신,통신기술,통신서비스,콘텐츠네트워크서비스,15-1299.01,Web Administrators,근접,재판정 합의,근접,occ2,4,,5,2
+20020309,정보통신,통신기술,통신서비스,무선초고속인터넷서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,2,3,4,4
+20020310,정보통신,통신기술,통신서비스,주파수공용통신,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,1,4,2,
+20020311,정보통신,통신기술,통신서비스,무선호출메시징서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,3,3,4,4
+20020312,정보통신,통신기술,통신서비스,위성통신서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,1,2,3,4
+20020313,정보통신,통신기술,통신서비스,특수이동통신서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,4,1,8,5
+20020314,정보통신,통신기술,통신서비스,인터넷지원서비스,15-1231.00,Computer Network Support Specialists,근접,재판정 합의,근접,occ2,1,1,6,2
+20020314,정보통신,통신기술,통신서비스,인터넷지원서비스,15-1232.00,Computer User Support Specialists,근접,재판정 합의,근접,occ2,,2,,3
+20020314,정보통신,통신기술,통신서비스,인터넷지원서비스,15-1241.00,Computer Network Architects,근접,재판정 합의,근접,occ2,5,,3,8
+20020314,정보통신,통신기술,통신서비스,인터넷지원서비스,15-1244.00,Network and Computer Systems Administrators,근접,재판정 합의,근접,occ2,3,6,7,1
+20020314,정보통신,통신기술,통신서비스,인터넷지원서비스,49-9052.00,Telecommunications Line Installers and Repairers,근접,재판정 합의,근접,occ2,,3,,6
+20020315,정보통신,통신기술,통신서비스,부가통신응용중계서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,1,3,2,5
+20020316,정보통신,통신기술,통신서비스,특수부가통신서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,1,1,1,1
+20020317,정보통신,통신기술,통신서비스,무선데이터통신서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,2,2,1,3
+20020318,정보통신,통신기술,통신서비스,디지털비즈니스지원서비스,11-2011.00,Advertising and Promotions Managers,근접,재판정 합의,근접,occ2,3,,,
+20020318,정보통신,통신기술,통신서비스,디지털비즈니스지원서비스,13-1161.00,Market Research Analysts and Marketing Specialists,근접,재판정 합의,근접,occ2,4,,,7
+20020318,정보통신,통신기술,통신서비스,디지털비즈니스지원서비스,13-1161.01,Search Marketing Strategists,근접,재판정 합의,근접,occ2,1,,3,
+20020318,정보통신,통신기술,통신서비스,디지털비즈니스지원서비스,15-1254.00,Web Developers,근접,재판정 합의,근접,occ2,10,,1,
+20020319,정보통신,통신기술,통신서비스,실감형통신서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,1,1,1,7
+20020401,정보통신,통신기술,실감형콘텐츠제작,가상현실콘텐츠제작,15-1255.01,Video Game Designers,근접,재판정 합의,근접,occ2,1,2,1,1
+20020401,정보통신,통신기술,실감형콘텐츠제작,가상현실콘텐츠제작,27-1014.00,Special Effects Artists and Animators,근접,재판정 합의,근접,occ2,5,1,,2
+20020401,정보통신,통신기술,실감형콘텐츠제작,가상현실콘텐츠제작,27-4032.00,Film and Video Editors,근접,재판정 합의,근접,occ2,3,,7,
+20020402,정보통신,통신기술,실감형콘텐츠제작,실감콘텐츠촬영,27-4031.00,"Camera Operators, Television, Video, and Film",좁음,핵심,,occ2,2,1,2,7
+20020403,정보통신,통신기술,실감형콘텐츠제작,증강현실(AR)콘텐츠제작,27-1014.00,Special Effects Artists and Animators,근접,재판정 합의,근접,occ2,,1,,1
+20030101,정보통신,방송기술,방송제작기술,중계방송,27-4012.00,Broadcast Technicians,좁음,핵심,,occ2,1,1,1,1
+20030101,정보통신,방송기술,방송제작기술,중계방송,27-4031.00,"Camera Operators, Television, Video, and Film",넓음,핵심,,occ2,2,6,4,10
+20030102,정보통신,방송기술,방송제작기술,방송품질관리,27-4012.00,Broadcast Technicians,좁음,핵심,,occ2,1,1,1,1
+20030201,정보통신,방송기술,방송플랫폼기술,라디오방송,27-4012.00,Broadcast Technicians,좁음,핵심,,occ2,1,1,1,1
+20030201,정보통신,방송기술,방송플랫폼기술,라디오방송,27-4014.00,Sound Engineering Technicians,넓음,핵심,,occ2,3,6,,2
+20030202,정보통신,방송기술,방송플랫폼기술,지상파TV방송,27-4011.00,Audio and Video Technicians,넓음,핵심,,occ2,4,3,3,2
+20030202,정보통신,방송기술,방송플랫폼기술,지상파TV방송,27-4031.00,"Camera Operators, Television, Video, and Film",넓음,핵심,,occ2,5,,5,6
+20030203,정보통신,방송기술,방송플랫폼기술,지상파DMB,27-4012.00,Broadcast Technicians,좁음,핵심,,occ2,1,1,1,1
+20030204,정보통신,방송기술,방송플랫폼기술,케이블방송,27-4031.00,"Camera Operators, Television, Video, and Film",넓음,핵심,,occ2,5,,,
+20030205,정보통신,방송기술,방송플랫폼기술,인터넷멀티미디어방송,27-4012.00,Broadcast Technicians,좁음,핵심,,occ2,1,1,2,6
+20030301,정보통신,방송기술,방송서비스,유무선통합서비스,15-1241.01,Telecommunications Engineering Specialists,좁음,핵심,,occ2,1,5,3,2
+20030302,정보통신,방송기술,방송서비스,방송시스템운영,27-4012.00,Broadcast Technicians,일치,핵심,,occ2,1,1,1,1
+20030303,정보통신,방송기술,방송서비스,정보시스템운영,11-3021.00,Computer and Information Systems Managers,근접,재판정 합의,근접,occ2,8,3,6,2
+20030303,정보통신,방송기술,방송서비스,정보시스템운영,15-1244.00,Network and Computer Systems Administrators,근접,재판정 합의,근접,occ2,3,2,8,1
+20030303,정보통신,방송기술,방송서비스,정보시스템운영,15-1299.08,Computer Systems Engineers/Architects,근접,재판정 합의,근접,occ2,,,3,
+20030303,정보통신,방송기술,방송서비스,정보시스템운영,27-4011.00,Audio and Video Technicians,근접,재판정 합의,근접,occ2,2,,5,10
+20030303,정보통신,방송기술,방송서비스,정보시스템운영,27-4012.00,Broadcast Technicians,근접,재판정 합의,근접,occ2,1,1,1,7
+20030304,정보통신,방송기술,방송서비스,방송기술지원서비스,27-2012.05,Media Technical Directors/Managers,근접,재판정 합의,근접,occ2,2,6,6,9
+20030304,정보통신,방송기술,방송서비스,방송기술지원서비스,27-4011.00,Audio and Video Technicians,근접,재판정 합의,근접,occ2,4,2,3,2
+20030304,정보통신,방송기술,방송서비스,방송기술지원서비스,27-4012.00,Broadcast Technicians,근접,재판정 합의,근접,occ2,1,1,1,1
+20030305,정보통신,방송기술,방송서비스,방송장비설치유지보수,27-4011.00,Audio and Video Technicians,근접,재판정 합의,근접,occ2,8,,3,3
+20030305,정보통신,방송기술,방송서비스,방송장비설치유지보수,27-4012.00,Broadcast Technicians,근접,재판정 합의,근접,occ2,1,5,1,2
+20030305,정보통신,방송기술,방송서비스,방송장비설치유지보수,49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers",근접,재판정 합의,근접,occ2,5,2,,4
+20030305,정보통신,방송기술,방송서비스,방송장비설치유지보수,49-2097.00,Audiovisual Equipment Installers and Repairers,근접,재판정 합의,근접,occ2,2,1,8,1
+20030306,정보통신,방송기술,방송서비스,소셜미디어방송서비스,13-1161.01,Search Marketing Strategists,근접,재판정 합의,근접,occ2,1,,1,
+20030306,정보통신,방송기술,방송서비스,소셜미디어방송서비스,27-4011.00,Audio and Video Technicians,근접,재판정 합의,근접,occ2,3,6,3,6
+20030306,정보통신,방송기술,방송서비스,소셜미디어방송서비스,27-4012.00,Broadcast Technicians,근접,재판정 합의,근접,occ2,2,1,2,9
+21010101,식품가공,식품가공,식품가공,수산식품가공,51-3092.00,Food Batchmakers,좁음,핵심,,occ2,1,2,1,4
+21010101,식품가공,식품가공,식품가공,수산식품가공,51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers",넓음,핵심,,occ2,2,1,,6
+21010102,식품가공,식품가공,식품가공,두류식품가공,51-3092.00,Food Batchmakers,좁음,핵심,,occ1,1,1,1,3
+21010103,식품가공,식품가공,식품가공,축산식품가공,51-3092.00,Food Batchmakers,좁음,핵심,,occ2,1,2,1,6
+21010103,식품가공,식품가공,식품가공,축산식품가공,51-3021.00,Butchers and Meat Cutters,넓음,핵심,,occ2,5,,,
+21010103,식품가공,식품가공,식품가공,축산식품가공,51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers",넓음,핵심,,occ2,2,6,,10
+21010104,식품가공,식품가공,식품가공,유제품가공,51-3092.00,Food Batchmakers,좁음,핵심,,occ2,1,1,1,2
+21010105,식품가공,식품가공,식품가공,건강기능식품제조가공,51-3092.00,Food Batchmakers,좁음,핵심,,occ2,1,1,1,4
+21010106,식품가공,식품가공,식품가공,김치·반찬가공,51-3092.00,Food Batchmakers,좁음,핵심,,occ2,4,1,1,1
+21010107,식품가공,식품가공,식품가공,면류식품가공,51-3092.00,Food Batchmakers,좁음,핵심,,occ2,1,1,8,3
+21010108,식품가공,식품가공,식품가공,곡류·서류·견과류가공,51-3092.00,Food Batchmakers,좁음,핵심,,occ2,1,2,6,3
+21010109,식품가공,식품가공,식품가공,음료주류가공,51-3092.00,Food Batchmakers,좁음,핵심,,occ2,3,1,6,3
+21010110,식품가공,식품가공,식품가공,식품가공연구개발,19-1012.00,Food Scientists and Technologists,일치,핵심,,occ1,2,1,,2
+21010111,식품가공,식품가공,식품가공,식품품질관리,19-4013.00,Food Science Technicians,좁음,핵심,,occ2,1,4,,2
+21010111,식품가공,식품가공,식품가공,식품품질관리,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,5,,2,9
+21010111,식품가공,식품가공,식품가공,식품품질관리,45-2011.00,Agricultural Inspectors,근접,재판정 합의,근접,occ2,4,,10,
+21010201,식품가공,식품가공,식품저장,수산식품저장,19-4013.00,Food Science Technicians,근접,재판정 합의,근접,occ2,3,,3,
+21010201,식품가공,식품가공,식품저장,수산식품저장,45-2011.00,Agricultural Inspectors,근접,재판정 합의,근접,occ2,1,,1,
+21010201,식품가공,식품가공,식품저장,수산식품저장,45-2041.00,"Graders and Sorters, Agricultural Products",근접,재판정 합의,근접,occ2,4,2,,
+21010202,식품가공,식품가공,식품저장,농산식품저장,45-2041.00,"Graders and Sorters, Agricultural Products",넓음,핵심,,occ1,2,1,,5
+21010203,식품가공,식품가공,식품저장,축산식품저장,45-2011.00,Agricultural Inspectors,근접,재판정 합의,근접,occ2,1,,2,
+21010203,식품가공,식품가공,식품저장,축산식품저장,45-2041.00,"Graders and Sorters, Agricultural Products",근접,재판정 합의,근접,occ2,3,1,,
+21010301,식품가공,식품가공,식품유통,수산식품유통,11-3071.00,"Transportation, Storage, and Distribution Managers",근접,재판정 합의,근접,occ2,4,,,
+21010301,식품가공,식품가공,식품유통,수산식품유통,13-1021.00,"Buyers and Purchasing Agents, Farm Products",근접,재판정 합의,근접,occ2,7,2,,
+21010301,식품가공,식품가공,식품유통,수산식품유통,43-5011.01,Freight Forwarders,근접,재판정 합의,근접,occ2,1,,,
+21010301,식품가공,식품가공,식품유통,수산식품유통,45-2011.00,Agricultural Inspectors,근접,재판정 합의,근접,occ2,3,,3,9
+21010302,식품가공,식품가공,식품유통,농산식품유통,11-3071.00,"Transportation, Storage, and Distribution Managers",근접,재판정 합의,근접,occ2,3,,,
+21010302,식품가공,식품가공,식품유통,농산식품유통,13-1021.00,"Buyers and Purchasing Agents, Farm Products",근접,재판정 합의,근접,occ2,2,1,,
+21010302,식품가공,식품가공,식품유통,농산식품유통,45-2011.00,Agricultural Inspectors,근접,재판정 합의,근접,occ2,1,,1,5
+21010302,식품가공,식품가공,식품유통,농산식품유통,45-2041.00,"Graders and Sorters, Agricultural Products",근접,재판정 합의,근접,occ2,4,2,,7
+21010303,식품가공,식품가공,식품유통,축산식품유통,11-3071.00,"Transportation, Storage, and Distribution Managers",근접,재판정 합의,근접,occ2,2,,,
+21010303,식품가공,식품가공,식품유통,축산식품유통,13-1021.00,"Buyers and Purchasing Agents, Farm Products",근접,재판정 합의,근접,occ2,5,1,,
+21010303,식품가공,식품가공,식품유통,축산식품유통,45-2011.00,Agricultural Inspectors,근접,재판정 합의,근접,occ2,1,,4,7
+21010303,식품가공,식품가공,식품유통,축산식품유통,45-2041.00,"Graders and Sorters, Agricultural Products",근접,재판정 합의,근접,occ2,3,3,,
+21020101,식품가공,제과·제빵·떡제조,제과·제빵·떡제조,제과,51-3011.00,Bakers,좁음,핵심,,occ2,1,3,5,1
+21020102,식품가공,제과·제빵·떡제조,제과·제빵·떡제조,제빵,51-3011.00,Bakers,일치,핵심,,occ1,2,3,3,1
+21020103,식품가공,제과·제빵·떡제조,제과·제빵·떡제조,떡제조,51-3092.00,Food Batchmakers,좁음,핵심,,occ1,2,1,1,6
+21020104,식품가공,제과·제빵·떡제조,제과·제빵·떡제조,한과제조,51-3092.00,Food Batchmakers,좁음,핵심,,occ2,1,1,1,2
+22010102,인쇄·목재·가구·공예,인쇄·출판,출판,편집디자인,27-1024.00,Graphic Designers,좁음,핵심,,occ2,1,2,1,1
+22010103,인쇄·목재·가구·공예,인쇄·출판,출판,편집,27-3041.00,Editors,일치,핵심,,occ2,1,1,1,1
+22010201,인쇄·목재·가구·공예,인쇄·출판,인쇄,프리프레스,51-5111.00,Prepress Technicians and Workers,일치,핵심,,occ2,2,2,2,1
+22010202,인쇄·목재·가구·공예,인쇄·출판,인쇄,평판인쇄,51-5112.00,Printing Press Operators,좁음,핵심,,occ2,1,4,1,3
+22010203,인쇄·목재·가구·공예,인쇄·출판,인쇄,특수인쇄,51-5112.00,Printing Press Operators,좁음,핵심,,occ2,1,7,1,2
+22010204,인쇄·목재·가구·공예,인쇄·출판,인쇄,인쇄후가공,51-5113.00,Print Binding and Finishing Workers,일치,핵심,,occ2,3,2,,3
+22010205,인쇄·목재·가구·공예,인쇄·출판,인쇄,간판디자인·제작·설치,27-1024.00,Graphic Designers,근접,재판정 합의,근접,occ2,1,2,6,1
+22020101,인쇄·목재·가구·공예,공예,공예,칠공예,27-1012.00,Craft Artists,좁음,핵심,,occ2,1,1,8,
+22020102,인쇄·목재·가구·공예,공예,공예,도자공예,51-9195.05,"Potters, Manufacturing",일치,핵심,,occ2,2,,1,
+22020102,인쇄·목재·가구·공예,공예,공예,도자공예,27-1012.00,Craft Artists,좁음,핵심,,occ2,1,2,7,
+22020103,인쇄·목재·가구·공예,공예,공예,석공예,27-1012.00,Craft Artists,좁음,핵심,,occ2,5,5,6,
+22020103,인쇄·목재·가구·공예,공예,공예,석공예,51-9195.03,"Stone Cutters and Carvers, Manufacturing",좁음,핵심,,occ2,1,1,,2
+22020104,인쇄·목재·가구·공예,공예,공예,목공예,27-1012.00,Craft Artists,좁음,핵심,,occ2,3,3,,
+22020105,인쇄·목재·가구·공예,공예,공예,금속공예,27-1012.00,Craft Artists,좁음,핵심,,occ1,2,9,9,
+22020106,인쇄·목재·가구·공예,공예,공예,가구제작,51-7011.00,Cabinetmakers and Bench Carpenters,일치,핵심,,occ2,2,5,7,10
+22020106,인쇄·목재·가구·공예,공예,공예,가구제작,51-7021.00,Furniture Finishers,넓음,핵심,,occ2,1,7,,
+22020107,인쇄·목재·가구·공예,공예,공예,섬유공예,27-1012.00,Craft Artists,좁음,핵심,,occ2,2,3,2,4
+22020108,인쇄·목재·가구·공예,공예,공예,나전칠기,27-1012.00,Craft Artists,좁음,핵심,,occ2,1,3,,
+22020201,인쇄·목재·가구·공예,공예,귀금속·보석,귀금속가공,51-9071.00,Jewelers and Precious Stone and Metal Workers,좁음,핵심,,occ2,1,1,2,2
+22020202,인쇄·목재·가구·공예,공예,귀금속·보석,귀금속품위감정,19-4099.01,Quality Control Analysts,좁음,핵심,,occ2,4,,3,2
+22020202,인쇄·목재·가구·공예,공예,귀금속·보석,귀금속품위감정,51-9071.00,Jewelers and Precious Stone and Metal Workers,좁음,핵심,,occ2,1,1,,3
+22020203,인쇄·목재·가구·공예,공예,귀금속·보석,보석가공,51-9071.06,Gem and Diamond Workers,일치,핵심,,occ2,1,4,6,1
+22020203,인쇄·목재·가구·공예,공예,귀금속·보석,보석가공,51-9071.00,Jewelers and Precious Stone and Metal Workers,좁음,핵심,,occ2,2,1,2,2
+22020204,인쇄·목재·가구·공예,공예,귀금속·보석,보석감정,13-2022.00,Appraisers of Personal and Business Property,좁음,핵심,,occ2,7,2,,4
+22020204,인쇄·목재·가구·공예,공예,귀금속·보석,보석감정,51-9071.00,Jewelers and Precious Stone and Metal Workers,좁음,핵심,,occ2,2,1,3,2
+22020204,인쇄·목재·가구·공예,공예,귀금속·보석,보석감정,51-9071.06,Gem and Diamond Workers,좁음,핵심,,occ2,1,5,1,1
+23010101,환경·에너지·안전,산업환경,수질관리,수질오염분석,19-4042.00,"Environmental Science and Protection Technicians, Including Health",좁음,핵심,,occ1,9,5,1,8
+23010102,환경·에너지·안전,산업환경,수질관리,수질공정관리,51-8031.00,Water and Wastewater Treatment Plant and System Operators,좁음,핵심,,occ2,9,2,,
+23010103,환경·에너지·안전,산업환경,수질관리,수질환경관리,17-2081.00,Environmental Engineers,좁음,핵심,,occ2,,3,,4
+23010103,환경·에너지·안전,산업환경,수질관리,수질환경관리,19-4042.00,"Environmental Science and Protection Technicians, Including Health",좁음,핵심,,occ2,9,8,3,
+23010104,환경·에너지·안전,산업환경,수질관리,정수시설운영관리,51-8031.00,Water and Wastewater Treatment Plant and System Operators,좁음,핵심,,occ2,3,1,,
+23010105,환경·에너지·안전,산업환경,수질관리,상수관로시설운영관리,17-2051.02,Water/Wastewater Engineers,근접,재판정 합의,근접,occ2,1,2,9,
+23010105,환경·에너지·안전,산업환경,수질관리,상수관로시설운영관리,51-8031.00,Water and Wastewater Treatment Plant and System Operators,근접,재판정 합의,근접,occ2,6,1,,
+23010107,환경·에너지·안전,산업환경,수질관리,하수처리시설운영관리,51-8031.00,Water and Wastewater Treatment Plant and System Operators,좁음,핵심,,occ2,,2,,6
+23010201,환경·에너지·안전,산업환경,대기관리,대기환경관리,17-2081.00,Environmental Engineers,좁음,핵심,,occ2,,1,10,1
+23010201,환경·에너지·안전,산업환경,대기관리,대기환경관리,19-4042.00,"Environmental Science and Protection Technicians, Including Health",좁음,핵심,,occ2,2,5,1,8
+23010202,환경·에너지·안전,산업환경,대기관리,온실가스관리,19-2041.01,Climate Change Policy Analysts,좁음,핵심,,occ2,1,,,1
+23010203,환경·에너지·안전,산업환경,대기관리,기상기술관리,19-2021.00,Atmospheric and Space Scientists,일치,핵심,,occ1,1,4,1,1
+23010204,환경·에너지·안전,산업환경,대기관리,기후변화적응,19-2041.01,Climate Change Policy Analysts,좁음,핵심,,occ2,1,1,,1
+23010301,환경·에너지·안전,산업환경,폐기물관리,폐기물처리시설설계·시공,17-2081.00,Environmental Engineers,좁음,핵심,,occ2,9,3,,4
+23010302,환경·에너지·안전,산업환경,폐기물관리,폐기물관리,53-7081.00,Refuse and Recyclable Material Collectors,넓음,핵심,,occ2,6,1,,2
+23010401,환경·에너지·안전,산업환경,소음진동관리,소음진동방지,17-3025.00,Environmental Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,3,
+23010402,환경·에너지·안전,산업환경,소음진동관리,소음진동측정·분석평가,19-4042.00,"Environmental Science and Protection Technicians, Including Health",좁음,핵심,,occ2,,,2,
+23010501,환경·에너지·안전,산업환경,토양·지하수관리,지하수관리,19-2043.00,Hydrologists,좁음,핵심,,occ2,2,,4,
+23010502,환경·에너지·안전,산업환경,토양·지하수관리,토양관리,11-9199.11,Brownfield Redevelopment Specialists and Site Managers,근접,재판정 합의,근접,occ2,2,,4,
+23010502,환경·에너지·안전,산업환경,토양·지하수관리,토양관리,17-3025.00,Environmental Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,4,7,1,
+23010502,환경·에너지·안전,산업환경,토양·지하수관리,토양관리,19-1013.00,Soil and Plant Scientists,근접,재판정 합의,근접,occ2,3,3,,2
+23010502,환경·에너지·안전,산업환경,토양·지하수관리,토양관리,19-2041.02,Environmental Restoration Planners,근접,재판정 합의,근접,occ2,1,,,
+23010502,환경·에너지·안전,산업환경,토양·지하수관리,토양관리,19-4042.00,"Environmental Science and Protection Technicians, Including Health",근접,재판정 합의,근접,occ2,8,8,2,9
+23020101,환경·에너지·안전,환경보건,환경보건관리,산업환경보건,19-2041.00,"Environmental Scientists and Specialists, Including Health",좁음,핵심,,occ2,6,3,6,1
+23020101,환경·에너지·안전,환경보건,환경보건관리,산업환경보건,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,3,1,4,3
+23020102,환경·에너지·안전,환경보건,환경보건관리,실내공기질관리,19-4042.00,"Environmental Science and Protection Technicians, Including Health",좁음,핵심,,occ2,5,4,1,
+23020103,환경·에너지·안전,환경보건,환경보건관리,위해성관리,19-2041.00,"Environmental Scientists and Specialists, Including Health",좁음,핵심,,occ2,,2,8,1
+23020103,환경·에너지·안전,환경보건,환경보건관리,위해성관리,19-4042.00,"Environmental Science and Protection Technicians, Including Health",근접,재판정 합의,근접,occ2,2,1,1,
+23030101,환경·에너지·안전,자연환경,생태복원·관리,생태복원,19-2041.02,Environmental Restoration Planners,좁음,핵심,,occ2,1,1,3,9
+23030102,환경·에너지·안전,자연환경,생태복원·관리,생태관리,19-1031.00,Conservation Scientists,좁음,핵심,,occ2,2,7,2,7
+23040101,환경·에너지·안전,환경서비스,환경경영,환경컨설팅,17-2081.00,Environmental Engineers,좁음,핵심,,occ2,5,3,,1
+23040101,환경·에너지·안전,환경서비스,환경경영,환경컨설팅,19-2041.00,"Environmental Scientists and Specialists, Including Health",좁음,핵심,,occ2,,1,,2
+23040102,환경·에너지·안전,환경서비스,환경경영,환경시설운영,17-2051.02,Water/Wastewater Engineers,근접,재판정 합의,근접,occ2,1,9,,7
+23040102,환경·에너지·안전,환경서비스,환경경영,환경시설운영,17-3025.00,Environmental Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,5,3,1,
+23040103,환경·에너지·안전,환경서비스,환경경영,환경관리,17-2081.00,Environmental Engineers,근접,재판정 합의,근접,occ2,3,1,5,1
+23040103,환경·에너지·안전,환경서비스,환경경영,환경관리,17-3025.00,Environmental Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,5,1,
+23040103,환경·에너지·안전,환경서비스,환경경영,환경관리,19-2041.03,Industrial Ecologists,근접,재판정 합의,근접,occ2,1,,,
+23040201,환경·에너지·안전,환경서비스,환경평가,환경영향평가,19-2041.00,"Environmental Scientists and Specialists, Including Health",좁음,핵심,,occ2,,4,3,5
+23040201,환경·에너지·안전,환경서비스,환경평가,환경영향평가,19-2041.02,Environmental Restoration Planners,근접,재판정 합의,근접,occ2,2,,8,
+23040202,환경·에너지·안전,환경서비스,환경평가,환경조사분석,19-2041.00,"Environmental Scientists and Specialists, Including Health",좁음,핵심,,occ2,5,1,1,1
+23040202,환경·에너지·안전,환경서비스,환경평가,환경조사분석,19-4042.00,"Environmental Science and Protection Technicians, Including Health",좁음,핵심,,occ2,,4,2,
+23050101,환경·에너지·안전,에너지·자원,광산조사·탐사,광산지질조사,19-2042.00,"Geoscientists, Except Hydrologists and Geographers",좁음,핵심,,occ2,1,2,1,1
+23050102,환경·에너지·안전,에너지·자원,광산조사·탐사,지구물리·화학탐사,19-2042.00,"Geoscientists, Except Hydrologists and Geographers",좁음,핵심,,occ2,2,2,2,1
+23050102,환경·에너지·안전,에너지·자원,광산조사·탐사,지구물리·화학탐사,19-4043.00,"Geological Technicians, Except Hydrologic Technicians",좁음,핵심,,occ2,1,,1,
+23050103,환경·에너지·안전,에너지·자원,광산조사·탐사,석유시추,17-2171.00,Petroleum Engineers,좁음,핵심,,occ2,2,1,7,1
+23050104,환경·에너지·안전,에너지·자원,광산조사·탐사,광물시추,47-5023.00,"Earth Drillers, Except Oil and Gas",좁음,핵심,,occ2,1,3,1,
+23050201,환경·에너지·안전,에너지·자원,광물·석유자원개발·생산,광물자원개발·생산,17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",좁음,핵심,,occ2,2,1,,2
+23050201,환경·에너지·안전,에너지·자원,광물·석유자원개발·생산,광물자원개발·생산,47-5023.00,"Earth Drillers, Except Oil and Gas",넓음,핵심,,occ2,5,3,4,
+23050202,환경·에너지·안전,에너지·자원,광물·석유자원개발·생산,석유자원개발·생산,17-2171.00,Petroleum Engineers,좁음,핵심,,occ2,1,1,4,1
+23050203,환경·에너지·안전,에너지·자원,광물·석유자원개발·생산,자원처리,51-9011.00,Chemical Equipment Operators and Tenders,근접,재판정 합의,근접,occ2,,,3,
+23050301,환경·에너지·안전,에너지·자원,광산환경관리,광해조사,19-4042.00,"Environmental Science and Protection Technicians, Including Health",좁음,핵심,,occ2,9,2,2,7
+23050302,환경·에너지·안전,에너지·자원,광산환경관리,광해복원,11-9199.11,Brownfield Redevelopment Specialists and Site Managers,근접,재판정 합의,근접,occ2,1,,3,
+23050302,환경·에너지·안전,에너지·자원,광산환경관리,광해복원,17-3025.00,Environmental Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,8,,1,
+23050302,환경·에너지·안전,에너지·자원,광산환경관리,광해복원,19-2041.02,Environmental Restoration Planners,근접,재판정 합의,근접,occ2,3,2,,
+23050401,환경·에너지·안전,에너지·자원,광산보안,광산보안관리,17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",좁음,핵심,,occ2,1,1,10,4
+23050401,환경·에너지·안전,에너지·자원,광산보안,광산보안관리,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,3,,3,
+23050401,환경·에너지·안전,에너지·자원,광산보안,광산보안관리,19-5012.00,Occupational Health and Safety Technicians,좁음,핵심,,occ2,,,1,
+23050402,환경·에너지·안전,에너지·자원,광산보안,화약류관리,47-5032.00,"Explosives Workers, Ordnance Handling Experts, and Blasters",좁음,핵심,,occ2,2,5,1,3
+23050501,환경·에너지·안전,에너지·자원,재생에너지,태양광에너지생산,47-2231.00,Solar Photovoltaic Installers,넓음,재판정 합의,넓음,occ2,1,1,1,2
+23050501,환경·에너지·안전,에너지·자원,재생에너지,태양광에너지생산,17-2071.00,Electrical Engineers,근접,재판정 합의,근접,occ2,,,3,
+23050501,환경·에너지·안전,에너지·자원,재생에너지,태양광에너지생산,17-2199.11,Solar Energy Systems Engineers,근접,재판정 합의,넓음,occ2,3,4,6,7
+23050501,환경·에너지·안전,에너지·자원,재생에너지,태양광에너지생산,41-4011.07,Solar Sales Representatives and Assessors,근접,재판정 합의,근접,occ2,4,,,
+23050501,환경·에너지·안전,에너지·자원,재생에너지,태양광에너지생산,47-1011.03,Solar Energy Installation Managers,근접,재판정 합의,넓음,occ2,2,3,2,
+23050502,환경·에너지·안전,에너지·자원,재생에너지,태양열에너지생산,17-2141.00,Mechanical Engineers,좁음,재판정 합의,근접,occ1,,,1,
+23050502,환경·에너지·안전,에너지·자원,재생에너지,태양열에너지생산,47-2152.04,Solar Thermal Installers and Technicians,넓음,핵심,,occ1,5,1,,1
+23050504,환경·에너지·안전,에너지·자원,재생에너지,바이오에너지생산,51-8013.03,Biomass Plant Technicians,넓음,재판정 합의,넓음,occ2,4,1,3,1
+23050504,환경·에너지·안전,에너지·자원,재생에너지,바이오에너지생산,51-8099.01,Biofuels Processing Technicians,넓음,재판정 합의,넓음,occ2,1,3,1,3
+23050504,환경·에너지·안전,에너지·자원,재생에너지,바이오에너지생산,11-3051.03,Biofuels Production Managers,근접,재판정 합의,넓음,occ2,2,2,2,2
+23050504,환경·에너지·안전,에너지·자원,재생에너지,바이오에너지생산,11-3051.04,Biomass Power Plant Managers,근접,재판정 합의,넓음,occ2,5,7,5,
+23050504,환경·에너지·안전,에너지·자원,재생에너지,바이오에너지생산,11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,근접,재판정 합의,근접,occ2,3,4,4,6
+23050505,환경·에너지·안전,에너지·자원,재생에너지,해양에너지생산,17-2199.03,"Energy Engineers, Except Wind and Solar",좁음,핵심,,occ2,,3,,8
+23050506,환경·에너지·안전,에너지·자원,재생에너지,풍력에너지생산,17-2199.10,Wind Energy Engineers,넓음,재판정 합의,넓음,occ2,1,1,,
+23050506,환경·에너지·안전,에너지·자원,재생에너지,풍력에너지생산,49-9081.00,Wind Turbine Service Technicians,넓음,재판정 합의,넓음,occ2,3,2,,5
+23050506,환경·에너지·안전,에너지·자원,재생에너지,풍력에너지생산,11-9199.10,Wind Energy Development Managers,근접,재판정 합의,근접,occ2,2,4,,
+23050506,환경·에너지·안전,에너지·자원,재생에너지,풍력에너지생산,17-2071.00,Electrical Engineers,근접,재판정 합의,근접,occ2,,,2,
+23050506,환경·에너지·안전,에너지·자원,재생에너지,풍력에너지생산,17-2141.00,Mechanical Engineers,근접,재판정 합의,근접,occ2,,,1,
+23050506,환경·에너지·안전,에너지·자원,재생에너지,풍력에너지생산,17-3027.00,Mechanical Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,9,,3,
+23050507,환경·에너지·안전,에너지·자원,재생에너지,폐자원에너지생산,17-3025.00,Environmental Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,3,
+23050507,환경·에너지·안전,에너지·자원,재생에너지,폐자원에너지생산,51-8013.00,Power Plant Operators,근접,재판정 합의,근접,occ2,,,2,6
+23050507,환경·에너지·안전,에너지·자원,재생에너지,폐자원에너지생산,51-8013.03,Biomass Plant Technicians,근접,재판정 합의,근접,occ2,1,2,4,1
+23050508,환경·에너지·안전,에너지·자원,재생에너지,지열에너지생산·활용,47-2152.00,"Plumbers, Pipefitters, and Steamfitters",근접,재판정 합의,근접,occ2,4,,,5
+23050508,환경·에너지·안전,에너지·자원,재생에너지,지열에너지생산·활용,49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",근접,재판정 합의,근접,occ2,5,7,4,4
+23050508,환경·에너지·안전,에너지·자원,재생에너지,지열에너지생산·활용,49-9099.01,Geothermal Technicians,근접,재판정 합의,근접,occ2,1,2,2,1
+23050601,환경·에너지·안전,에너지·자원,에너지관리,에너지절약서비스,17-2199.03,"Energy Engineers, Except Wind and Solar",좁음,핵심,,occ2,2,3,2,2
+23050602,환경·에너지·안전,에너지·자원,에너지관리,건물에너지관리시스템운영관리,17-2199.03,"Energy Engineers, Except Wind and Solar",근접,재판정 합의,근접,occ2,2,,2,10
+23050602,환경·에너지·안전,에너지·자원,에너지관리,건물에너지관리시스템운영관리,47-4011.01,Energy Auditors,근접,재판정 합의,근접,occ2,1,1,1,1
+23050701,환경·에너지·안전,에너지·자원,신에너지,연료전지에너지생산,17-2071.00,Electrical Engineers,근접,재판정 합의,근접,occ2,5,,1,
+23050701,환경·에너지·안전,에너지·자원,신에너지,연료전지에너지생산,17-2141.00,Mechanical Engineers,근접,재판정 합의,근접,occ2,,,3,
+23050701,환경·에너지·안전,에너지·자원,신에너지,연료전지에너지생산,17-2141.01,Fuel Cell Engineers,근접,재판정 합의,근접,occ2,1,1,,2
+23050702,환경·에너지·안전,에너지·자원,신에너지,수소연료전지제조,17-2141.01,Fuel Cell Engineers,좁음,핵심,,occ2,1,1,1,1
+23050703,환경·에너지·안전,에너지·자원,신에너지,수소공급,51-8091.00,Chemical Plant and System Operators,근접,재판정 합의,근접,occ2,,,2,4
+23050703,환경·에너지·안전,에너지·자원,신에너지,수소공급,51-8092.00,Gas Plant Operators,근접,재판정 합의,근접,occ2,6,,1,
+23050703,환경·에너지·안전,에너지·자원,신에너지,수소공급,53-7071.00,Gas Compressor and Gas Pumping Station Operators,근접,재판정 합의,근접,occ2,,2,5,8
+23060100,환경·에너지·안전,산업안전보건,산업안전관리,산업안전관리공통직무,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,1,2,3,5
+23060101,환경·에너지·안전,산업안전보건,산업안전관리,기계안전관리,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",좁음,핵심,,occ2,1,3,1,
+23060101,환경·에너지·안전,산업안전보건,산업안전관리,기계안전관리,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,3,,3,9
+23060101,환경·에너지·안전,산업안전보건,산업안전관리,기계안전관리,19-5012.00,Occupational Health and Safety Technicians,좁음,핵심,,occ2,2,,2,
+23060102,환경·에너지·안전,산업안전보건,산업안전관리,전기안전관리,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",좁음,핵심,,occ2,,10,1,
+23060102,환경·에너지·안전,산업안전보건,산업안전관리,전기안전관리,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,6,,3,
+23060102,환경·에너지·안전,산업안전보건,산업안전관리,전기안전관리,19-5012.00,Occupational Health and Safety Technicians,좁음,핵심,,occ2,,,2,
+23060103,환경·에너지·안전,산업안전보건,산업안전관리,건설안전관리,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",좁음,핵심,,occ2,8,1,1,
+23060103,환경·에너지·안전,산업안전보건,산업안전관리,건설안전관리,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,4,,3,
+23060103,환경·에너지·안전,산업안전보건,산업안전관리,건설안전관리,19-5012.00,Occupational Health and Safety Technicians,좁음,핵심,,occ2,6,,2,
+23060104,환경·에너지·안전,산업안전보건,산업안전관리,화공안전관리,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",좁음,핵심,,occ2,6,1,1,10
+23060104,환경·에너지·안전,산업안전보건,산업안전관리,화공안전관리,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,3,6,2,3
+23060104,환경·에너지·안전,산업안전보건,산업안전관리,화공안전관리,19-5012.00,Occupational Health and Safety Technicians,좁음,핵심,,occ2,10,8,3,
+23060105,환경·에너지·안전,산업안전보건,산업안전관리,가스안전관리,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",좁음,핵심,,occ2,5,3,2,
+23060106,환경·에너지·안전,산업안전보건,산업안전관리,방사선측정평가,19-4051.02,Nuclear Monitoring Technicians,넓음,재판정 합의,근접,occ2,3,1,,1
+23060107,환경·에너지·안전,산업안전보건,산업안전관리,원자력발전소해체방사성폐기물관리,47-4041.00,Hazardous Materials Removal Workers,좁음,핵심,,occ2,4,2,3,1
+23060201,환경·에너지·안전,산업안전보건,산업보건관리,산업보건관리,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,1,2,3,1
+23060202,환경·에너지·안전,산업안전보건,산업보건관리,근로자작업환경관리,19-5011.00,Occupational Health and Safety Specialists,좁음,핵심,,occ2,4,1,7,3
+23060202,환경·에너지·안전,산업안전보건,산업보건관리,근로자작업환경관리,19-5012.00,Occupational Health and Safety Technicians,좁음,핵심,,occ2,1,2,4,1
+23060301,환경·에너지·안전,산업안전보건,비파괴검사,비파괴검사,17-3029.01,Non-Destructive Testing Specialists,좁음,핵심,,occ2,1,1,,1
+23060302,환경·에너지·안전,산업안전보건,비파괴검사,방사선비파괴검사,17-3029.01,Non-Destructive Testing Specialists,좁음,핵심,,occ2,3,1,10,1
+23060303,환경·에너지·안전,산업안전보건,비파괴검사,초음파비파괴검사,17-3029.01,Non-Destructive Testing Specialists,좁음,핵심,,occ2,2,1,7,1
+23060304,환경·에너지·안전,산업안전보건,비파괴검사,자기비파괴검사,17-3029.01,Non-Destructive Testing Specialists,좁음,핵심,,occ2,1,1,6,1
+23060304,환경·에너지·안전,산업안전보건,비파괴검사,자기비파괴검사,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,,10,1,8
+23060305,환경·에너지·안전,산업안전보건,비파괴검사,침투비파괴검사,17-3029.01,Non-Destructive Testing Specialists,좁음,핵심,,occ2,5,1,6,1
+23060306,환경·에너지·안전,산업안전보건,비파괴검사,와전류비파괴검사,17-3029.01,Non-Destructive Testing Specialists,좁음,핵심,,occ2,1,1,5,1
+23060306,환경·에너지·안전,산업안전보건,비파괴검사,와전류비파괴검사,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",좁음,핵심,,occ2,,7,2,
+23060307,환경·에너지·안전,산업안전보건,비파괴검사,누설비파괴검사,17-3029.01,Non-Destructive Testing Specialists,좁음,핵심,,occ1,6,1,,
+23060308,환경·에너지·안전,산업안전보건,비파괴검사,특수비파괴검사,17-3029.01,Non-Destructive Testing Specialists,좁음,핵심,,occ2,1,1,6,1
+24010101,농림어업,농업,작물재배,수도작재배,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,2,1,3,1
+24010102,농림어업,농업,작물재배,전작재배,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,3,1,3,1
+24010102,농림어업,농업,작물재배,전작재배,37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",넓음,핵심,,occ2,8,3,,
+24010103,농림어업,농업,작물재배,채소재배,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,3,1,3,1
+24010103,농림어업,농업,작물재배,채소재배,45-2091.00,Agricultural Equipment Operators,넓음,핵심,,occ2,9,2,,2
+24010104,농림어업,농업,작물재배,과수재배,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,3,1,3,1
+24010104,농림어업,농업,작물재배,과수재배,37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",넓음,핵심,,occ2,,3,,
+24010105,농림어업,농업,작물재배,화훼재배,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,4,1,3,1
+24010105,농림어업,농업,작물재배,화훼재배,37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",넓음,핵심,,occ2,8,2,,
+24010106,농림어업,농업,작물재배,버섯재배,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,9,1,6,1
+24010107,농림어업,농업,작물재배,특용작물재배,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,3,2,3,1
+24010107,농림어업,농업,작물재배,특용작물재배,37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",넓음,핵심,,occ2,7,1,,
+24010108,농림어업,농업,작물재배,시설원예,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",좁음,핵심,,occ1,1,7,1,4
+24010109,농림어업,농업,작물재배,유기재배,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,3,1,3,1
+24010202,농림어업,농업,종자생산·유통,육종,19-1029.03,Geneticists,근접,재판정 합의,근접,occ2,4,,8,
+24010202,농림어업,농업,종자생산·유통,육종,19-4012.00,Agricultural Technicians,근접,재판정 합의,근접,occ2,6,7,2,8
+24010203,농림어업,농업,종자생산·유통,종자생산,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,7,3,4,1
+24010204,농림어업,농업,종자생산·유통,종자유통보급,11-2021.00,Marketing Managers,근접,재판정 합의,근접,occ2,5,,5,
+24010204,농림어업,농업,종자생산·유통,종자유통보급,13-1161.00,Market Research Analysts and Marketing Specialists,근접,재판정 합의,근접,occ2,3,,7,
+24010302,농림어업,농업,농촌개발,농촌체험시설운영,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",근접,재판정 합의,근접,occ2,5,4,2,2
+24010302,농림어업,농업,농촌개발,농촌체험시설운영,39-9032.00,Recreation Workers,근접,재판정 합의,근접,occ2,1,,4,
+24010303,농림어업,농업,농촌개발,농업환경개선,19-1013.00,Soil and Plant Scientists,근접,재판정 합의,근접,occ2,1,,1,1
+24010303,농림어업,농업,농촌개발,농업환경개선,19-1031.00,Conservation Scientists,근접,재판정 합의,근접,occ2,4,,5,2
+24010303,농림어업,농업,농촌개발,농업환경개선,19-4012.01,Precision Agriculture Technicians,근접,재판정 합의,근접,occ2,2,,3,
+24010304,농림어업,농업,농촌개발,농산물품질관리,45-2041.00,"Graders and Sorters, Agricultural Products",넓음,핵심,,occ2,3,1,,8
+24010401,농림어업,농업,화훼장식,단위화훼장식,27-1023.00,Floral Designers,일치,핵심,,occ2,1,4,2,5
+24010402,농림어업,농업,화훼장식,공간화훼장식,27-1023.00,Floral Designers,좁음,핵심,,occ2,1,2,4,2
+24020101,농림어업,축산,축산자원개발,사료생산,13-1021.00,"Buyers and Purchasing Agents, Farm Products",근접,재판정 합의,근접,occ2,8,,3,
+24020101,농림어업,축산,축산자원개발,사료생산,19-1011.00,Animal Scientists,근접,재판정 합의,근접,occ2,2,8,,
+24020101,농림어업,축산,축산자원개발,사료생산,51-3092.00,Food Batchmakers,근접,재판정 합의,근접,occ2,,2,,5
+24020102,농림어업,축산,축산자원개발,종축,45-2021.00,Animal Breeders,일치,핵심,,occ2,1,6,1,2
+24020103,농림어업,축산,축산자원개발,동물용의약품제조,11-3051.01,Quality Control Systems Managers,근접,재판정 합의,근접,occ2,,,2,
+24020103,농림어업,축산,축산자원개발,동물용의약품제조,19-4021.00,Biological Technicians,근접,재판정 합의,근접,occ2,3,,1,
+24020103,농림어업,축산,축산자원개발,동물용의약품제조,19-4031.00,Chemical Technicians,근접,재판정 합의,근접,occ2,4,,,
+24020103,농림어업,축산,축산자원개발,동물용의약품제조,19-4099.01,Quality Control Analysts,근접,재판정 합의,근접,occ2,8,,3,
+24020104,농림어업,축산,축산자원개발,수의서비스,29-1131.00,Veterinarians,일치,핵심,,occ2,1,3,1,1
+24020105,농림어업,축산,축산자원개발,동물보건,29-2056.00,Veterinary Technologists and Technicians,일치,핵심,,occ2,1,5,1,4
+24020106,농림어업,축산,축산자원개발,애완동물미용,39-2021.00,Animal Caretakers,좁음,핵심,,occ1,1,1,3,1
+24020107,농림어업,축산,축산자원개발,말이용,39-2011.00,Animal Trainers,근접,재판정 합의,근접,occ2,1,8,1,1
+24020107,농림어업,축산,축산자원개발,말이용,39-2021.00,Animal Caretakers,근접,재판정 합의,근접,occ2,3,,4,4
+24020107,농림어업,축산,축산자원개발,말이용,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",근접,재판정 합의,근접,occ2,,1,10,2
+24020108,농림어업,축산,축산자원개발,반려동물행동교정,39-2011.00,Animal Trainers,좁음,핵심,,occ2,1,1,2,1
+24020201,농림어업,축산,사육관리,젖소사육,45-2021.00,Animal Breeders,좁음,핵심,,occ2,1,2,1,9
+24020201,농림어업,축산,사육관리,젖소사육,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",좁음,핵심,,occ2,4,1,4,1
+24020202,농림어업,축산,사육관리,돼지사육,45-2021.00,Animal Breeders,좁음,핵심,,occ2,1,3,2,4
+24020202,농림어업,축산,사육관리,돼지사육,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",좁음,핵심,,occ2,8,1,9,1
+24020203,농림어업,축산,사육관리,가금사육,45-2021.00,Animal Breeders,좁음,핵심,,occ2,1,5,2,5
+24020203,농림어업,축산,사육관리,가금사육,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",좁음,핵심,,occ2,4,1,6,1
+24020204,농림어업,축산,사육관리,한우사육,45-2021.00,Animal Breeders,좁음,핵심,,occ2,1,5,1,9
+24020204,농림어업,축산,사육관리,한우사육,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",좁음,핵심,,occ2,5,1,5,1
+24020205,농림어업,축산,사육관리,말사육,45-2021.00,Animal Breeders,좁음,핵심,,occ2,1,5,1,8
+24020205,농림어업,축산,사육관리,말사육,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",좁음,핵심,,occ2,,1,3,1
+24020206,농림어업,축산,사육관리,곤충사육,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",좁음,핵심,,occ1,2,,1,
+24030101,농림어업,임업,산림자원조성,임업종묘,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,7,2,5,2
+24030102,농림어업,임업,산림자원조성,산림조성,19-1032.00,Foresters,좁음,핵심,,occ2,1,6,6,1
+24030102,농림어업,임업,산림자원조성,산림조성,37-3013.00,Tree Trimmers and Pruners,넓음,핵심,,occ2,3,,,
+24030102,농림어업,임업,산림자원조성,산림조성,45-4021.00,Fallers,넓음,핵심,,occ2,5,,,
+24030201,농림어업,임업,산림관리,산림개발,11-9021.00,Construction Managers,근접,재판정 합의,근접,occ2,,,1,
+24030201,농림어업,임업,산림관리,산림개발,47-4011.00,Construction and Building Inspectors,근접,재판정 합의,근접,occ2,,,2,
+24030202,농림어업,임업,산림관리,산림보호,19-1032.00,Foresters,좁음,핵심,,occ2,1,,10,1
+24030202,농림어업,임업,산림관리,산림보호,33-2022.00,Forest Fire Inspectors and Prevention Specialists,넓음,핵심,,occ2,3,4,,6
+24030301,농림어업,임업,임산물생산·가공,임산물생산,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",좁음,핵심,,occ2,3,3,3,2
+24030302,농림어업,임업,임산물생산·가공,목재가공,51-7041.00,"Sawing Machine Setters, Operators, and Tenders, Wood",넓음,재판정 합의,근접,occ2,1,8,,
+24030303,농림어업,임업,임산물생산·가공,펄프·종이제조,17-3026.00,Industrial Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,3,
+24040101,농림어업,수산,어업,원양어업,45-3031.00,Fishing and Hunting Workers,좁음,핵심,,occ2,1,2,2,2
+24040102,농림어업,수산,어업,근해어업,45-3031.00,Fishing and Hunting Workers,좁음,핵심,,occ1,1,2,1,1
+24040103,농림어업,수산,어업,연안어업,45-3031.00,Fishing and Hunting Workers,좁음,핵심,,occ2,1,1,1,1
+24040104,농림어업,수산,어업,내수면어업,45-3031.00,Fishing and Hunting Workers,좁음,핵심,,occ2,1,2,1,1
+24040201,농림어업,수산,양식,해면양식,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",좁음,핵심,,occ2,8,1,9,1
+24040202,농림어업,수산,양식,수산종묘생산,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",좁음,핵심,,occ2,3,1,7,1
+24040203,농림어업,수산,양식,내수면양식,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals",좁음,핵심,,occ2,6,1,9,1
+24040204,농림어업,수산,양식,스마트양식,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",좁음,핵심,,occ1,2,9,1,4
+24040301,농림어업,수산,수산자원관리,수산자원조성,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers",근접,재판정 합의,근접,occ2,,7,2,
+24040301,농림어업,수산,수산자원관리,수산자원조성,19-1029.04,Biologists,근접,재판정 합의,근접,occ2,1,,1,
+24040302,농림어업,수산,수산자원관리,수산질병관리,29-1131.00,Veterinarians,좁음,핵심,,occ2,1,4,8,4
+24040402,농림어업,수산,어촌개발,어촌체험시설운영,11-9072.00,"Entertainment and Recreation Managers, Except Gambling",좁음,핵심,,occ2,,,2,
+24040403,농림어업,수산,어촌개발,어업환경개선,11-9199.11,Brownfield Redevelopment Specialists and Site Managers,근접,재판정 합의,근접,occ2,8,,2,
+24040403,농림어업,수산,어촌개발,어업환경개선,17-2081.00,Environmental Engineers,근접,재판정 합의,근접,occ2,3,,3,1
+24040403,농림어업,수산,어촌개발,어업환경개선,17-3025.00,Environmental Engineering Technologists and Technicians,근접,재판정 합의,근접,occ2,,,1,
+24040403,농림어업,수산,어촌개발,어업환경개선,19-2041.02,Environmental Restoration Planners,근접,재판정 합의,근접,occ2,1,,,

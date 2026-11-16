@@ -5,7 +5,7 @@
 
     model = load_model()
     vecs = embed(model, ["Registered Nurses", "간호사"])
-    print(vecs @ vecs.T)  # 코사인 유사도
+    print(vecs @ vecs.T)  # 코사인 유사도 활용 유사도 측정
 """
 
 from __future__ import annotations
@@ -32,7 +32,6 @@ def load_model(
     max_seq_length: int = 512,
 ) -> SentenceTransformer:
     """모델을 불러온다. 처음 실행할 때 약 2.2GB를 내려받는다.
-
     fp16=True는 메모리를 절반으로 줄이지만 cpu에서는 쓰지 않는다.
     """
     device = device or pick_device()

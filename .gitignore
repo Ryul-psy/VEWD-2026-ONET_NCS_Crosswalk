@@ -10,4 +10,14 @@ data-NCS/ncs_ksa_criteria.csv
 
 # GitHub 파일 크기 제한(100MB)을 넘어 저장소 밖에서 따로 공유하는 자료
 data-NCS/NCS-DB(2026-02).xlsx
-data-ONET/01_ONET_DB_31.0/json/work_context.json
+
+# embed_texts.py가 다시 만드는 임베딩 (약 0.9GB)
+data-ONET-NCS/*/embeddings/
+data-ONET-NCS/*/embed_log.txt
+
+# build_crosswalk.py가 다시 만드는 수행준거 → Task 연계표 (100MB 안팎)와 계산 중간 파일
+data-ONET-NCS/crosswalk/ncs_onet_task_OC.csv
+data-ONET-NCS/crosswalk/ncs_onet_task_FN.csv
+data-ONET-NCS/crosswalk/work/
+data-ONET-NCS/crosswalk/build.log
+data-ONET-NCS/crosswalk/build.pid
